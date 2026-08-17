@@ -31708,6 +31708,29 @@
     "founders": [
       "David Nandwa (CEO)"
     ],
+    "operatingCountries": [
+      "Kenya",
+      "Tanzania",
+      "Uganda",
+      "Rwanda",
+      "Ethiopia",
+      "Nigeria",
+      "Ghana",
+      "Benin",
+      "Liberia",
+      "Sierra Leone",
+      "Gambia",
+      "Cameroon",
+      "Democratic Republic of Congo",
+      "Zambia",
+      "Malawi",
+      "Botswana",
+      "Mozambique",
+      "Zimbabwe",
+      "Lesotho",
+      "Egypt",
+      "South Sudan"
+    ],
     "investors": [
       "4DX Ventures",
       "Antler",
@@ -31763,10 +31786,10 @@
       "reason": "No Series A or later round on record (Africa Fintech Deal Register (Aug 2023-Aug 2026))"
     },
     "stage4": {
-      "pass": false,
-      "reason": "HQ/base = Kenya; no multi-market evidence found",
+      "pass": true,
+      "reason": "Operates in 21 African markets per honeycoin.app/coverage — clears the 3+ African markets bar",
       "autoPass": false,
-      "multiMarketSignal": false
+      "multiMarketSignal": true
     },
     "stage5": {
       "pass": null,
@@ -31778,8 +31801,8 @@
         "note": ""
       },
       "geography3Markets": {
-        "active": false,
-        "note": ""
+        "active": true,
+        "note": "Operational in 21 African markets (source: honeycoin.app/coverage)"
       },
       "fintechPivot": {
         "active": false,
@@ -65722,8 +65745,8 @@
         "note": ""
       },
       "syndicateJudgment": {
-        "active": false,
-        "note": ""
+        "active": true,
+        "note": "Good enough syndicate — First Circle Capital, 54 Collective and Techstars form a credible pre-seed fintech syndicate"
       }
     },
     "cutStage": null,

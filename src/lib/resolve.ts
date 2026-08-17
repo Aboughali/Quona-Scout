@@ -196,7 +196,14 @@ export function resolveCompany(raw: Company, edits: EditsStore, fundIndex: Map<s
   const autoGate = computeSyndicateGate(resolvedForGate, fundIndex, metricsIndex);
   const strongSyndicateField = edits[id]?.['classifications.strongSyndicate'];
   const syndicateRes = resolveClassification(raw, edits, 'classifications.strongSyndicate', autoGate.pass);
-  const strongSyndicate = strongSyndicateField ? syndicateRes.value : autoGate.pass;
+  // A seed-baked investor-judgment promotion carried in the dataset itself
+  // (overrides.syndicateJudgment) -- the Stage-5 analogue of overrides.geography3Markets /
+  // fintechPivot for the earlier stages (see getFieldDefault in fields.ts). It stands in for a
+  // live strongSyndicate edit so a deliberate judgment call survives a fresh browser or a deploy
+  // with an empty localStorage, but a live edit still supersedes it (same precedence as the ETL
+  // overrides upstream: the localStorage edit layer always wins when present).
+  const seedSyndicateJudgment = raw.overrides?.syndicateJudgment?.active === true;
+  const strongSyndicate = strongSyndicateField ? syndicateRes.value : (autoGate.pass || seedSyndicateJudgment);
   const syndicateOverridden = !!strongSyndicateField?.isOverridden && !syndicateRes.superseded;
   const stage5Pass = passedContent && strongSyndicate;
   const stage5Reason = syndicateRes.superseded
@@ -205,7 +212,9 @@ export function resolveCompany(raw: Company, edits: EditsStore, fundIndex: Map<s
       ? `Investor judgment: ${strongSyndicate ? 'Strong syndicate confirmed' : 'Syndicate rejected'} — ${strongSyndicateField!.history.at(-1)?.reason ?? ''}`
       : autoGate.pass
         ? `Automated: qualifying anchor ${autoGate.qualifyingInvestor}`
-        : 'Automated: no named investor met the binary syndicate-strength rubric';
+        : seedSyndicateJudgment
+          ? `Investor judgment: Strong syndicate confirmed — ${raw.overrides.syndicateJudgment.note}`
+          : 'Automated: no named investor met the binary syndicate-strength rubric';
 
   return {
     ...raw,
