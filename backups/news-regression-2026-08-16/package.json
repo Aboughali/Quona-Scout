@@ -1,0 +1,37 @@
+{
+  "name": "quona-scout",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "oxlint",
+    "preview": "vite preview",
+    "scan": "node scripts/scan/cli.mjs",
+    "scan:dry": "node scripts/scan/cli.mjs --dry-run",
+    "scan:enrich": "node scripts/scan/enrichCli.mjs",
+    "scan:backfill": "node scripts/scan/backfillCli.mjs",
+    "scan:verify": "node scripts/scan/verifyCli.mjs",
+    "scan:promote": "node scripts/scan/promoteCli.mjs",
+    "scan:discard": "node scripts/scan/discardCli.mjs",
+    "test:safety": "node --test scripts/scan/safety.test.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.117.1",
+    "fflate": "^0.8.3",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/node": "^24.13.3",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.4",
+    "oxlint": "^1.75.0",
+    "tailwindcss": "^4.3.3",
+    "typescript": "~6.0.2",
+    "vite": "^8.2.0"
+  }
+}

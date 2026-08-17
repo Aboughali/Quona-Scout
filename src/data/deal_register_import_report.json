@@ -1,0 +1,39 @@
+{
+  "register_rows_read": 23,
+  "rows_skipped_non_data": 1,
+  "matched_existing_company": 11,
+  "matched_via_parenthetical": 1,
+  "new_companies_added": 11,
+  "rounds_added": 17,
+  "rounds_merged_same_event": 6,
+  "fields_enriched": 19,
+  "conflicts_flagged": 1,
+  "new_company_names": [
+    "HoneyCoin",
+    "Munify",
+    "Flend",
+    "Daya",
+    "Stabyl",
+    "Kayko",
+    "Sika Financial",
+    "Street Wallet",
+    "Zazu",
+    "Kalispot",
+    "Moment"
+  ],
+  "conflicts": [
+    {
+      "company": "Enza",
+      "field": "amountUsdM",
+      "existing": 6.8,
+      "register": 6.75
+    }
+  ],
+  "flagged_for_review": [
+    {
+      "register_name": "MoneyHash (pre-Series A)",
+      "merged_into": "MoneyHash",
+      "why": "Register name carries a trailing round-label qualifier; merged onto the base company rather than creating a duplicate."
+    }
+  ]
+}

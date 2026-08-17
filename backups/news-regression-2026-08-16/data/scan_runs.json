@@ -1,0 +1,428 @@
+[
+  {
+    "startedAt": "2026-08-14T18:01:07.934Z",
+    "finishedAt": "2026-08-14T18:01:08.094Z",
+    "trigger": "manual",
+    "dryRun": false,
+    "only": [
+      "Disrupt Africa"
+    ],
+    "findingsAdded": 0,
+    "sourceResults": [
+      {
+        "name": "Disrupt Africa",
+        "status": "error",
+        "reason": "Apify actor apify~rss-scraper failed with HTTP 404. {\n  \"error\": {\n    \"type\": \"record-not-found\",\n    \"message\": \"Actor with this name was not found\"\n  }\n}",
+        "kept": 0
+      }
+    ]
+  },
+  {
+    "startedAt": "2026-08-14T18:08:31.522Z",
+    "finishedAt": "2026-08-14T18:08:33.935Z",
+    "trigger": "manual",
+    "dryRun": false,
+    "only": [
+      "Disrupt Africa",
+      "TechCabal",
+      "Wamda"
+    ],
+    "findingsAdded": 39,
+    "sourceResults": [
+      {
+        "name": "TechCabal",
+        "status": "ok",
+        "fetched": 10,
+        "kept": 10,
+        "skippedDuplicate": 0,
+        "skippedIrrelevant": 0,
+        "skippedOld": 0,
+        "scannedAt": "2026-08-14T18:08:31.523Z"
+      },
+      {
+        "name": "Disrupt Africa",
+        "status": "ok",
+        "fetched": 10,
+        "kept": 9,
+        "skippedDuplicate": 0,
+        "skippedIrrelevant": 1,
+        "skippedOld": 0,
+        "scannedAt": "2026-08-14T18:08:31.523Z"
+      },
+      {
+        "name": "Wamda",
+        "status": "ok",
+        "fetched": 20,
+        "kept": 20,
+        "skippedDuplicate": 0,
+        "skippedIrrelevant": 0,
+        "skippedOld": 0,
+        "scannedAt": "2026-08-14T18:08:31.523Z"
+      }
+    ]
+  },
+  {
+    "startedAt": "2026-08-14T18:10:54.748Z",
+    "finishedAt": "2026-08-14T18:10:56.693Z",
+    "trigger": "manual",
+    "dryRun": false,
+    "only": [
+      "Disrupt Africa",
+      "TechCabal",
+      "Wamda"
+    ],
+    "findingsAdded": 0,
+    "sourceResults": [
+      {
+        "name": "TechCabal",
+        "status": "ok",
+        "fetched": 10,
+        "kept": 0,
+        "skippedDuplicate": 10,
+        "skippedIrrelevant": 0,
+        "skippedOld": 0,
+        "scannedAt": "2026-08-14T18:10:54.756Z"
+      },
+      {
+        "name": "Disrupt Africa",
+        "status": "ok",
+        "fetched": 10,
+        "kept": 0,
+        "skippedDuplicate": 9,
+        "skippedIrrelevant": 1,
+        "skippedOld": 0,
+        "scannedAt": "2026-08-14T18:10:54.756Z"
+      },
+      {
+        "name": "Wamda",
+        "status": "ok",
+        "fetched": 20,
+        "kept": 0,
+        "skippedDuplicate": 20,
+        "skippedIrrelevant": 0,
+        "skippedOld": 0,
+        "scannedAt": "2026-08-14T18:10:54.756Z"
+      }
+    ]
+  },
+  {
+    "startedAt": "2026-08-15T09:10:15.866Z",
+    "finishedAt": "2026-08-15T09:12:50.386Z",
+    "trigger": "manual",
+    "dryRun": false,
+    "only": null,
+    "findingsAdded": 36,
+    "sourceResults": [
+      {
+        "name": "TechCabal",
+        "status": "ok",
+        "fetched": 10,
+        "kept": 0,
+        "skippedDuplicate": 10,
+        "skippedIrrelevant": 0,
+        "skippedOld": 0,
+        "scannedAt": "2026-08-15T09:10:15.866Z"
+      },
+      {
+        "name": "Disrupt Africa",
+        "status": "ok",
+        "fetched": 10,
+        "kept": 0,
+        "skippedDuplicate": 9,
+        "skippedIrrelevant": 1,
+        "skippedOld": 0,
+        "scannedAt": "2026-08-15T09:10:15.866Z"
+      },
+      {
+        "name": "Techpoint Africa",
+        "status": "error",
+        "reason": "HTTP 403",
+        "kept": 0
+      },
+      {
+        "name": "Wamda",
+        "status": "ok",
+        "fetched": 20,
+        "kept": 0,
+        "skippedDuplicate": 20,
+        "skippedIrrelevant": 0,
+        "skippedOld": 0,
+        "scannedAt": "2026-08-15T09:10:15.866Z"
+      },
+      {
+        "name": "Africa: The Big Deal",
+        "status": "error",
+        "reason": "HTTP 404",
+        "kept": 0
+      },
+      {
+        "name": "TechAfrica News",
+        "status": "ok",
+        "fetched": 12,
+        "kept": 10,
+        "skippedDuplicate": 0,
+        "skippedIrrelevant": 2,
+        "skippedOld": 0,
+        "scannedAt": "2026-08-15T09:10:15.866Z"
+      },
+      {
+        "name": "TechCrunch",
+        "status": "ok",
+        "fetched": 20,
+        "kept": 0,
+        "skippedDuplicate": 0,
+        "skippedIrrelevant": 20,
+        "skippedOld": 0,
+        "scannedAt": "2026-08-15T09:10:15.866Z"
+      },
+      {
+        "name": "FinTech Futures",
+        "status": "error",
+        "reason": "HTTP 403",
+        "kept": 0
+      },
+      {
+        "name": "Africa Private Equity News",
+        "status": "ok",
+        "fetched": 20,
+        "kept": 20,
+        "skippedDuplicate": 0,
+        "skippedIrrelevant": 0,
+        "skippedOld": 0,
+        "scannedAt": "2026-08-15T09:10:15.866Z"
+      },
+      {
+        "name": "Enterprise (EnterpriseAM)",
+        "status": "error",
+        "reason": "Apify actor apify~website-content-crawler failed with HTTP 400. {\n  \"error\": {\n    \"type\": \"run-failed\",\n    \"message\": \"Actor run did not succeed (run ID: huonWqy1sjgMvBcOZ, status: FAILED).\"\n  }\n}",
+        "kept": 0
+      },
+      {
+        "name": "Y Combinator",
+        "status": "error",
+        "reason": "Apify actor apify~website-content-crawler failed with HTTP 400. {\n  \"error\": {\n    \"type\": \"run-failed\",\n    \"message\": \"Actor run did not succeed (run ID: YwXg0fLjNqHnn6Pb2, status: FAILED).\"\n  }\n}",
+        "kept": 0
+      },
+      {
+        "name": "CIO Africa",
+        "status": "ok",
+        "fetched": 20,
+        "kept": 6,
+        "skippedDuplicate": 0,
+        "skippedIrrelevant": 14,
+        "skippedOld": 0,
+        "scannedAt": "2026-08-15T09:10:15.866Z"
+      },
+      {
+        "name": "Business Insider Africa",
+        "status": "error",
+        "reason": "Apify actor apify~website-content-crawler failed with HTTP 400. {\n  \"error\": {\n    \"type\": \"run-failed\",\n    \"message\": \"Actor run did not succeed (run ID: 8iMDHlZpdHf44WVyb, status: FAILED).\"\n  }\n}",
+        "kept": 0
+      },
+      {
+        "name": "Fintech Global",
+        "status": "ok",
+        "fetched": 10,
+        "kept": 0,
+        "skippedDuplicate": 0,
+        "skippedIrrelevant": 10,
+        "skippedOld": 0,
+        "scannedAt": "2026-08-15T09:10:15.866Z"
+      },
+      {
+        "name": "PYMNTS",
+        "status": "ok",
+        "fetched": 10,
+        "kept": 0,
+        "skippedDuplicate": 0,
+        "skippedIrrelevant": 10,
+        "skippedOld": 0,
+        "scannedAt": "2026-08-15T09:10:15.866Z"
+      },
+      {
+        "name": "500 Global",
+        "status": "error",
+        "reason": "Apify actor apify~website-content-crawler failed with HTTP 400. {\n  \"error\": {\n    \"type\": \"run-failed\",\n    \"message\": \"Actor run did not succeed (run ID: NVc3U8Z9Cg5uwr56c, status: FAILED).\"\n  }\n}",
+        "kept": 0
+      },
+      {
+        "name": "Plug and Play",
+        "status": "error",
+        "reason": "Apify actor apify~website-content-crawler failed with HTTP 400. {\n  \"error\": {\n    \"type\": \"run-failed\",\n    \"message\": \"Actor run did not succeed (run ID: 4dgRBB9cuQlQnfMDQ, status: FAILED).\"\n  }\n}",
+        "kept": 0
+      },
+      {
+        "name": "Partech Africa",
+        "status": "error",
+        "reason": "Apify actor apify~website-content-crawler failed with HTTP 400. {\n  \"error\": {\n    \"type\": \"run-failed\",\n    \"message\": \"Actor run did not succeed (run ID: P5mAgeYv2Eaav4shI, status: FAILED).\"\n  }\n}",
+        "kept": 0
+      }
+    ]
+  },
+  {
+    "startedAt": "2026-08-15T22:37:18.812Z",
+    "finishedAt": "2026-08-15T22:50:44.350Z",
+    "trigger": "backfill",
+    "dryRun": false,
+    "scope": "watchlist",
+    "findingsAdded": 148,
+    "sourceResults": [
+      {
+        "name": "TechCabal",
+        "requests": 48,
+        "kept": 16,
+        "errors": 0,
+        "status": "ok"
+      },
+      {
+        "name": "Disrupt Africa",
+        "requests": 47,
+        "kept": 53,
+        "errors": 1,
+        "status": "ok"
+      },
+      {
+        "name": "Techpoint Africa",
+        "requests": 47,
+        "kept": 25,
+        "errors": 1,
+        "status": "ok"
+      },
+      {
+        "name": "TechCrunch",
+        "requests": 47,
+        "kept": 10,
+        "errors": 1,
+        "status": "ok"
+      },
+      {
+        "name": "Africa Private Equity News",
+        "requests": 0,
+        "kept": 0,
+        "errors": 48,
+        "status": "error"
+      },
+      {
+        "name": "CIO Africa",
+        "requests": 48,
+        "kept": 2,
+        "errors": 0,
+        "status": "ok"
+      },
+      {
+        "name": "Fintech Global",
+        "requests": 48,
+        "kept": 34,
+        "errors": 0,
+        "status": "ok"
+      },
+      {
+        "name": "PYMNTS",
+        "requests": 48,
+        "kept": 8,
+        "errors": 0,
+        "status": "ok"
+      }
+    ],
+    "stats": {
+      "companiesSearched": 48,
+      "requests": 333,
+      "candidates": 2619,
+      "kept": 148,
+      "skippedDuplicate": 61,
+      "skippedIrrelevant": 2410,
+      "errors": 51,
+      "byTier": {
+        "founder": 85,
+        "headline": 31,
+        "sustained": 18,
+        "headline-corroborated": 9,
+        "domain": 5
+      },
+      "companiesWithHits": 33
+    }
+  },
+  {
+    "startedAt": "2026-08-15T22:55:50.140Z",
+    "finishedAt": "2026-08-15T23:07:30.194Z",
+    "trigger": "backfill",
+    "dryRun": false,
+    "scope": "watchlist",
+    "findingsAdded": 134,
+    "sourceResults": [
+      {
+        "name": "TechCabal",
+        "requests": 48,
+        "kept": 16,
+        "errors": 0,
+        "status": "ok"
+      },
+      {
+        "name": "Disrupt Africa",
+        "requests": 48,
+        "kept": 53,
+        "errors": 0,
+        "status": "ok"
+      },
+      {
+        "name": "Techpoint Africa",
+        "requests": 48,
+        "kept": 25,
+        "errors": 0,
+        "status": "ok"
+      },
+      {
+        "name": "TechCrunch",
+        "requests": 48,
+        "kept": 9,
+        "errors": 0,
+        "status": "ok"
+      },
+      {
+        "name": "Africa Private Equity News",
+        "requests": 48,
+        "kept": 0,
+        "errors": 0,
+        "status": "ok"
+      },
+      {
+        "name": "CIO Africa",
+        "requests": 48,
+        "kept": 2,
+        "errors": 0,
+        "status": "ok"
+      },
+      {
+        "name": "Fintech Global",
+        "requests": 48,
+        "kept": 23,
+        "errors": 0,
+        "status": "ok"
+      },
+      {
+        "name": "PYMNTS",
+        "requests": 48,
+        "kept": 6,
+        "errors": 0,
+        "status": "ok"
+      }
+    ],
+    "stats": {
+      "companiesSearched": 48,
+      "requests": 384,
+      "candidates": 2622,
+      "kept": 134,
+      "skippedDuplicate": 60,
+      "skippedIrrelevant": 2428,
+      "errors": 0,
+      "byTier": {
+        "founder": 85,
+        "headline": 19,
+        "sustained": 16,
+        "headline-corroborated": 9,
+        "domain": 5
+      },
+      "companiesWithHits": 31
+    }
+  }
+]

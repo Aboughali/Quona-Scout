@@ -1,0 +1,2856 @@
+[
+  {
+    "signal_id": "sig_new_naran_round_msuzpw56",
+    "signal_type": "new-company-discovered",
+    "company_key": "new:naran",
+    "company_id": null,
+    "company_name": "Naran",
+    "company_match_confidence": 0,
+    "company_match_rationale": "No company in the database matches \"Naran\". Candidate for a new company record.",
+    "round_type": null,
+    "funding_amount": 10,
+    "currency": "USD",
+    "event_date": null,
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.6,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_wamda_com_http_wamda_com_2026_08_mobility_fintech_naran_secures_10_million_debt_equity_fin_mst9gcjq",
+        "source": "Wamda",
+        "url": "http://wamda.com/2026/08/mobility-fintech-naran-secures-10-million-debt-equity-financing",
+        "headline": "Mobility fintech Naran secures $10 million in debt-equity financing",
+        "published_date": null,
+        "confidence": 0.7
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.418Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "medium",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_new_arab_therapy_PreSeriesA_msuzpw5b",
+    "signal_type": "new-company-discovered",
+    "company_key": "new:arab therapy",
+    "company_id": null,
+    "company_name": "Arab Therapy",
+    "company_match_confidence": 0,
+    "company_match_rationale": "No company in the database matches \"Arab Therapy\". Candidate for a new company record.",
+    "round_type": "Pre-Series A",
+    "funding_amount": 2,
+    "currency": "USD",
+    "event_date": null,
+    "investors": [
+      "Manara Ventures",
+      "Anara Impact Fund",
+      "Value Makers Studio VMS"
+    ],
+    "lead_investor": "Manara Ventures",
+    "confidence": 0.6,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_wamda_com_http_wamda_com_2026_08_arab_therapy_closes_2_million_pre_series_a_mst9gcjq",
+        "source": "Wamda",
+        "url": "http://wamda.com/2026/08/arab-therapy-closes-2-million-pre-series-a",
+        "headline": "Arab Therapy closes $2 million pre-Series A",
+        "published_date": null,
+        "confidence": 1
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.423Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "medium",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_new_ahl_africa_credit_fund_round_msuzpw5v",
+    "signal_type": "new-company-discovered",
+    "company_key": "new:ahl africa credit fund",
+    "company_id": null,
+    "company_name": "AHL Africa Credit Fund",
+    "company_match_confidence": 0,
+    "company_match_rationale": "No company in the database matches \"AHL Africa Credit Fund\". Candidate for a new company record.",
+    "round_type": null,
+    "funding_amount": 15,
+    "currency": "USD",
+    "event_date": "2026-08-06T10:55:37.000Z",
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.6,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_africaprivateequitynews_com_https_www_africaprivateequitynews_com_p_ahl_africa_credit_fund_msu5o240",
+        "source": "Africa Private Equity News",
+        "url": "https://www.africaprivateequitynews.com/p/ahl-africa-credit-fund-raises-further",
+        "headline": "AHL Africa Credit Fund raises further $15m",
+        "published_date": "2026-08-06T10:55:37.000Z",
+        "confidence": 0.7
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.443Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "medium",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_accrue_Seed_msuzpw5y",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:accrue",
+    "company_id": "accrue",
+    "company_name": "Accrue",
+    "company_match_confidence": 0.9,
+    "company_match_rationale": "Exact name match on \"Accrue\". Retrieved by archive search for \"Accrue\" (founder evidence).",
+    "round_type": "Seed",
+    "funding_amount": 1.58,
+    "currency": "USD",
+    "event_date": "2025-01-31T08:00:04.000Z",
+    "investors": [
+      "Lattice Fund",
+      "Distributed Capital",
+      "Lava",
+      "Maven 11"
+    ],
+    "lead_investor": "Lattice Fund",
+    "confidence": 0.96,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2025_01_31_nigerias_accrue_raises_1_58m_seed_rou_msuz5vix",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2025/01/31/nigerias-accrue-raises-1-58m-seed-round-to-boost-cross-border-payment-solutions/",
+        "headline": "Nigeria’s Accrue raises $1.58m seed round to boost cross-border payment solutions",
+        "published_date": "2025-01-31T08:00:04.000Z",
+        "confidence": 1
+      },
+      {
+        "finding_id": "f_techpoint_africa_https_techpoint_africa_news_accrue_raises_1_58_million_seed_round_msuz5wuw",
+        "source": "Techpoint Africa",
+        "url": "https://techpoint.africa/news/accrue-raises-1-58-million-seed-round/",
+        "headline": "Nigerian fintech startup Accrue raises $1.58 million seed round",
+        "published_date": "2025-01-24T14:03:02.000Z",
+        "confidence": 0.9
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.446Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 2
+  },
+  {
+    "signal_id": "sig_id_bokra_Preseed_msuzpw63",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:bokra",
+    "company_id": "bokra",
+    "company_name": "Bokra",
+    "company_match_confidence": 0.92,
+    "company_match_rationale": "Exact name match on \"Bokra\". Retrieved by archive search for \"Bokra\" (headline evidence).",
+    "round_type": "Pre-seed",
+    "funding_amount": 4.6,
+    "currency": "USD",
+    "event_date": "2024-04-25T06:00:40.000Z",
+    "investors": [
+      "DisrupTech Ventures",
+      "SS Capital"
+    ],
+    "lead_investor": "DisrupTech Ventures",
+    "confidence": 0.97,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2024_04_25_egypts_bokra_raises_4_6m_pre_seed_rou_msuz6srd",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2024/04/25/egypts-bokra-raises-4-6m-pre-seed-round-to-democratise-wealth-management-in-mena/",
+        "headline": "Egypt’s Bokra raises $4.6m pre-seed round to democratise wealth management in MENA",
+        "published_date": "2024-04-25T06:00:40.000Z",
+        "confidence": 1
+      },
+      {
+        "finding_id": "f_techpoint_africa_https_techpoint_africa_news_egyptian_fintech_bokra_raises_preseed_msuz6tw5",
+        "source": "Techpoint Africa",
+        "url": "https://techpoint.africa/news/egyptian-fintech-bokra-raises-preseed/",
+        "headline": "Egyptian fintech Bokra raises $4.6 million in pre-seed for wealth expansion",
+        "published_date": "2024-04-22T14:03:23.000Z",
+        "confidence": 0.9
+      },
+      {
+        "finding_id": "f_wamda_com_https_www_wamda_com_2024_04_egyptian_fintech_bokra_raises_4_6_million_pre_seed_r_msw589mj",
+        "source": "Wamda",
+        "url": "https://www.wamda.com/2024/04/egyptian-fintech-bokra-raises-4-6-million-pre-seed-round",
+        "headline": "Egyptian fintech Bokra raises $4.6 million pre-Seed round",
+        "published_date": "2024-04-22T12:00:00.000Z",
+        "confidence": 0.9
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.451Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 3
+  },
+  {
+    "signal_id": "sig_id_bokra_round_msuzpw66",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:bokra",
+    "company_id": "bokra",
+    "company_name": "Bokra",
+    "company_match_confidence": 0.92,
+    "company_match_rationale": "Exact name match on \"Bokra\". Retrieved by archive search for \"Bokra\" (headline evidence).",
+    "round_type": null,
+    "funding_amount": 4.6,
+    "currency": "USD",
+    "event_date": "2024-04-23T06:36:43.000Z",
+    "investors": [
+      "DisrupTech Ventures",
+      "SS Capital"
+    ],
+    "lead_investor": "DisrupTech Ventures",
+    "confidence": 0.8,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_fintech_global_https_fintech_global_2024_04_23_cairo_based_fintech_bokra_secures_4_6m_to_r_msuz74vg",
+        "source": "Fintech Global",
+        "url": "https://fintech.global/2024/04/23/cairo-based-fintech-bokra-secures-4-6m-to-revolutionise-wealthtech-in-mena/",
+        "headline": "Cairo-based FinTech Bokra secures $4.6m to revolutionise WealthTech in MENA",
+        "published_date": "2024-04-23T06:36:43.000Z",
+        "confidence": 0.8
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.454Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_enza_round_msuzpw68",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:enza",
+    "company_id": "enza",
+    "company_name": "Enza",
+    "company_match_confidence": 0.85,
+    "company_match_rationale": "Exact name match on \"Enza\". Retrieved by archive search for \"Enza\" (headline-corroborated evidence).",
+    "round_type": null,
+    "funding_amount": 58,
+    "currency": "USD",
+    "event_date": "2023-09-29T08:00:14.000Z",
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.8200000000000001,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2023_09_29_pan_african_vc_firm_enza_capital_clos_msuz8qb3",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2023/09/29/pan-african-vc-firm-enza-capital-closes-58m-fund-ii/",
+        "headline": "Pan-African VC firm Enza Capital closes $58m Fund II",
+        "published_date": "2023-09-29T08:00:14.000Z",
+        "confidence": 0.7
+      },
+      {
+        "finding_id": "f_techpoint_africa_https_techpoint_africa_insight_techpoint_digest_681_msuz8rj6",
+        "source": "Techpoint Africa",
+        "url": "https://techpoint.africa/insight/techpoint-digest-681/",
+        "headline": "Enza Capital closes $58m across two funds",
+        "published_date": "2023-09-29T05:00:00.000Z",
+        "confidence": 0.7
+      },
+      {
+        "finding_id": "f_fintech_global_https_fintech_global_2023_09_28_enza_capital_closes_impressive_58m_funding__msw5krfb",
+        "source": "Fintech Global",
+        "url": "https://fintech.global/2023/09/28/enza-capital-closes-impressive-58m-funding-debuts-innovative-founder-partner-programme/",
+        "headline": "Enza Capital closes impressive $58m funding, debuts innovative founder partner programme",
+        "published_date": "2023-09-28T06:02:34.000Z",
+        "confidence": 0.7
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.456Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 3
+  },
+  {
+    "signal_id": "sig_id_flapkap_PreSeriesA_msuzpw6f",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:flapkap",
+    "company_id": "flapkap",
+    "company_name": "FlapKap",
+    "company_match_confidence": 0.9,
+    "company_match_rationale": "Exact name match on \"FlapKap\". Retrieved by archive search for \"FlapKap\" (founder evidence).",
+    "round_type": "Pre-Series A",
+    "funding_amount": 34,
+    "currency": "USD",
+    "event_date": "2024-09-09T06:00:00.000Z",
+    "investors": [
+      "BECO Capital"
+    ],
+    "lead_investor": "BECO Capital",
+    "confidence": 0.97,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_techpoint_africa_https_techpoint_africa_news_egypt_born_flapkap_raises_pre_seriesa_msuz99tk",
+        "source": "Techpoint Africa",
+        "url": "https://techpoint.africa/news/egypt-born-flapkap-raises-pre-seriesa/",
+        "headline": "Egypt-born FlapKap raises $34 million pre-series A to scale SME financing across MENA",
+        "published_date": "2024-09-09T06:00:00.000Z",
+        "confidence": 1
+      },
+      {
+        "finding_id": "f_fintech_global_https_fintech_global_2024_09_09_flapkap_raises_34m_in_pre_series_a_funding__msuz9dnj",
+        "source": "Fintech Global",
+        "url": "https://fintech.global/2024/09/09/flapkap-raises-34m-in-pre-series-a-funding-to-transform-sme-financing-in-mena/",
+        "headline": "FlapKap raises $34m in pre-Series A funding to transform SME financing in MENA",
+        "published_date": "2024-09-09T12:30:09.000Z",
+        "confidence": 1
+      },
+      {
+        "finding_id": "f_wamda_com_https_www_wamda_com_2024_09_flapkap_secures_34_million_pre_series_a_mix_debt_equ_msw589mn",
+        "source": "Wamda",
+        "url": "https://www.wamda.com/2024/09/flapkap-secures-34-million-pre-series-a-mix-debt-equity",
+        "headline": "FlapKap secures $34 million pre-Series A in a mix of debt ...",
+        "published_date": "2024-09-10T12:00:00.000Z",
+        "confidence": 0.9
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.463Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 3
+  },
+  {
+    "signal_id": "sig_id_flend_Seed_msuzpw6g",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:flend",
+    "company_id": "flend",
+    "company_name": "Flend",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"Flend\".",
+    "round_type": "Seed",
+    "funding_amount": 3,
+    "currency": "USD",
+    "event_date": "2025-07-23T08:00:23.000Z",
+    "investors": [
+      "Egypt Ventures",
+      "Camel Ventures",
+      "Sukna Ventures",
+      "Banque Misr",
+      "Baalbaki"
+    ],
+    "lead_investor": "Egypt Ventures",
+    "confidence": 0.97,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2025_07_23_egyptian_sme_lending_startup_flend_ra_msuz9hcr",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2025/07/23/egyptian-sme-lending-startup-flend-raises-3m-seed-funding/",
+        "headline": "Egyptian SME lending startup Flend raises $3m seed funding",
+        "published_date": "2025-07-23T08:00:23.000Z",
+        "confidence": 1
+      },
+      {
+        "finding_id": "f_wamda_com_https_www_wamda_com_2025_07_egypt_flend_secures_3_million_seed_expand_digital_sm_msw589mr",
+        "source": "Wamda",
+        "url": "https://www.wamda.com/2025/07/egypt-flend-secures-3-million-seed-expand-digital-sme-financing",
+        "headline": "Egypt's Flend secures $3 million seed to expand digital ...",
+        "published_date": "2025-07-22T12:00:00.000Z",
+        "confidence": 0.9
+      },
+      {
+        "finding_id": "f_techafricanews_com_https_techafricanews_com_2025_07_22_egypts_flend_secures_3_million_seed_msw589mr",
+        "source": "TechAfrica News",
+        "url": "https://techafricanews.com/2025/07/22/egypts-flend-secures-3-million-seed-funding-to-boost-sme-lending/",
+        "headline": "Egypt's Flend Secures $3 Million Seed Funding to Boost ...",
+        "published_date": "2025-07-22T12:00:00.000Z",
+        "confidence": 0.9
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.464Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 3
+  },
+  {
+    "signal_id": "sig_id_float_round_msuzpw6h",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:float",
+    "company_id": "float",
+    "company_name": "Float",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"Float\".",
+    "round_type": null,
+    "funding_amount": 2.6,
+    "currency": "USD",
+    "event_date": "2025-09-12T05:00:26.000Z",
+    "investors": [
+      "Invenfin",
+      "SAAD Investment Holdings",
+      "Remgro’s venture"
+    ],
+    "lead_investor": "Invenfin",
+    "confidence": 0.8600000000000001,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2025_09_12_sa_fintech_startup_float_raises_2_6m__msuz9rah",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2025/09/12/sa-fintech-startup-float-raises-2-6m-funding-to-scale/",
+        "headline": "SA fintech startup Float raises $2.6m funding to scale",
+        "published_date": "2025-09-12T05:00:26.000Z",
+        "confidence": 0.8
+      },
+      {
+        "finding_id": "f_fintech_global_https_fintech_global_2025_09_11_south_africas_float_raises_2_6m_to_fuel_exp_msuz9x2d",
+        "source": "Fintech Global",
+        "url": "https://fintech.global/2025/09/11/south-africas-float-raises-2-6m-to-fuel-expansion/",
+        "headline": "South Africa’s Float raises $2.6m to fuel expansion",
+        "published_date": "2025-09-11T12:37:01.000Z",
+        "confidence": 0.8
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.465Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 2
+  },
+  {
+    "signal_id": "sig_id_float_round_msuzpw6i",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:float",
+    "company_id": "float",
+    "company_name": "Float",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"Float\".",
+    "round_type": null,
+    "funding_amount": 11,
+    "currency": "USD",
+    "event_date": "2024-03-21T06:00:59.000Z",
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.7,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2024_03_21_sa_fintech_startup_float_secures_11m__msuz9rah",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2024/03/21/sa-fintech-startup-float-secures-11m-funding-facility-from-standard-bank/",
+        "headline": "SA fintech startup Float secures $11m funding facility from Standard Bank",
+        "published_date": "2024-03-21T06:00:59.000Z",
+        "confidence": 0.7
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.466Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "medium",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_happy_pay_Seed_msuzpw6o",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:happy-pay",
+    "company_id": "happy-pay",
+    "company_name": "Happy Pay",
+    "company_match_confidence": 0.9,
+    "company_match_rationale": "Exact name match on \"Happy Pay\". Retrieved by archive search for \"Happy Pay\" (founder evidence).",
+    "round_type": "Seed",
+    "funding_amount": 5,
+    "currency": "USD",
+    "event_date": "2026-03-23T06:00:03.000Z",
+    "investors": [
+      "Futuregrowth Asset Management",
+      "4Di Capital",
+      "E4E Africa",
+      "Equitable Ventures",
+      "Felix Strategic Investments"
+    ],
+    "lead_investor": null,
+    "confidence": 0.96,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2026_03_23_sas_happy_pay_raises_5m_seed_round_to_msuzab8w",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2026/03/23/sas-happy-pay-raises-5m-seed-round-to-scale-ad-subsidised-payments-network/",
+        "headline": "SA’s Happy Pay raises $5m seed round to scale ad-subsidised payments network",
+        "published_date": "2026-03-23T06:00:03.000Z",
+        "confidence": 1
+      },
+      {
+        "finding_id": "f_partechpartners_com_https_partechpartners_com_news_south_africas_happy_pay_raises_5m_seed__msw589mo",
+        "source": "Partech Africa",
+        "url": "https://partechpartners.com/news/south-africas-happy-pay-raises-5m-seed-round-led-by-partech",
+        "headline": "South Africa's Happy Pay raises $5M Seed Round led by ...",
+        "published_date": "2026-03-22T12:00:00.000Z",
+        "confidence": 0.9
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.472Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 2
+  },
+  {
+    "signal_id": "sig_id_happy_pay_round_msuzpw6q",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:happy-pay",
+    "company_id": "happy-pay",
+    "company_name": "Happy Pay",
+    "company_match_confidence": 0.9,
+    "company_match_rationale": "Exact name match on \"Happy Pay\". Retrieved by archive search for \"Happy Pay\" (founder evidence).",
+    "round_type": null,
+    "funding_amount": 1.8,
+    "currency": "USD",
+    "event_date": "2024-09-18T08:12:13.000Z",
+    "investors": [
+      "E4E Africa",
+      "4Di Capital",
+      "DotExe Ventures",
+      "Launch Africa",
+      "Equitable Ventures",
+      "Felix Strategic Investment"
+    ],
+    "lead_investor": "E4E Africa",
+    "confidence": 0.8600000000000001,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_cioafrica_co_https_cioafrica_co_south_african_fintech_happy_pay_secures_1_8m_funding_msuzafg8",
+        "source": "CIO Africa",
+        "url": "https://cioafrica.co/south-african-fintech-happy-pay-secures-1-8m-funding/",
+        "headline": "South African Fintech Happy Pay Secures $1.8M Funding",
+        "published_date": "2024-09-18T08:12:13.000Z",
+        "confidence": 0.8
+      },
+      {
+        "finding_id": "f_techpoint_africa_https_techpoint_africa_news_south_africas_happy_pay_raises_funding_msw4a98r",
+        "source": "Techpoint Africa",
+        "url": "https://techpoint.africa/news/south-africas-happy-pay-raises-funding/",
+        "headline": "South Africa’s Happy Pay raises $1.8 million to boost growth and expand offerings",
+        "published_date": "2024-09-17T14:46:37.000Z",
+        "confidence": 0.8
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.474Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 2
+  },
+  {
+    "signal_id": "sig_id_leasesurance_Seed_msuzpw6r",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:leasesurance",
+    "company_id": "leasesurance",
+    "company_name": "LeaseSurance",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"LeaseSurance\".",
+    "round_type": "Seed",
+    "funding_amount": 0.16,
+    "currency": "USD",
+    "event_date": "2023-08-31T08:00:16.000Z",
+    "investors": [
+      "Fedgroup Private Capital"
+    ],
+    "lead_investor": "Fedgroup Private Capital",
+    "confidence": 0.98,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2023_08_31_sa_insurtech_startup_leasesurance_rai_msuzbdsc",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2023/08/31/sa-insurtech-startup-leasesurance-raises-161k-seed-funding-to-drive-growth-innovation/",
+        "headline": "SA insurtech startup LeaseSurance raises $161k seed funding to drive growth, innovation",
+        "published_date": "2023-08-31T08:00:16.000Z",
+        "confidence": 1
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.475Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_mnzl_Seed_msuzpw6t",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:mnzl",
+    "company_id": "mnzl",
+    "company_name": "MNZL",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"MNZL\".",
+    "round_type": "Seed",
+    "funding_amount": 3.5,
+    "currency": "USD",
+    "event_date": "2024-05-14T05:00:43.000Z",
+    "investors": [
+      "P1 Ventures",
+      "Localglobe",
+      "Ingressive Capital"
+    ],
+    "lead_investor": "P1 Ventures",
+    "confidence": 0.97,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2024_05_14_egyptian_fintech_startup_mnzl_raises__msuzc24j",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2024/05/14/egyptian-fintech-startup-mnzl-raises-3-5m-seed-funding-round-to-scale/",
+        "headline": "Egyptian fintech startup MNZL raises $3.5m seed funding round to scale",
+        "published_date": "2024-05-14T05:00:43.000Z",
+        "confidence": 1
+      },
+      {
+        "finding_id": "f_wamda_com_https_www_wamda_com_2024_05_egypt_mnzl_raises_3_5_million_seed_led_p1_ventures_msw589ms",
+        "source": "Wamda",
+        "url": "https://www.wamda.com/2024/05/egypt-mnzl-raises-3-5-million-seed-led-p1-ventures",
+        "headline": "Egypt's MNZL raises $3.5 million Seed led by P1 Ventures",
+        "published_date": "2024-05-09T12:00:00.000Z",
+        "confidence": 1
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.477Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 2
+  },
+  {
+    "signal_id": "sig_id_moneyhash_PreSeriesA_msuzpw6u",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:moneyhash",
+    "company_id": "moneyhash",
+    "company_name": "MoneyHash",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"MoneyHash\".",
+    "round_type": "Pre-Series A",
+    "funding_amount": 5.2,
+    "currency": "USD",
+    "event_date": "2025-01-21T10:10:30.000Z",
+    "investors": [
+      "Flourish Ventures",
+      "Arab Bank’s Xelerate Fund",
+      "Emurgo Kepple Ventures",
+      "Saudi’s Vision Ventures",
+      "Jason Gardner",
+      "COTU",
+      "RZM Investment",
+      "Github founder Tom Preston-Werner",
+      "Arab Bank’s Xelerate"
+    ],
+    "lead_investor": "Flourish Ventures",
+    "confidence": 0.97,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_techcabal_com_https_techcabal_com_2025_01_21_egyptian_fintech_moneyhash_raises_5_2_million_msuzcg7v",
+        "source": "TechCabal",
+        "url": "https://techcabal.com/2025/01/21/egyptian-fintech-moneyhash-raises-5-2-million/",
+        "headline": "Egyptian fintech MoneyHash raises $5.2 million Pre-Series A from Flourish Ventures",
+        "published_date": "2025-01-21T10:10:30.000Z",
+        "confidence": 1
+      },
+      {
+        "finding_id": "f_techpoint_africa_https_techpoint_africa_news_egypts_moneyhash_raises_preseriesa_msuzci4t",
+        "source": "Techpoint Africa",
+        "url": "https://techpoint.africa/news/egypts-moneyhash-raises-preseriesa/",
+        "headline": "Egypt’s MoneyHash raises $5.2 million in pre-Series A to unify fragmented African payment systems",
+        "published_date": "2025-01-21T12:14:14.000Z",
+        "confidence": 1
+      },
+      {
+        "finding_id": "f_wamda_com_https_www_wamda_com_2025_01_moneyhash_closes_5_2_million_pre_series_a_mea_expans_msw589mu",
+        "source": "Wamda",
+        "url": "https://www.wamda.com/2025/01/moneyhash-closes-5-2-million-pre-series-a-mea-expansion-plans",
+        "headline": "MoneyHash closes $5.2 million pre-Series A for MEA ...",
+        "published_date": "2025-01-21T12:00:00.000Z",
+        "confidence": 0.9
+      },
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2025_01_21_egyptian_payment_orchestration_platfo_msw5kvnn",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2025/01/21/egyptian-payment-orchestration-platform-moneyhash-raises-5-2m-pre-series-a-funding/",
+        "headline": "Egyptian payment orchestration platform MoneyHash raises $5.2m pre-Series A funding",
+        "published_date": "2025-01-21T06:00:17.000Z",
+        "confidence": 1
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.478Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 4
+  },
+  {
+    "signal_id": "sig_id_moneyhash_round_msuzpw70",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:moneyhash",
+    "company_id": "moneyhash",
+    "company_name": "MoneyHash",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"MoneyHash\".",
+    "round_type": null,
+    "funding_amount": 4.5,
+    "currency": "USD",
+    "event_date": "2024-02-27T02:25:33.000Z",
+    "investors": [
+      "COTU Ventures",
+      "Sukna Ventures",
+      "Rain",
+      "Tamatem",
+      "MoneyHash introduced its enterprise suite last October"
+    ],
+    "lead_investor": "COTU Ventures",
+    "confidence": 0.8,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_techcrunch_com_https_techcrunch_com_2024_02_27_moneyhash_raises_4_5m_for_its_payment_orche_msuzcjae",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2024/02/27/moneyhash-raises-4-5m-for-its-payment-orchestration-platform-serving-merchants-in-mena/",
+        "headline": "MoneyHash raises $4.5M for its payment orchestration platform serving merchants in MENA",
+        "published_date": "2024-02-27T02:25:33.000Z",
+        "confidence": 0.8
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.484Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_moneyhash_round_msuzpw72",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:moneyhash",
+    "company_id": "moneyhash",
+    "company_name": "MoneyHash",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"MoneyHash\".",
+    "round_type": null,
+    "funding_amount": 5.2,
+    "currency": "USD",
+    "event_date": "2025-01-21T09:26:01.000Z",
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.7,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_pymnts_com_https_www_pymnts_com_news_investment_tracker_2025_moneyhash_raises_5_2_million__msuzcwld",
+        "source": "PYMNTS",
+        "url": "https://www.pymnts.com/news/investment-tracker/2025/moneyhash-raises-5-2-million-for-payments-orchestration-platform/",
+        "headline": "MoneyHash Raises $5.2 Million for Payments Orchestration Platform",
+        "published_date": "2025-01-21T09:26:01.000Z",
+        "confidence": 0.7
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.486Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "medium",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_munify_Seed_msuzpw72",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:munify",
+    "company_id": "munify",
+    "company_name": "Munify",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"Munify\".",
+    "round_type": "Seed",
+    "funding_amount": 3,
+    "currency": "USD",
+    "event_date": "2025-09-02T05:00:07.000Z",
+    "investors": [
+      "Y Combinator to expedite engineering",
+      "BYLD",
+      "Digital Currency Group"
+    ],
+    "lead_investor": "Y Combinator to expedite engineering",
+    "confidence": 0.98,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2025_09_02_egyptian_fintech_startup_munify_raise_msuzcy8d",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2025/09/02/egyptian-fintech-startup-munify-raises-3m-seed-round-to-expedite-market-expansion/",
+        "headline": "Egyptian fintech startup Munify raises $3m seed round to expedite market expansion",
+        "published_date": "2025-09-02T05:00:07.000Z",
+        "confidence": 1
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.486Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_munify_round_msuzpw73",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:munify",
+    "company_id": "munify",
+    "company_name": "Munify",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"Munify\".",
+    "round_type": null,
+    "funding_amount": 3,
+    "currency": "USD",
+    "event_date": "2025-09-02T16:11:45.000Z",
+    "investors": [
+      "Y Combinator"
+    ],
+    "lead_investor": "Y Combinator",
+    "confidence": 0.8600000000000001,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_fintech_global_https_fintech_global_2025_09_02_munify_raises_3m_to_boost_digital_banking_f_msuzdgej",
+        "source": "Fintech Global",
+        "url": "https://fintech.global/2025/09/02/munify-raises-3m-to-boost-digital-banking-for-egyptians-abroad/",
+        "headline": "Munify raises $3m to boost digital banking for Egyptians abroad",
+        "published_date": "2025-09-02T16:11:45.000Z",
+        "confidence": 0.8
+      },
+      {
+        "finding_id": "f_techafricanews_com_https_techafricanews_com_2025_09_03_munify_secures_3_million_to_build_a_msw589mt",
+        "source": "TechAfrica News",
+        "url": "https://techafricanews.com/2025/09/03/munify-secures-3-million-to-build-a-digital-bank-for-egyptians-worldwide/",
+        "headline": "Munify Secures $3 Million to Build a Digital Bank for ...",
+        "published_date": "2025-09-03T12:00:00.000Z",
+        "confidence": 0.7
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.487Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 2
+  },
+  {
+    "signal_id": "sig_id_njiapay_Seed_msuzpw73",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:njiapay",
+    "company_id": "njiapay",
+    "company_name": "NjiaPay",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"NjiaPay\".",
+    "round_type": "Seed",
+    "funding_amount": 2.1,
+    "currency": "USD",
+    "event_date": "2026-03-09T06:00:09.000Z",
+    "investors": [
+      "European B2B SaaS investor Newion",
+      "European investor Newion",
+      "Newion"
+    ],
+    "lead_investor": "European B2B SaaS investor Newion",
+    "confidence": 0.97,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_techcabal_com_https_techcabal_com_2026_03_09_njiapay_raises_2_1_million_to_expand_msuzdvlv",
+        "source": "TechCabal",
+        "url": "https://techcabal.com/2026/03/09/njiapay-raises-2-1-million-to-expand/",
+        "headline": "South African payment routing startup NjiaPay raises $2.1 million seed round",
+        "published_date": "2026-03-09T07:46:57.000Z",
+        "confidence": 1
+      },
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2026_03_09_sa_payments_startup_njiapay_closes_2__msuzdwax",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2026/03/09/sa-payments-startup-njiapay-closes-2-1m-seed-funding-round/",
+        "headline": "SA payments startup NjiaPay closes $2.1m seed funding round",
+        "published_date": "2026-03-09T06:00:09.000Z",
+        "confidence": 1
+      },
+      {
+        "finding_id": "f_techafricanews_com_https_techafricanews_com_2026_03_09_njiapay_closes_2_1m_seed_round_to_b_msw589ms",
+        "source": "TechAfrica News",
+        "url": "https://techafricanews.com/2026/03/09/njiapay-closes-2-1m-seed-round-to-boost-payment-reliability-across-africa/",
+        "headline": "NjiaPay Closes $2.1M Seed Round to Boost Payment ...",
+        "published_date": "2026-03-09T12:00:00.000Z",
+        "confidence": 1
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.487Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 3
+  },
+  {
+    "signal_id": "sig_id_njiapay_round_msuzpw77",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:njiapay",
+    "company_id": "njiapay",
+    "company_name": "NjiaPay",
+    "company_match_confidence": 0.9,
+    "company_match_rationale": "Exact name match on \"NjiaPay\". Retrieved by archive search for \"NjiaPay\" (founder evidence).",
+    "round_type": null,
+    "funding_amount": 1,
+    "currency": "USD",
+    "event_date": "2025-01-29T06:00:43.000Z",
+    "investors": [
+      "HAVAÍC",
+      "Banxware",
+      "Maxidrive"
+    ],
+    "lead_investor": "HAVAÍC",
+    "confidence": 0.8,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2025_01_29_sas_njiapay_raises_1m_to_simplify_pay_msuzdwax",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2025/01/29/sas-njiapay-raises-1m-to-simplify-payments-for-african-businesses/",
+        "headline": "SA’s NjiaPay raises $1m to simplify payments for African businesses",
+        "published_date": "2025-01-29T06:00:43.000Z",
+        "confidence": 0.8
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.491Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_njiapay_round_msuzpw78",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:njiapay",
+    "company_id": "njiapay",
+    "company_name": "NjiaPay",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"NjiaPay\".",
+    "round_type": null,
+    "funding_amount": 2.1,
+    "currency": "USD",
+    "event_date": "2026-03-10T07:12:28.000Z",
+    "investors": [
+      "Newion"
+    ],
+    "lead_investor": "Newion",
+    "confidence": 0.8,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_fintech_global_https_fintech_global_2026_03_10_njiapay_secures_2_1m_to_scale_payment_perfo_msuze1bl",
+        "source": "Fintech Global",
+        "url": "https://fintech.global/2026/03/10/njiapay-secures-2-1m-to-scale-payment-performance-in-africa/",
+        "headline": "NjiaPay secures $2.1m to scale payment performance in Africa",
+        "published_date": "2026-03-10T07:12:28.000Z",
+        "confidence": 0.8
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.492Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_nosible_Preseed_msuzpw78",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:nosible",
+    "company_id": "nosible",
+    "company_name": "Nosible",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"Nosible\".",
+    "round_type": "Pre-seed",
+    "funding_amount": 1,
+    "currency": "USD",
+    "event_date": "2025-03-27T09:00:50.000Z",
+    "investors": [
+      "Atlantica Ventures"
+    ],
+    "lead_investor": "Atlantica Ventures",
+    "confidence": 0.98,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2025_03_27_sa_ai_startup_nosible_raises_1m_pre_s_msuze5ba",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2025/03/27/sa-ai-startup-nosible-raises-1m-pre-seed-funding/",
+        "headline": "SA AI startup NOSIBLE raises $1m pre-seed funding",
+        "published_date": "2025-03-27T09:00:50.000Z",
+        "confidence": 1
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.492Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_orca_fraud_round_msuzpw7b",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:orca-fraud",
+    "company_id": "orca-fraud",
+    "company_name": "Orca Fraud",
+    "company_match_confidence": 0.9,
+    "company_match_rationale": "Exact name match on \"Orca Fraud\". Retrieved by archive search for \"Orca Fraud\" (founder evidence).",
+    "round_type": null,
+    "funding_amount": 2.35,
+    "currency": "USD",
+    "event_date": "2026-03-10T09:00:54.000Z",
+    "investors": [
+      "Norrsken22",
+      "OneDayYes",
+      "Enza Capital",
+      "CV VC Africa"
+    ],
+    "lead_investor": "Norrsken22",
+    "confidence": 0.8600000000000001,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2026_03_10_sas_orca_fraud_raises_2_35m_to_scale__msuzeek2",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2026/03/10/sas-orca-fraud-raises-2-35m-to-scale-real-time-fraud-intelligence-across-emerging-markets/",
+        "headline": "SA’s Orca Fraud raises $2.35m to scale real-time fraud intelligence across emerging markets",
+        "published_date": "2026-03-10T09:00:54.000Z",
+        "confidence": 0.8
+      },
+      {
+        "finding_id": "f_fintech_global_https_fintech_global_2026_03_09_fraud_detection_fintech_orca_fraud_secures__msuzejxr",
+        "source": "Fintech Global",
+        "url": "https://fintech.global/2026/03/09/fraud-detection-fintech-orca-fraud-secures-2-35m/",
+        "headline": "Fraud detection FinTech Orca Fraud secures $2.35m",
+        "published_date": "2026-03-09T09:50:44.000Z",
+        "confidence": 0.7
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.495Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 2
+  },
+  {
+    "signal_id": "sig_id_orca_fraud_round_msuzpw7d",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:orca-fraud",
+    "company_id": "orca-fraud",
+    "company_name": "Orca Fraud",
+    "company_match_confidence": 0.9,
+    "company_match_rationale": "Exact name match on \"Orca Fraud\". Retrieved by archive search for \"Orca Fraud\" (founder evidence).",
+    "round_type": null,
+    "funding_amount": 0.55,
+    "currency": "USD",
+    "event_date": "2024-05-29T08:00:04.000Z",
+    "investors": [
+      "Norrsken22",
+      "First Circle Capital",
+      "Musha Ventures",
+      "Kara Ventures"
+    ],
+    "lead_investor": "Norrsken22",
+    "confidence": 0.8600000000000001,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2024_05_29_sas_orca_raises_550k_to_fight_fraud_i_msuzeek2",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2024/05/29/sas-orca-raises-550k-to-fight-fraud-in-emerging-markets/",
+        "headline": "SA’s Orca raises $550k to fight fraud in emerging markets",
+        "published_date": "2024-05-29T08:00:04.000Z",
+        "confidence": 0.8
+      },
+      {
+        "finding_id": "f_fintech_global_https_fintech_global_2024_05_24_orca_secures_e550k_to_combat_fraud_in_emerg_msuzejxs",
+        "source": "Fintech Global",
+        "url": "https://fintech.global/2024/05/24/orca-secures-e550k-to-combat-fraud-in-emerging-markets/",
+        "headline": "Orca secures €550K to combat fraud in emerging markets",
+        "published_date": "2024-05-24T12:01:14.000Z",
+        "confidence": 0.8
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.497Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 2
+  },
+  {
+    "signal_id": "sig_id_planet42_round_msuzpw7h",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:planet42",
+    "company_id": "planet42",
+    "company_name": "Planet42",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"Planet42\".",
+    "round_type": null,
+    "funding_amount": 15.8,
+    "currency": "USD",
+    "event_date": "2024-03-19T12:53:04.000Z",
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.76,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2024_03_19_sa_car_subscription_startup_planet42__msuzeo9w",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2024/03/19/sa-car-subscription-startup-planet42-raises-15-8m-funding-from-standard-bank/",
+        "headline": "SA car subscription startup Planet42 raises $15.8m funding from Standard Bank",
+        "published_date": "2024-03-19T12:53:04.000Z",
+        "confidence": 0.7
+      },
+      {
+        "finding_id": "f_techpoint_africa_https_techpoint_africa_news_planet42_secures_funding_standard_bank_msuzepax",
+        "source": "Techpoint Africa",
+        "url": "https://techpoint.africa/news/planet42-secures-funding-standard-bank/",
+        "headline": "South Africa’s Planet42 secures $16 million from Standard Bank to repay loans",
+        "published_date": "2024-03-11T11:56:03.000Z",
+        "confidence": 0.7
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.501Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 2
+  },
+  {
+    "signal_id": "sig_id_street_wallet_round_msuzpw7q",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:street-wallet",
+    "company_id": "street-wallet",
+    "company_name": "Street Wallet",
+    "company_match_confidence": 0.92,
+    "company_match_rationale": "Exact name match on \"Street Wallet\". Retrieved by archive search for \"Street Wallet\" (headline evidence).",
+    "round_type": null,
+    "funding_amount": 0.35,
+    "currency": "USD",
+    "event_date": "2025-08-18T08:00:14.000Z",
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.8200000000000001,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2025_08_18_sas_street_wallet_raises_350k_to_brin_msuzhebx",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2025/08/18/sas-street-wallet-raises-350k-to-bring-cashless-payments-to-informal-economy/",
+        "headline": "SA’s Street Wallet raises $350k to bring cashless payments to informal economy",
+        "published_date": "2025-08-18T08:00:14.000Z",
+        "confidence": 0.7
+      },
+      {
+        "finding_id": "f_techcabal_com_https_techcabal_com_2025_08_13_street_wallet_raises_350k_msw4azi8",
+        "source": "TechCabal",
+        "url": "https://techcabal.com/2025/08/13/street-wallet-raises-350k/",
+        "headline": "South Africa’s Street Wallet raises $350,000 to expand QR payments for informal traders",
+        "published_date": "2025-08-13T14:50:40.000Z",
+        "confidence": 0.7
+      },
+      {
+        "finding_id": "f_techafricanews_com_https_techafricanews_com_2025_09_01_street_wallet_secures_350k_valued_a_msw589my",
+        "source": "TechAfrica News",
+        "url": "https://techafricanews.com/2025/09/01/street-wallet-secures-350k-valued-at-2m-to-drive-financial-inclusion-in-south-africa/",
+        "headline": "Street Wallet Secures $350K, Valued at $2M, to Drive ...",
+        "published_date": "2025-09-01T12:00:00.000Z",
+        "confidence": 0.7
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.510Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 3
+  },
+  {
+    "signal_id": "sig_id_swypex_Seed_msuzpw7s",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:swypex",
+    "company_id": "swypex",
+    "company_name": "Swypex",
+    "company_match_confidence": 0.9,
+    "company_match_rationale": "Exact name match on \"Swypex\". Retrieved by archive search for \"Swypex\" (founder evidence).",
+    "round_type": "Seed",
+    "funding_amount": 4,
+    "currency": "USD",
+    "event_date": "2024-05-07T11:39:32.000Z",
+    "investors": [
+      "Accel formerly Accel Partners"
+    ],
+    "lead_investor": "Accel formerly Accel Partners",
+    "confidence": 0.9,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_techpoint_africa_https_techpoint_africa_news_egyptian_swypex_secures_seed_msuzi100",
+        "source": "Techpoint Africa",
+        "url": "https://techpoint.africa/news/egyptian-swypex-secures-seed/",
+        "headline": "Egyptian Swypex secures $4 million seed to expand its corporate card platform",
+        "published_date": "2024-05-07T11:39:32.000Z",
+        "confidence": 1
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.512Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_tembo_round_msuzpw7w",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:tembo",
+    "company_id": "tembo",
+    "company_name": "Tembo",
+    "company_match_confidence": 0.9,
+    "company_match_rationale": "Exact name match on \"Tembo\". Retrieved by archive search for \"Tembo\" (founder evidence).",
+    "round_type": null,
+    "funding_amount": 2.6,
+    "currency": "USD",
+    "event_date": "2025-08-01T12:43:42.000Z",
+    "investors": [
+      "OSS Capital",
+      "Grand Ventures",
+      "Sentry founder David Cramer",
+      "Ben Tossell of Ben’s Bites"
+    ],
+    "lead_investor": "OSS Capital",
+    "confidence": 0.8,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_fintech_global_https_fintech_global_2025_08_01_comp_ai_secures_2_6m_to_transform_soc_2_com_msuziecx",
+        "source": "Fintech Global",
+        "url": "https://fintech.global/2025/08/01/comp-ai-secures-2-6m-to-transform-soc-2-compliance/",
+        "headline": "Comp AI secures $2.6m to transform SOC 2 compliance",
+        "published_date": "2025-08-01T12:43:42.000Z",
+        "confidence": 0.8
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.516Z",
+    "updated_at": "2026-08-15T23:11:35.516Z",
+    "review_tier": "high",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_trade_shield_round_msuzpw7w",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:trade-shield",
+    "company_id": "trade-shield",
+    "company_name": "Trade Shield",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"Trade Shield\".",
+    "round_type": null,
+    "funding_amount": 0.82,
+    "currency": "USD",
+    "event_date": "2025-03-27T08:00:16.000Z",
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.7,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2025_03_27_sa_fintech_startup_trade_shield_raise_msuzisrs",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2025/03/27/sa-fintech-startup-trade-shield-raises-820k-funding-from-fnbs-vumela-enterprise-development-fund/",
+        "headline": "SA fintech startup Trade Shield raises $820k funding from FNB’s Vumela Enterprise Development Fund",
+        "published_date": "2025-03-27T08:00:16.000Z",
+        "confidence": 0.7
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.516Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "medium",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_turnstay_round_msuzpw7x",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:turnstay",
+    "company_id": "turnstay",
+    "company_name": "Turnstay",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"Turnstay\".",
+    "round_type": null,
+    "funding_amount": 2,
+    "currency": "USD",
+    "event_date": "2025-08-07T05:00:54.000Z",
+    "investors": [
+      "First Circle Capital",
+      "African VCs including TLCom Capital",
+      "Enza Capital",
+      "Incisive Ventures",
+      "CVVC",
+      "Equitable Ventures"
+    ],
+    "lead_investor": "First Circle Capital",
+    "confidence": 0.8,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2025_08_07_sa_travel_fintech_turnstay_raises_2m__msuzj366",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2025/08/07/sa-travel-fintech-turnstay-raises-2m-to-accelerate-africa-expansion/",
+        "headline": "SA travel fintech TurnStay raises $2m to accelerate Africa expansion",
+        "published_date": "2025-08-07T05:00:54.000Z",
+        "confidence": 0.8
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.517Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_turnstay_round_msuzpw7y",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:turnstay",
+    "company_id": "turnstay",
+    "company_name": "Turnstay",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"Turnstay\".",
+    "round_type": null,
+    "funding_amount": 0.3,
+    "currency": "USD",
+    "event_date": "2024-07-16T08:00:49.000Z",
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.76,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2024_07_16_sa_travel_fintech_turnstay_raises_300_msuzj367",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2024/07/16/sa-travel-fintech-turnstay-raises-300k-funding-to-expand-into-new-markets/",
+        "headline": "SA travel-fintech TurnStay raises $300k funding to expand into new markets",
+        "published_date": "2024-07-16T08:00:49.000Z",
+        "confidence": 0.7
+      },
+      {
+        "finding_id": "f_techpoint_africa_https_techpoint_africa_news_south_africas_turnstay_secures_funding_msuzj49y",
+        "source": "Techpoint Africa",
+        "url": "https://techpoint.africa/news/south-africas-turnstay-secures-funding/",
+        "headline": "South Africa’s TurnStay secures $300,000 to boost expansion in Africa",
+        "published_date": "2024-07-16T10:02:38.000Z",
+        "confidence": 0.7
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.518Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 2
+  },
+  {
+    "signal_id": "sig_id_usplus_round_msuzpw80",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:usplus",
+    "company_id": "usplus",
+    "company_name": "UsPlus",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"UsPlus\".",
+    "round_type": null,
+    "funding_amount": 2,
+    "currency": "USD",
+    "event_date": "2025-01-31T14:26:37.000Z",
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.7,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_fintech_global_https_fintech_global_2025_01_31_sme_lender_usplus_secures_2m_investment_fro_msuzjh1u",
+        "source": "Fintech Global",
+        "url": "https://fintech.global/2025/01/31/sme-lender-usplus-secures-2m-investment-from-verdant-capital-hybrid-fund/",
+        "headline": "SME lender UsPlus secures $2m investment from Verdant Capital Hybrid Fund",
+        "published_date": "2025-01-31T14:26:37.000Z",
+        "confidence": 0.7
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.520Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "medium",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_zazu_Preseed_msuzpw82",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:zazu",
+    "company_id": "zazu",
+    "company_name": "Zazu",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"Zazu\".",
+    "round_type": "Pre-seed",
+    "funding_amount": 1,
+    "currency": "USD",
+    "event_date": "2025-12-03T09:00:40.000Z",
+    "investors": [
+      "Axel Peyriere AUTO24"
+    ],
+    "lead_investor": null,
+    "confidence": 0.97,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2025_12_03_zazu_raises_1m_pre_seed_round_to_rein_msuzkflp",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2025/12/03/zazu-raises-1m-pre-seed-round-to-reinvent-sme-banking-across-africa/",
+        "headline": "Zazu raises $1m pre-seed round to reinvent SME banking across Africa",
+        "published_date": "2025-12-03T09:00:40.000Z",
+        "confidence": 1
+      },
+      {
+        "finding_id": "f_fintech_global_https_fintech_global_2025_12_05_zazu_raises_1m_pre_seed_to_expand_across_af_msuzkksb",
+        "source": "Fintech Global",
+        "url": "https://fintech.global/2025/12/05/zazu-raises-1m-pre-seed-to-expand-across-africa/",
+        "headline": "Zazu raises $1m pre-seed to expand across Africa",
+        "published_date": "2025-12-05T10:02:01.000Z",
+        "confidence": 1
+      }
+    ],
+    "created_at": "2026-08-15T23:11:35.522Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 2
+  },
+  {
+    "signal_id": "sig_id_connect_money_Seed_msw4l1cv",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:connect-money",
+    "company_id": "connect-money",
+    "company_name": "Connect Money",
+    "company_match_confidence": 0.9,
+    "company_match_rationale": "Exact name match on \"Connect Money\". Retrieved by archive search for \"Connect Money\" (founder evidence).",
+    "round_type": "Seed",
+    "funding_amount": 8,
+    "currency": "USD",
+    "event_date": "2024-06-26T05:00:58.000Z",
+    "investors": [
+      "Disruptech Ventures",
+      "Algebra Ventures",
+      "One Stop Capital",
+      "MDP"
+    ],
+    "lead_investor": "Disruptech Ventures",
+    "confidence": 0.97,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2024_06_26_egypts_connect_money_raises_8m_seed_f_msw49v3q",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2024/06/26/egypts-connect-money-raises-8m-seed-funding-to-launch-embedded-finance-platform/",
+        "headline": "Egypt’s Connect Money raises $8m seed funding to launch embedded finance platform",
+        "published_date": "2024-06-26T05:00:58.000Z",
+        "confidence": 1
+      },
+      {
+        "finding_id": "f_techpoint_africa_https_techpoint_africa_news_egypts_connect_money_closes_seed_funding_msw49wmz",
+        "source": "Techpoint Africa",
+        "url": "https://techpoint.africa/news/egypts-connect-money-closes-seed-funding/",
+        "headline": "Egypt’s Connect Money closes seed funding round of $8 million to support expansion",
+        "published_date": "2024-06-25T14:48:56.000Z",
+        "confidence": 1
+      },
+      {
+        "finding_id": "f_wamda_com_https_www_wamda_com_2024_06_connect_money_raises_8_million_seed_round_msw589mm",
+        "source": "Wamda",
+        "url": "https://www.wamda.com/2024/06/connect-money-raises-8-million-seed-round",
+        "headline": "Connect Money raises $8 million Seed round",
+        "published_date": "2024-06-25T12:00:00.000Z",
+        "confidence": 1
+      }
+    ],
+    "created_at": "2026-08-16T18:15:33.151Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 3
+  },
+  {
+    "signal_id": "sig_id_honeycoin_round_msw4l1d7",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:honeycoin",
+    "company_id": "honeycoin",
+    "company_name": "HoneyCoin",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"HoneyCoin\".",
+    "round_type": null,
+    "funding_amount": 4.9,
+    "currency": "USD",
+    "event_date": "2025-08-12T11:37:40.000Z",
+    "investors": [
+      "TLcom Capital",
+      "Stellar Development Foundation",
+      "Lava",
+      "Musha Ventures",
+      "4DX Ventures",
+      "Antler",
+      "Visa Ventures",
+      "Flourish Ventures",
+      "TLCom",
+      "James Waugh of Fire Eyes",
+      "Vasily Shapovalov"
+    ],
+    "lead_investor": "TLcom Capital",
+    "confidence": 0.9400000000000002,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_cioafrica_co_https_cioafrica_co_honeycoin_raises_4_9m_to_drive_stablecoin_payments_in_afri_msw4a3um",
+        "source": "CIO Africa",
+        "url": "https://cioafrica.co/honeycoin-raises-4-9m-to-drive-stablecoin-payments-in-africa/",
+        "headline": "Honeycoin Raises $4.9M To Drive Stablecoin Payments In Africa",
+        "published_date": "2025-08-12T11:37:40.000Z",
+        "confidence": 0.7
+      },
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2025_08_13_kenyas_honeycoin_raises_4_9m_to_trans_msw4a5s3",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2025/08/13/kenyas-honeycoin-raises-4-9m-to-transform-stablecoin-powered-payments/",
+        "headline": "Kenya’s HoneyCoin raises $4.9m to transform stablecoin-powered payments",
+        "published_date": "2025-08-13T05:00:30.000Z",
+        "confidence": 0.8
+      },
+      {
+        "finding_id": "f_techcabal_com_https_techcabal_com_2025_08_12_kenyas_honeycoin_raises_4_9_million_msw4a7m9",
+        "source": "TechCabal",
+        "url": "https://techcabal.com/2025/08/12/kenyas-honeycoin-raises-4-9-million/",
+        "headline": "Kenya’s HoneyCoin raises $4.9 million to expand stablecoin cross-border payments into new markets",
+        "published_date": "2025-08-12T06:01:09.000Z",
+        "confidence": 0.8
+      },
+      {
+        "finding_id": "f_fintech_global_https_fintech_global_2025_08_13_african_payments_platform_honeycoin_secures_msw4aggg",
+        "source": "Fintech Global",
+        "url": "https://fintech.global/2025/08/13/african-payments-platform-honeycoin-secures-4-9m-funding/",
+        "headline": "African payments platform HoneyCoin secures $4.9m funding",
+        "published_date": "2025-08-13T12:06:47.000Z",
+        "confidence": 0.8
+      },
+      {
+        "finding_id": "f_techafricanews_com_https_techafricanews_com_2025_08_12_kenyan_fintech_honeycoin_raises_4_9_msw589mq",
+        "source": "TechAfrica News",
+        "url": "https://techafricanews.com/2025/08/12/kenyan-fintech-honeycoin-raises-4-9m-to-expand-stablecoin-payments-in-africa-and-beyond/",
+        "headline": "Kenyan Fintech HoneyCoin Raises $4.9M to Expand ...",
+        "published_date": "2025-08-12T12:00:00.000Z",
+        "confidence": 0.7
+      }
+    ],
+    "created_at": "2026-08-16T18:15:33.163Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 5
+  },
+  {
+    "signal_id": "sig_id_happy_pay_round_msw4l1dd",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:happy-pay",
+    "company_id": "happy-pay",
+    "company_name": "Happy Pay",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"Happy Pay\".",
+    "round_type": null,
+    "funding_amount": 5,
+    "currency": "USD",
+    "event_date": "2026-03-23T09:16:18.000Z",
+    "investors": [
+      "Futuregrowth Asset Management",
+      "4Di Capital",
+      "E4E Africa",
+      "Equitable Ventures",
+      "Felix Strategic Investments"
+    ],
+    "lead_investor": null,
+    "confidence": 0.8,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_techcabal_com_https_techcabal_com_2026_03_23_happy_pay_raises_5_million_to_scale_ad_suppor_msw4a5oj",
+        "source": "TechCabal",
+        "url": "https://techcabal.com/2026/03/23/happy-pay-raises-5-million-to-scale-ad-supported-bnpl-across-south-africa/",
+        "headline": "Happy Pay raises $5 million to scale ad-supported BNPL across South Africa",
+        "published_date": "2026-03-23T09:16:18.000Z",
+        "confidence": 0.8
+      }
+    ],
+    "created_at": "2026-08-16T18:15:33.169Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_revio_Seed_msw4l1e6",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:revio",
+    "company_id": "revio",
+    "company_name": "Revio",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"Revio\".",
+    "round_type": "Seed",
+    "funding_amount": 5.2,
+    "currency": "USD",
+    "event_date": "2023-09-28T05:00:34.000Z",
+    "investors": [
+      "Revio’s  – Speedinvest",
+      "RaliCap",
+      "Everywhere VC",
+      "QED Investors",
+      "Partech"
+    ],
+    "lead_investor": "QED Investors",
+    "confidence": 0.97,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2023_09_28_sa_payment_orchestration_startup_revi_msw4ahnl",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2023/09/28/sa-payment-orchestration-startup-revio-raises-5-2m-seed-round/",
+        "headline": "SA payment orchestration startup Revio raises $5.2m seed round",
+        "published_date": "2023-09-28T05:00:34.000Z",
+        "confidence": 1
+      },
+      {
+        "finding_id": "f_techcabal_com_https_techcabal_com_2023_09_28_south_african_payments_startup_revio_raises_5_msw4atjj",
+        "source": "TechCabal",
+        "url": "https://techcabal.com/2023/09/28/south-african-payments-startup-revio-raises-5-2-million-seed-round/",
+        "headline": "South African payments startup Revio raises $5.2 million seed round",
+        "published_date": "2023-09-28T09:19:18.000Z",
+        "confidence": 1
+      }
+    ],
+    "created_at": "2026-08-16T18:15:33.198Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 2
+  },
+  {
+    "signal_id": "sig_id_root_round_msw4l1e7",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:root",
+    "company_id": "root",
+    "company_name": "Root",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"Root\".",
+    "round_type": null,
+    "funding_amount": 1.5,
+    "currency": "USD",
+    "event_date": "2023-09-28T07:00:08.000Z",
+    "investors": [
+      "South Africa-based Invenfin"
+    ],
+    "lead_investor": null,
+    "confidence": 0.8,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2023_09_28_sa_insurtech_startup_root_raises_1_5m_msw4aihj",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2023/09/28/sa-insurtech-startup-root-raises-1-5m-to-accelerate-expansion-plans/",
+        "headline": "SA insurtech startup Root raises $1.5m to accelerate expansion plans",
+        "published_date": "2023-09-28T07:00:08.000Z",
+        "confidence": 0.8
+      }
+    ],
+    "created_at": "2026-08-16T18:15:33.199Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_scale_Preseed_msw4l1e7",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:scale",
+    "company_id": "scale",
+    "company_name": "Scale",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"Scale\".",
+    "round_type": "Pre-seed",
+    "funding_amount": 0.7,
+    "currency": "USD",
+    "event_date": "2024-10-09T08:00:43.000Z",
+    "investors": [
+      "First Circle Capital"
+    ],
+    "lead_investor": "First Circle Capital",
+    "confidence": 0.98,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2024_10_09_sa_fintech_startup_scale_raises_700k__msw4akog",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2024/10/09/sa-fintech-startup-scale-raises-700k-pre-seed-funding-round/",
+        "headline": "SA fintech startup Scale raises $700k pre-seed funding round",
+        "published_date": "2024-10-09T08:00:43.000Z",
+        "confidence": 1
+      }
+    ],
+    "created_at": "2026-08-16T18:15:33.199Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_settle_Preseed_msw4l1e8",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:settle",
+    "company_id": "settle",
+    "company_name": "Settle",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"Settle\".",
+    "round_type": "Pre-seed",
+    "funding_amount": 2,
+    "currency": "USD",
+    "event_date": "2024-09-30T05:00:49.000Z",
+    "investors": [
+      "Shorooq Partners"
+    ],
+    "lead_investor": "Shorooq Partners",
+    "confidence": 0.97,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2024_09_30_egyptian_fintech_startup_settle_raise_msw4aojg",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2024/09/30/egyptian-fintech-startup-settle-raises-2m-pre-seed-round-to-fund-global-growth/",
+        "headline": "Egyptian fintech startup SETTLE raises $2m pre-seed round to fund global growth",
+        "published_date": "2024-09-30T05:00:49.000Z",
+        "confidence": 1
+      },
+      {
+        "finding_id": "f_wamda_com_https_www_wamda_com_2024_09_egypt_settle_secures_2_million_pre_seed_msw589my",
+        "source": "Wamda",
+        "url": "https://www.wamda.com/2024/09/egypt-settle-secures-2-million-pre-seed",
+        "headline": "Egypt's SETTLE secures $2 million pre-Seed",
+        "published_date": "2024-09-18T12:00:00.000Z",
+        "confidence": 0.9
+      }
+    ],
+    "created_at": "2026-08-16T18:15:33.200Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 2
+  },
+  {
+    "signal_id": "sig_id_scale_round_msw4l1ef",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:scale",
+    "company_id": "scale",
+    "company_name": "Scale",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"Scale\".",
+    "round_type": null,
+    "funding_amount": 0.7,
+    "currency": "USD",
+    "event_date": "2024-10-03T12:06:19.000Z",
+    "investors": [
+      "Sunny Side Venture Partners"
+    ],
+    "lead_investor": null,
+    "confidence": 0.76,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_techcabal_com_https_techcabal_com_2024_10_03_scale_raise_pre_seed_msw4awgs",
+        "source": "TechCabal",
+        "url": "https://techcabal.com/2024/10/03/scale-raise-pre-seed/",
+        "headline": "South-African startup Scale raises $700,000 to help fintechs issue cards",
+        "published_date": "2024-10-03T12:06:19.000Z",
+        "confidence": 0.7
+      },
+      {
+        "finding_id": "f_techpoint_africa_https_techpoint_africa_news_south_africa_ca_bcs_scale_raises_funding_msw4b2p2",
+        "source": "Techpoint Africa",
+        "url": "https://techpoint.africa/news/south-africa%ca%bcs-scale-raises-funding/",
+        "headline": "South Africaʼs Scale raises $700,000, targets expansion in Kenya, Zambia",
+        "published_date": "2024-10-04T09:22:00.000Z",
+        "confidence": 0.8
+      }
+    ],
+    "created_at": "2026-08-16T18:15:33.207Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 2
+  },
+  {
+    "signal_id": "sig_id_revio_round_msw4l1ei",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:revio",
+    "company_id": "revio",
+    "company_name": "Revio",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"Revio\".",
+    "round_type": null,
+    "funding_amount": 5.2,
+    "currency": "USD",
+    "event_date": "2023-09-27T08:32:37.000Z",
+    "investors": [
+      "QED Investors",
+      "Remedial Health investments"
+    ],
+    "lead_investor": "QED Investors",
+    "confidence": 0.8,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_techpoint_africa_https_techpoint_africa_news_revio_raises_seed_round_msw4az11",
+        "source": "Techpoint Africa",
+        "url": "https://techpoint.africa/news/revio-raises-seed-round/",
+        "headline": "South African fintech, Revio raises $5.2 million to reduce failed payments for businesses",
+        "published_date": "2023-09-27T08:32:37.000Z",
+        "confidence": 0.8
+      }
+    ],
+    "created_at": "2026-08-16T18:15:33.210Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_accrue_round_msw598ir",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:accrue",
+    "company_id": "accrue",
+    "company_name": "Accrue",
+    "company_match_confidence": 0.88,
+    "company_match_rationale": "Exact name match on \"Accrue\". Retrieved by archive search for \"Accrue\" (url-slug evidence).",
+    "round_type": null,
+    "funding_amount": 25,
+    "currency": "USD",
+    "event_date": null,
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.7,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_fintechfutures_com_https_www_fintechfutures_com_digital_wealth_management_accrue_savings_r_msw589me",
+        "source": "FinTech Futures",
+        "url": "https://www.fintechfutures.com/digital-wealth-management/accrue-savings-raises-25m-to-offer-consumers-a-responsible-purchasing-option-",
+        "headline": "Accrue Savings raises $25m to offer consumers “a ...",
+        "published_date": null,
+        "confidence": 0.7
+      }
+    ],
+    "created_at": "2026-08-16T18:34:22.179Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "medium",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_enza_round_msw598iw",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:enza",
+    "company_id": "enza",
+    "company_name": "Enza",
+    "company_match_confidence": 0.8,
+    "company_match_rationale": "Exact name match on \"Enza\". Retrieved by archive search for \"Enza\" (url-slug evidence).",
+    "round_type": null,
+    "funding_amount": 3.6,
+    "currency": "USD",
+    "event_date": "2021-03-30T12:00:00.000Z",
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.7,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_partechpartners_com_https_partechpartners_com_news_tugende_secures_36m_fresh_equity_partec_msw589mk",
+        "source": "Partech Africa",
+        "url": "https://partechpartners.com/news/tugende-secures-36m-fresh-equity-partech-and-enza-help-meet-intense-demand-productive-asset-finance",
+        "headline": "Tugende secures $3.6M fresh equity from ...",
+        "published_date": "2021-03-30T12:00:00.000Z",
+        "confidence": 0.7
+      }
+    ],
+    "created_at": "2026-08-16T18:34:22.184Z",
+    "updated_at": "2026-08-16T18:46:23.298Z",
+    "review_tier": "medium",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_flapkap_Seed_msw598iz",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:flapkap",
+    "company_id": "flapkap",
+    "company_name": "FlapKap",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"FlapKap\".",
+    "round_type": "Seed",
+    "funding_amount": 3.6,
+    "currency": "USD",
+    "event_date": "2022-10-12T12:00:00.000Z",
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.9,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_wamda_com_https_www_wamda_com_en_2022_10_flapkap_closes_3_6_million_seed_round_msw589mn",
+        "source": "Wamda",
+        "url": "https://www.wamda.com/en/2022/10/flapkap-closes-3-6-million-seed-round",
+        "headline": "FlapKap closes $3.6 million Seed round",
+        "published_date": "2022-10-12T12:00:00.000Z",
+        "confidence": 0.9
+      }
+    ],
+    "created_at": "2026-08-16T18:34:22.187Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_happy_pay_Preseed_msw598j3",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:happy-pay",
+    "company_id": "happy-pay",
+    "company_name": "Happy Pay",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"Happy Pay\".",
+    "round_type": "Pre-seed",
+    "funding_amount": 1.8,
+    "currency": "USD",
+    "event_date": "2024-09-17T12:00:00.000Z",
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.9,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_techafricanews_com_https_techafricanews_com_2024_09_17_happy_pay_secures_1_8m_in_pre_seed__msw589mo",
+        "source": "TechAfrica News",
+        "url": "https://techafricanews.com/2024/09/17/happy-pay-secures-1-8m-in-pre-seed-funding-to-propel-financial-inclusion-in-south-africa/",
+        "headline": "Happy Pay Secures $1.8M in Pre-Seed Funding to Propel ...",
+        "published_date": "2024-09-17T12:00:00.000Z",
+        "confidence": 0.9
+      }
+    ],
+    "created_at": "2026-08-16T18:34:22.191Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_hedg_Preseed_msw598j3",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:hedg",
+    "company_id": "hedg",
+    "company_name": "Hedg",
+    "company_match_confidence": 0.75,
+    "company_match_rationale": "Exact name match on \"Hedg\". Held back: \"Hedg\" is also an ordinary word and this article places it nowhere in Africa -- likely a same-name company elsewhere.",
+    "round_type": "Pre-seed",
+    "funding_amount": null,
+    "currency": "USD",
+    "event_date": null,
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.7,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_wamda_com_https_www_wamda_com_en_2023_08_hedg_raises_figure_pre_seed_round_msw589mp",
+        "source": "Wamda",
+        "url": "https://www.wamda.com/en/2023/08/hedg-raises-figure-pre-seed-round",
+        "headline": "HEDG raises six-figure pre-Seed round",
+        "published_date": null,
+        "confidence": 0.7
+      }
+    ],
+    "created_at": "2026-08-16T18:34:22.191Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "medium",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_float_round_msw598jb",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:float",
+    "company_id": "float",
+    "company_name": "Float",
+    "company_match_confidence": 0.75,
+    "company_match_rationale": "Exact name match on \"Float\". Held back: \"Float\" is also an ordinary word and this article places it nowhere in Africa -- likely a same-name company elsewhere.",
+    "round_type": null,
+    "funding_amount": 73.5,
+    "currency": "USD",
+    "event_date": null,
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.76,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_fintechfutures_com_https_www_fintechfutures_com_venture_capital_funding_float_lands_73_5m__msw589mr",
+        "source": "FinTech Futures",
+        "url": "https://www.fintechfutures.com/venture-capital-funding/float-lands-73.5m-to-expand-business-finance-offerings",
+        "headline": "Float lands $73.5m to expand business finance offerings",
+        "published_date": null,
+        "confidence": 0.7
+      },
+      {
+        "finding_id": "f_pymnts_com_https_www_pymnts_com_news_investment_tracker_fintech_investments_2026_float_rai_msw5l90e",
+        "source": "PYMNTS",
+        "url": "https://www.pymnts.com/news/investment-tracker/fintech-investments/2026/float-raises-73-million-dollars-canada-focused-working-capital-tools/",
+        "headline": "Float Raises $73 Million for Canada-Focused Working Capital Tools",
+        "published_date": "2026-01-26T13:25:08.000Z",
+        "confidence": 0.7
+      }
+    ],
+    "created_at": "2026-08-16T18:34:22.199Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 2
+  },
+  {
+    "signal_id": "sig_id_float_VentureDebt_msw598jd",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:float",
+    "company_id": "float",
+    "company_name": "Float",
+    "company_match_confidence": 0.55,
+    "company_match_rationale": "Partial name match with \"Float\" only — no corroborating country. Review before applying.",
+    "round_type": "Venture Debt",
+    "funding_amount": 37,
+    "currency": "USD",
+    "event_date": null,
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.55,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_fintechfutures_com_https_www_fintechfutures_com_bankingtech_canada_s_float_bags_37m_credit_msw589mr",
+        "source": "FinTech Futures",
+        "url": "https://www.fintechfutures.com/bankingtech/canada-s-float-bags-37m-credit-facility-from-silicon-valley-bank",
+        "headline": "Canada's Float bags $37m credit facility from Silicon Valley ...",
+        "published_date": null,
+        "confidence": 0.9
+      }
+    ],
+    "created_at": "2026-08-16T18:34:22.201Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "medium",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_float_SeriesB_msw598jg",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:float",
+    "company_id": "float",
+    "company_name": "Float",
+    "company_match_confidence": 0.55,
+    "company_match_rationale": "Partial name match with \"Float\" only — no corroborating country. Review before applying.",
+    "round_type": "Series B",
+    "funding_amount": 48.5,
+    "currency": "USD",
+    "event_date": null,
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.55,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_fintechfutures_com_https_www_fintechfutures_com_venture_capital_funding_float_financial_ra_msw589mr",
+        "source": "FinTech Futures",
+        "url": "https://www.fintechfutures.com/venture-capital-funding/float-financial-raises-48-5m-in-series-b-funding-round-led-by-goldman-sachs",
+        "headline": "Float Financial raises $48.5m in Series B funding round led ...",
+        "published_date": null,
+        "confidence": 0.9
+      },
+      {
+        "finding_id": "f_techcrunch_com_https_techcrunch_com_2025_01_13_float_financial_which_aims_to_be_the_brex_o_msw5kqog",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2025/01/13/float-financial-which-aims-to-be-the-brex-of-canada-lands-us48-5m-series-b/",
+        "headline": "Float Financial, which aims to be the Brex of Canada, lands US$48.5M Series B",
+        "published_date": "2025-01-13T03:00:00.000Z",
+        "confidence": 1
+      }
+    ],
+    "created_at": "2026-08-16T18:34:22.204Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "medium",
+    "source_count": 2
+  },
+  {
+    "signal_id": "sig_id_float_round_msw598ji",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:float",
+    "company_id": "float",
+    "company_name": "Float",
+    "company_match_confidence": 0.55,
+    "company_match_rationale": "Partial name match with \"Float\" only — no corroborating country. Review before applying.",
+    "round_type": null,
+    "funding_amount": 50,
+    "currency": "USD",
+    "event_date": null,
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.55,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_fintechfutures_com_https_www_fintechfutures_com_bnpl_payments_amazon_backed_indian_bnpl_fi_msw589mr",
+        "source": "FinTech Futures",
+        "url": "https://www.fintechfutures.com/bnpl-payments/amazon-backed-indian-bnpl-firm-capital-float-raises-50m",
+        "headline": "Amazon-backed Indian BNPL firm Capital Float raises $50m",
+        "published_date": null,
+        "confidence": 0.7
+      }
+    ],
+    "created_at": "2026-08-16T18:34:22.206Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "medium",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_njiapay_Preseed_msw598ji",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:njiapay",
+    "company_id": "njiapay",
+    "company_name": "NjiaPay",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"NjiaPay\".",
+    "round_type": "Pre-seed",
+    "funding_amount": 1,
+    "currency": "USD",
+    "event_date": "2025-01-28T12:00:00.000Z",
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.9,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_techafricanews_com_https_techafricanews_com_2025_01_28_njiapay_secures_1m_pre_seed_funding_msw589ms",
+        "source": "TechAfrica News",
+        "url": "https://techafricanews.com/2025/01/28/njiapay-secures-1m-pre-seed-funding-to-transform-african-payment-solutions/",
+        "headline": "NjiaPay Secures $1M+ Pre-Seed Funding to Transform ...",
+        "published_date": "2025-01-28T12:00:00.000Z",
+        "confidence": 0.9
+      }
+    ],
+    "created_at": "2026-08-16T18:34:22.206Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_moneyhash_Preseed_msw598jp",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:moneyhash",
+    "company_id": "moneyhash",
+    "company_name": "MoneyHash",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"MoneyHash\".",
+    "round_type": "Pre-seed",
+    "funding_amount": 3,
+    "currency": "USD",
+    "event_date": "2022-02-15T12:00:00.000Z",
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.9,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_wamda_com_https_www_wamda_com_2022_02_moneyhash_raises_3_million_pre_seed_funding_msw589mv",
+        "source": "Wamda",
+        "url": "https://www.wamda.com/2022/02/moneyhash-raises-3-million-pre-seed-funding",
+        "headline": "MoneyHash raises $3 million pre-Seed funding",
+        "published_date": "2022-02-15T12:00:00.000Z",
+        "confidence": 0.9
+      }
+    ],
+    "created_at": "2026-08-16T18:34:22.213Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_settle_SeriesB_msw598jx",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:settle",
+    "company_id": "settle",
+    "company_name": "Settle",
+    "company_match_confidence": 0.75,
+    "company_match_rationale": "Exact name match on \"Settle\". Held back: \"Settle\" is also an ordinary word and this article places it nowhere in Africa -- likely a same-name company elsewhere.",
+    "round_type": "Series B",
+    "funding_amount": 60,
+    "currency": "USD",
+    "event_date": null,
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.75,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_fintechfutures_com_https_www_fintechfutures_com_fintech_start_ups_us_fintech_start_up_sett_msw589my",
+        "source": "FinTech Futures",
+        "url": "https://www.fintechfutures.com/fintech-start-ups/us-fintech-start-up-settle-closes-60m-series-b-round",
+        "headline": "US fintech start-up Settle closes $60m Series B round",
+        "published_date": null,
+        "confidence": 0.9
+      }
+    ],
+    "created_at": "2026-08-16T18:34:22.221Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_settle_VentureDebt_msw598jx",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:settle",
+    "company_id": "settle",
+    "company_name": "Settle",
+    "company_match_confidence": 0.75,
+    "company_match_rationale": "Exact name match on \"Settle\". Held back: \"Settle\" is also an ordinary word and this article places it nowhere in Africa -- likely a same-name company elsewhere.",
+    "round_type": "Venture Debt",
+    "funding_amount": 145,
+    "currency": "USD",
+    "event_date": null,
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.75,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_fintechfutures_com_https_www_fintechfutures_com_bankingtech_settle_secures_145m_credit_fac_msw589my",
+        "source": "FinTech Futures",
+        "url": "https://www.fintechfutures.com/bankingtech/settle-secures-145m-credit-facility-from-silicon-valley-bank",
+        "headline": "Settle secures $145m credit facility from Silicon Valley Bank",
+        "published_date": null,
+        "confidence": 0.9
+      }
+    ],
+    "created_at": "2026-08-16T18:34:22.221Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_tembo_round_msw598k4",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:tembo",
+    "company_id": "tembo",
+    "company_name": "Tembo",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"Tembo\".",
+    "round_type": null,
+    "funding_amount": 15,
+    "currency": "GBP",
+    "event_date": "2026-02-19T12:00:00.000Z",
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.7,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_fintechfutures_com_https_www_fintechfutures_com_venture_capital_funding_tembo_secures_over_msw589n0",
+        "source": "FinTech Futures",
+        "url": "https://www.fintechfutures.com/venture-capital-funding/tembo-secures-over-15m-to-accelerate-savings-and-mortgage-products",
+        "headline": "Tembo secures over £15m to accelerate products",
+        "published_date": "2026-02-19T12:00:00.000Z",
+        "confidence": 0.7
+      }
+    ],
+    "created_at": "2026-08-16T18:34:22.228Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "medium",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_moneyhash_Seed_msw5oowc",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:moneyhash",
+    "company_id": "moneyhash",
+    "company_name": "MoneyHash",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"MoneyHash\".",
+    "round_type": "Seed",
+    "funding_amount": 4.5,
+    "currency": "USD",
+    "event_date": "2024-02-28T09:00:14.000Z",
+    "investors": [
+      "COTU Ventures",
+      "Sukna Ventures",
+      "RZM Investment",
+      "Dubai Future District Fund",
+      "VentureFriends"
+    ],
+    "lead_investor": "COTU Ventures",
+    "confidence": 0.98,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2024_02_28_egyptian_fintech_startup_moneyhash_ra_msw5kvnn",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2024/02/28/egyptian-fintech-startup-moneyhash-raises-4-5m-seed-funding/",
+        "headline": "Egyptian fintech startup MoneyHash raises $4.5m seed funding",
+        "published_date": "2024-02-28T09:00:14.000Z",
+        "confidence": 1
+      }
+    ],
+    "created_at": "2026-08-16T18:46:23.244Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_float_SeriesA_msw5oowc",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:float",
+    "company_id": "float",
+    "company_name": "Float",
+    "company_match_confidence": 0.75,
+    "company_match_rationale": "Exact name match on \"Float\". Held back: \"Float\" is also an ordinary word and this article places it nowhere in Africa -- likely a same-name company elsewhere.",
+    "round_type": "Series A",
+    "funding_amount": 4.5,
+    "currency": "EUR",
+    "event_date": "2026-07-15T14:02:42.000Z",
+    "investors": [
+      "Hamburg-headquartered CHAPTERS Group AG"
+    ],
+    "lead_investor": "Hamburg-headquartered CHAPTERS Group AG",
+    "confidence": 0.75,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_fintech_global_https_fintech_global_2026_07_15_float_lands_e4_5m_series_a_to_close_europes_msw5kx85",
+        "source": "Fintech Global",
+        "url": "https://fintech.global/2026/07/15/float-lands-e4-5m-series-a-to-close-europes-tech-funding-gap/",
+        "headline": "Float lands €4.5m Series A to close Europe’s tech funding gap",
+        "published_date": "2026-07-15T14:02:42.000Z",
+        "confidence": 1
+      }
+    ],
+    "created_at": "2026-08-16T18:46:23.244Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_float_SeriesC_msw5oowd",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:float",
+    "company_id": "float",
+    "company_name": "Float",
+    "company_match_confidence": 0.55,
+    "company_match_rationale": "Partial name match with \"Float\" only — no corroborating country. Review before applying.",
+    "round_type": "Series C+",
+    "funding_amount": 85,
+    "currency": "USD",
+    "event_date": "2026-06-25T07:54:23.000Z",
+    "investors": [
+      "Inovia Capital"
+    ],
+    "lead_investor": "Inovia Capital",
+    "confidence": 0.55,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_fintech_global_https_fintech_global_2026_06_25_float_financial_raises_cad_85m_series_c_msw5kx86",
+        "source": "Fintech Global",
+        "url": "https://fintech.global/2026/06/25/float-financial-raises-cad-85m-series-c/",
+        "headline": "Float Financial raises CAD $85m Series C",
+        "published_date": "2026-06-25T07:54:23.000Z",
+        "confidence": 1
+      }
+    ],
+    "created_at": "2026-08-16T18:46:23.245Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "medium",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_float_round_msw5oowd",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:float",
+    "company_id": "float",
+    "company_name": "Float",
+    "company_match_confidence": 0.75,
+    "company_match_rationale": "Exact name match on \"Float\". Held back: \"Float\" is also an ordinary word and this article places it nowhere in Africa -- likely a same-name company elsewhere.",
+    "round_type": null,
+    "funding_amount": 100,
+    "currency": "USD",
+    "event_date": "2026-01-27T13:02:27.000Z",
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.7,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_fintech_global_https_fintech_global_2026_01_27_float_secures_close_to_100m_to_expand_canad_msw5kx86",
+        "source": "Fintech Global",
+        "url": "https://fintech.global/2026/01/27/float-secures-close-to-100m-to-expand-canadian-business-finance/",
+        "headline": "Float secures close to $100m to expand Canadian business finance",
+        "published_date": "2026-01-27T13:02:27.000Z",
+        "confidence": 0.7
+      }
+    ],
+    "created_at": "2026-08-16T18:46:23.245Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "medium",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_float_SeriesB_msw5oowe",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:float",
+    "company_id": "float",
+    "company_name": "Float",
+    "company_match_confidence": 0.55,
+    "company_match_rationale": "Partial name match with \"Float\" only — no corroborating country. Review before applying.",
+    "round_type": "Series B",
+    "funding_amount": 70,
+    "currency": "USD",
+    "event_date": "2025-01-13T14:56:53.000Z",
+    "investors": [
+      "Growth Equity at Goldman Sachs Alternatives",
+      "OMERS Ventures",
+      "FJ Labs",
+      "Teralys",
+      "Garage Capital"
+    ],
+    "lead_investor": "Growth Equity at Goldman Sachs Alternatives",
+    "confidence": 0.55,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_fintech_global_https_fintech_global_2025_01_13_float_financial_secures_cad70m_in_series_b__msw5kx86",
+        "source": "Fintech Global",
+        "url": "https://fintech.global/2025/01/13/float-financial-secures-cad70m-in-series-b-to-transform-canadian-business-finance/",
+        "headline": "Float Financial secures CAD$70m in Series B to transform Canadian business finance",
+        "published_date": "2025-01-13T14:56:53.000Z",
+        "confidence": 1
+      }
+    ],
+    "created_at": "2026-08-16T18:46:23.246Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "medium",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_nala_round_msw5oowf",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:nala",
+    "company_id": "nala",
+    "company_name": "Nala",
+    "company_match_confidence": 0.75,
+    "company_match_rationale": "Exact name match on \"Nala\". Held back: \"Nala\" is also an ordinary word and this article places it nowhere in Africa -- likely a same-name company elsewhere.",
+    "round_type": null,
+    "funding_amount": 50,
+    "currency": "USD",
+    "event_date": "2026-05-28T10:55:51.000Z",
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.7,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_cioafrica_co_https_cioafrica_co_nala_secures_50m_facility_to_scale_global_stablecoin_payme_msw5l3pi",
+        "source": "CIO Africa",
+        "url": "https://cioafrica.co/nala-secures-50m-facility-to-scale-global-stablecoin-payments/",
+        "headline": "NALA Secures $50M Facility To Scale Global Stablecoin Payments",
+        "published_date": "2026-05-28T10:55:51.000Z",
+        "confidence": 0.7
+      }
+    ],
+    "created_at": "2026-08-16T18:46:23.247Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "medium",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_scale_round_msw5oowi",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:scale",
+    "company_id": "scale",
+    "company_name": "Scale",
+    "company_match_confidence": 0.8,
+    "company_match_rationale": "Exact name match on \"Scale\". Retrieved by archive search for \"Scale\" (url-slug evidence).",
+    "round_type": null,
+    "funding_amount": 2,
+    "currency": "USD",
+    "event_date": "2026-07-21T05:00:57.000Z",
+    "investors": [
+      "Lorax Capital Partners",
+      "Fawry"
+    ],
+    "lead_investor": "Lorax Capital Partners",
+    "confidence": 0.8,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2026_07_21_egypts_mylerz_raises_2m_to_scale_logi_msw5l61g",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2026/07/21/egypts-mylerz-raises-2m-to-scale-logistics-infrastructure/",
+        "headline": "Egypt’s Mylerz raises $2m to scale logistics infrastructure",
+        "published_date": "2026-07-21T05:00:57.000Z",
+        "confidence": 0.8
+      }
+    ],
+    "created_at": "2026-08-16T18:46:23.250Z",
+    "updated_at": "2026-08-16T18:46:23.250Z",
+    "review_tier": "high",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_scale_round_msw5oowj",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:scale",
+    "company_id": "scale",
+    "company_name": "Scale",
+    "company_match_confidence": 0.8,
+    "company_match_rationale": "Exact name match on \"Scale\". Retrieved by archive search for \"Scale\" (url-slug evidence).",
+    "round_type": null,
+    "funding_amount": 1.1,
+    "currency": "USD",
+    "event_date": "2025-05-22T17:49:16.000Z",
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.76,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2025_05_22_seeds_pennies_secures_1_1_million_in__msw5l61h",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2025/05/22/seeds-pennies-secures-1-1-million-in-strategic-funding-to-scale-retail-lending-empower-women-across-nigeria-and-launch-disruptive-bnpl-offerings/",
+        "headline": "Seeds & Pennies Secures $1.1 Million in Strategic Funding to Scale Retail Lending, Empower Women Across Nigeria, and Launch Disruptive BNPL Offerings",
+        "published_date": "2025-05-22T17:49:16.000Z",
+        "confidence": 0.7
+      },
+      {
+        "finding_id": "f_techpoint_africa_https_techpoint_africa_brandpress_seeds_pennies_secures_1_1_million_in_st_msw5ljjz",
+        "source": "Techpoint Africa",
+        "url": "https://techpoint.africa/brandpress/seeds-pennies-secures-1-1-million-in-strategic-funding-to-scale-retail-lending-empower-women-across-nigeria-and-launch-disruptive-bnpl-offerings/",
+        "headline": "Seeds & Pennies Secures $1.1 Million in Strategic Funding to Scale Retail Lending, Empower Women Across Nigeria, and Launch Disruptive BNPL Offerings",
+        "published_date": "2025-05-22T11:00:00.000Z",
+        "confidence": 0.7
+      }
+    ],
+    "created_at": "2026-08-16T18:46:23.251Z",
+    "updated_at": "2026-08-16T18:46:23.259Z",
+    "review_tier": "high",
+    "source_count": 2
+  },
+  {
+    "signal_id": "sig_id_scale_round_msw5oown",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:scale",
+    "company_id": "scale",
+    "company_name": "Scale",
+    "company_match_confidence": 0.55,
+    "company_match_rationale": "Partial name match with \"Scale\" only — no corroborating country. Review before applying.",
+    "round_type": null,
+    "funding_amount": 500,
+    "currency": "USD",
+    "event_date": "2025-09-12T07:00:00.000Z",
+    "investors": [
+      "01 Advisors",
+      "Adam Bain",
+      "COO of Twitter"
+    ],
+    "lead_investor": "01 Advisors",
+    "confidence": 0.55,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_techcrunch_com_https_techcrunch_com_2025_09_12_micro1_a_competitor_to_scale_ai_raises_fund_msw5lfrn",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2025/09/12/micro1-a-competitor-to-scale-ai-raises-funds-at-500m-valuation/",
+        "headline": "Micro1, a competitor to Scale AI, raises funds at $500M valuation",
+        "published_date": "2025-09-12T07:00:00.000Z",
+        "confidence": 0.8
+      }
+    ],
+    "created_at": "2026-08-16T18:46:23.255Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "medium",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_scale_round_msw5oowp",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:scale",
+    "company_id": "scale",
+    "company_name": "Scale",
+    "company_match_confidence": 0.8,
+    "company_match_rationale": "Exact name match on \"Scale\". Retrieved by archive search for \"Scale\" (url-slug evidence).",
+    "round_type": null,
+    "funding_amount": 0.4,
+    "currency": "USD",
+    "event_date": "2025-12-17T09:52:07.000Z",
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.7,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_techpoint_africa_https_techpoint_africa_brandpress_bildup_ai_raises_400k_in_oversubscribed_msw5ljjz",
+        "source": "Techpoint Africa",
+        "url": "https://techpoint.africa/brandpress/bildup-ai-raises-400k-in-oversubscribed-angel-round-to-scale-its-mission-of-redefining-learning-in-africa/",
+        "headline": "Bildup AI Raises $400K in Oversubscribed Angel Round to Scale Its Mission of Redefining Learning in Africa",
+        "published_date": "2025-12-17T09:52:07.000Z",
+        "confidence": 0.7
+      }
+    ],
+    "created_at": "2026-08-16T18:46:23.257Z",
+    "updated_at": "2026-08-16T18:46:23.257Z",
+    "review_tier": "medium",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_scale_Preseed_msw5ooww",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:scale",
+    "company_id": "scale",
+    "company_name": "Scale",
+    "company_match_confidence": 0.8,
+    "company_match_rationale": "Exact name match on \"Scale\". Retrieved by archive search for \"Scale\" (url-slug evidence).",
+    "round_type": "Pre-seed",
+    "funding_amount": 1,
+    "currency": "USD",
+    "event_date": "2026-08-13T12:29:49.000Z",
+    "investors": [
+      "Lunara Partners"
+    ],
+    "lead_investor": "Lunara Partners",
+    "confidence": 0.8,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_fintech_global_https_fintech_global_2026_08_13_cobi_raises_1m_pre_seed_to_scale_customer_i_msw5m2o8",
+        "source": "Fintech Global",
+        "url": "https://fintech.global/2026/08/13/cobi-raises-1m-pre-seed-to-scale-customer-intelligence/",
+        "headline": "Cobi raises $1m pre-seed to scale customer intelligence",
+        "published_date": "2026-08-13T12:29:49.000Z",
+        "confidence": 1
+      }
+    ],
+    "created_at": "2026-08-16T18:46:23.264Z",
+    "updated_at": "2026-08-16T18:46:23.264Z",
+    "review_tier": "high",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_scale_SeriesB_msw5oowx",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:scale",
+    "company_id": "scale",
+    "company_name": "Scale",
+    "company_match_confidence": 0.8,
+    "company_match_rationale": "Exact name match on \"Scale\". Retrieved by archive search for \"Scale\" (url-slug evidence).",
+    "round_type": "Series B",
+    "funding_amount": 45,
+    "currency": "USD",
+    "event_date": "2026-08-12T13:28:40.000Z",
+    "investors": [
+      "Global PayTech Ventures",
+      "Further Ventures",
+      "GrowthX Capital",
+      "Andreessen Horowitz",
+      "Tiger Global",
+      "QuantumLight Capital",
+      "Monashees",
+      "Kaszek",
+      "Endeavor Catalyst"
+    ],
+    "lead_investor": "Global PayTech Ventures",
+    "confidence": 0.8,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_fintech_global_https_fintech_global_2026_08_12_yuno_raises_45m_series_b_to_scale_payments__msw5m2o8",
+        "source": "Fintech Global",
+        "url": "https://fintech.global/2026/08/12/yuno-raises-45m-series-b-to-scale-payments-os/",
+        "headline": "Yuno raises $45m Series B to scale payments OS",
+        "published_date": "2026-08-12T13:28:40.000Z",
+        "confidence": 1
+      }
+    ],
+    "created_at": "2026-08-16T18:46:23.265Z",
+    "updated_at": "2026-08-16T18:46:23.265Z",
+    "review_tier": "high",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_tembo_round_msw5oowx",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:tembo",
+    "company_id": "tembo",
+    "company_name": "Tembo",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"Tembo\".",
+    "round_type": null,
+    "funding_amount": 16,
+    "currency": "GBP",
+    "event_date": "2026-02-13T08:46:23.000Z",
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.7,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_fintech_global_https_fintech_global_2026_02_13_savings_and_mortgage_app_tembo_bags_16m_msw5mex8",
+        "source": "Fintech Global",
+        "url": "https://fintech.global/2026/02/13/savings-and-mortgage-app-tembo-bags-16m/",
+        "headline": "Savings and mortgage app Tembo bags £16m",
+        "published_date": "2026-02-13T08:46:23.000Z",
+        "confidence": 0.7
+      }
+    ],
+    "created_at": "2026-08-16T18:46:23.265Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "medium",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_id_tembo_SeriesB_msw5oowx",
+    "signal_type": "existing-company-new-round",
+    "company_key": "id:tembo",
+    "company_id": "tembo",
+    "company_name": "Tembo",
+    "company_match_confidence": 0.98,
+    "company_match_rationale": "Exact name match on \"Tembo\".",
+    "round_type": "Series B",
+    "funding_amount": 14,
+    "currency": "GBP",
+    "event_date": "2024-12-02T07:12:15.000Z",
+    "investors": [
+      "Goodwater Capital"
+    ],
+    "lead_investor": "Goodwater Capital",
+    "confidence": 0.98,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_fintech_global_https_fintech_global_2024_12_02_digital_savings_and_mortgage_platform_tembo_msw5mex9",
+        "source": "Fintech Global",
+        "url": "https://fintech.global/2024/12/02/digital-savings-and-mortgage-platform-tembo-secures-14m-in-series-b-funding/",
+        "headline": "Digital savings and mortgage platform Tembo secures £14m in Series B funding",
+        "published_date": "2024-12-02T07:12:15.000Z",
+        "confidence": 1
+      }
+    ],
+    "created_at": "2026-08-16T18:46:23.265Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "high",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_new_tugende_round_msw5teu1",
+    "signal_type": "new-company-discovered",
+    "company_key": "new:tugende",
+    "company_id": null,
+    "company_name": "Tugende",
+    "company_match_confidence": 0,
+    "company_match_rationale": "No company in the database matches \"Tugende\". Candidate for a new company record.",
+    "round_type": null,
+    "funding_amount": 3.6,
+    "currency": "USD",
+    "event_date": "2021-03-30T12:00:00.000Z",
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.6,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_partechpartners_com_https_partechpartners_com_news_tugende_secures_36m_fresh_equity_partec_msw589mk",
+        "source": "Partech Africa",
+        "url": "https://partechpartners.com/news/tugende-secures-36m-fresh-equity-partech-and-enza-help-meet-intense-demand-productive-asset-finance",
+        "headline": "Tugende secures $3.6M fresh equity from ...",
+        "published_date": "2021-03-30T12:00:00.000Z",
+        "confidence": 0.7
+      }
+    ],
+    "created_at": "2026-08-16T18:50:03.481Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "medium",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_new_egypt_s_mylerz_round_msw5teut",
+    "signal_type": "new-company-discovered",
+    "company_key": "new:egypt s mylerz",
+    "company_id": null,
+    "company_name": "Egypt’s Mylerz",
+    "company_match_confidence": 0,
+    "company_match_rationale": "No company in the database matches \"Egypt’s Mylerz\". Candidate for a new company record.",
+    "round_type": null,
+    "funding_amount": 2,
+    "currency": "USD",
+    "event_date": "2026-07-21T05:00:57.000Z",
+    "investors": [
+      "Lorax Capital Partners",
+      "Fawry"
+    ],
+    "lead_investor": "Lorax Capital Partners",
+    "confidence": 0.6,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2026_07_21_egypts_mylerz_raises_2m_to_scale_logi_msw5l61g",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2026/07/21/egypts-mylerz-raises-2m-to-scale-logistics-infrastructure/",
+        "headline": "Egypt’s Mylerz raises $2m to scale logistics infrastructure",
+        "published_date": "2026-07-21T05:00:57.000Z",
+        "confidence": 0.8
+      }
+    ],
+    "created_at": "2026-08-16T18:50:03.509Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "medium",
+    "source_count": 1
+  },
+  {
+    "signal_id": "sig_new_pennies_round_msw5teuu",
+    "signal_type": "new-company-discovered",
+    "company_key": "new:pennies",
+    "company_id": null,
+    "company_name": "Pennies",
+    "company_match_confidence": 0,
+    "company_match_rationale": "No company in the database matches \"Pennies\". Candidate for a new company record.",
+    "round_type": null,
+    "funding_amount": 1.1,
+    "currency": "USD",
+    "event_date": "2025-05-22T17:49:16.000Z",
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.6599999999999999,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_disruptafrica_com_https_disruptafrica_com_2025_05_22_seeds_pennies_secures_1_1_million_in__msw5l61h",
+        "source": "Disrupt Africa",
+        "url": "https://disruptafrica.com/2025/05/22/seeds-pennies-secures-1-1-million-in-strategic-funding-to-scale-retail-lending-empower-women-across-nigeria-and-launch-disruptive-bnpl-offerings/",
+        "headline": "Seeds & Pennies Secures $1.1 Million in Strategic Funding to Scale Retail Lending, Empower Women Across Nigeria, and Launch Disruptive BNPL Offerings",
+        "published_date": "2025-05-22T17:49:16.000Z",
+        "confidence": 0.7
+      },
+      {
+        "finding_id": "f_techpoint_africa_https_techpoint_africa_brandpress_seeds_pennies_secures_1_1_million_in_st_msw5ljjz",
+        "source": "Techpoint Africa",
+        "url": "https://techpoint.africa/brandpress/seeds-pennies-secures-1-1-million-in-strategic-funding-to-scale-retail-lending-empower-women-across-nigeria-and-launch-disruptive-bnpl-offerings/",
+        "headline": "Seeds & Pennies Secures $1.1 Million in Strategic Funding to Scale Retail Lending, Empower Women Across Nigeria, and Launch Disruptive BNPL Offerings",
+        "published_date": "2025-05-22T11:00:00.000Z",
+        "confidence": 0.7
+      }
+    ],
+    "created_at": "2026-08-16T18:50:03.510Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "medium",
+    "source_count": 2
+  },
+  {
+    "signal_id": "sig_new_bildup_ai_round_msw5teuy",
+    "signal_type": "new-company-discovered",
+    "company_key": "new:bildup ai",
+    "company_id": null,
+    "company_name": "Bildup AI",
+    "company_match_confidence": 0,
+    "company_match_rationale": "No company in the database matches \"Bildup AI\". Candidate for a new company record.",
+    "round_type": null,
+    "funding_amount": 0.4,
+    "currency": "USD",
+    "event_date": "2025-12-17T09:52:07.000Z",
+    "investors": [],
+    "lead_investor": null,
+    "confidence": 0.6,
+    "status": "pending",
+    "sources": [
+      {
+        "finding_id": "f_techpoint_africa_https_techpoint_africa_brandpress_bildup_ai_raises_400k_in_oversubscribed_msw5ljjz",
+        "source": "Techpoint Africa",
+        "url": "https://techpoint.africa/brandpress/bildup-ai-raises-400k-in-oversubscribed-angel-round-to-scale-its-mission-of-redefining-learning-in-africa/",
+        "headline": "Bildup AI Raises $400K in Oversubscribed Angel Round to Scale Its Mission of Redefining Learning in Africa",
+        "published_date": "2025-12-17T09:52:07.000Z",
+        "confidence": 0.7
+      }
+    ],
+    "created_at": "2026-08-16T18:50:03.514Z",
+    "updated_at": "2026-08-16T18:50:45.133Z",
+    "review_tier": "medium",
+    "source_count": 1
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "intake_companies": 817,
+  "matched_to_history": 817,
+  "not_matched": 0,
+  "historical_rounds_imported": 918,
+  "duplicates_merged": 1023,
+  "conflicts": 13,
+  "name_normalizations_needed": 34
+}

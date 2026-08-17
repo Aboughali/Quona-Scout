@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Disruptech",
+    "hq": "Cairo (Sheikh Zayed City), Egypt",
+    "presenceCountries": ["Egypt"],
+    "panAfrican": false,
+    "vintageYear": 2021,
+    "fundSizeUsdM": 36,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": 4, "evidence": "24 portfolio companies concentrated in fintech and fintech-enabled digital services (embedded finance, payments, digital lending, insurtech), with 3 new investments in the last 12 months.", "source": "https://tracxn.com/d/venture-capital/disruptech/__NQ4Z_nWkqTMyLyB1a61UbTz1_IEB87C3iLToGSSgPXo"},
+      "coInvestmentReputation": {"rating": 4, "evidence": "Co-led Connect Money's $8M seed with Algebra Ventures and Lorax Capital Partners, and backs Chari whose Series A drew SPE Capital, Orange Ventures, Verod-Kepple, Plug and Play, Global Founders Capital and Endeavor Catalyst.", "source": "https://techcabal.com/2025/11/05/chari-raises-funding-from-disruptech-ventures/"},
+      "africanMarketExpertise": {"rating": 2, "evidence": "Team and office are Egypt-only (Cairo/Sheikh Zayed City); most portfolio companies are Egyptian with only occasional forays into other markets (e.g., Morocco's Chari, Nigeria's Winich Farms).", "source": "https://www.disruptechventures.com/"},
+      "globalCrossBorderNetwork": {"rating": 2, "evidence": "No direct global office/network of its own, but portfolio company Chari's Series A attracted global investors (Plug and Play, Global Founders Capital), showing some indirect cross-border pull.", "source": "https://techcabal.com/2025/11/05/chari-raises-funding-from-disruptech-ventures/"},
+      "operationalSupportBench": {"rating": null, "evidence": null, "source": null},
+      "regulatoryGovRelationships": {"rating": 4, "evidence": "Fund I's $36M was raised from DFIs including IFC and Proparco, both of which made direct disclosed commitments to the vehicle.", "source": "https://www.ifc.org/en/pressroom/2022/ifc-supports-egypts-fintech-sector-with-investment-in-disruptech-ventures-fund"},
+      "historicalInvestmentOutcomes": {"rating": 3, "evidence": "Portfolio company Chari (Morocco) closed a $12M Series A led by SPE Capital/Orange Ventures with DisrupTech continuing to back the round.", "source": "https://techcabal.com/2025/11/05/chari-raises-funding-from-disruptech-ventures/"}
+    }
+  },
+  {
+    "name": "First Circle Capital",
+    "hq": "Casablanca, Morocco / Kampala, Uganda",
+    "presenceCountries": ["Morocco", "Uganda", "South Africa"],
+    "panAfrican": true,
+    "vintageYear": 2023,
+    "fundSizeUsdM": 30,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": 4, "evidence": "Fintech-only specialist fund with 15 investments across 8 African markets, deliberately targeting under-covered verticals (embedded finance, alt-lending, insurtech, regtech, climate fintech) rather than saturated payments.", "source": "https://www.techinafrica.com/first-circle-capital-backed-by-the-ifc-has-launched-a-30-million-early-stage-venture-fund-aimed-at-supporting-high-growth-fintech-startups-across-africa/"},
+      "coInvestmentReputation": {"rating": null, "evidence": null, "source": null},
+      "africanMarketExpertise": {"rating": 4, "evidence": "Team present in Morocco, Uganda and South Africa with a portfolio spanning 8 African markets and half its companies operating in multiple countries.", "source": "https://www.techinafrica.com/first-circle-capital-backed-by-the-ifc-has-launched-a-30-million-early-stage-venture-fund-aimed-at-supporting-high-growth-fintech-startups-across-africa/"},
+      "globalCrossBorderNetwork": {"rating": null, "evidence": null, "source": null},
+      "operationalSupportBench": {"rating": 4, "evidence": "Fund explicitly provides 'hands-on operational and business development support to help founders reach Series A readiness' beyond capital.", "source": "https://www.techinafrica.com/first-circle-capital-backed-by-the-ifc-has-launched-a-30-million-early-stage-venture-fund-aimed-at-supporting-high-growth-fintech-startups-across-africa/"},
+      "regulatoryGovRelationships": {"rating": 5, "evidence": "LP base includes IFC ($6M), Women Entrepreneurs Finance Initiative/We-Fi ($2M) and approval for $3M from the Dutch Good Growth Fund (DGGF).", "source": "https://techafricanews.com/2025/11/06/first-circle-capital-secures-6-million-from-ifc-to-scale-early-stage-fintech-innovation-in-africa/"},
+      "historicalInvestmentOutcomes": {"rating": null, "evidence": null, "source": null}
+    }
+  },
+  {
+    "name": "Renew Capital",
+    "hq": "Addis Ababa, Ethiopia (North/West Africa HQ in Morocco)",
+    "presenceCountries": ["Ethiopia", "Morocco", "Uganda", "Rwanda", "Kenya", "Mozambique", "Nigeria", "Tanzania", "Zambia", "Ghana"],
+    "panAfrican": true,
+    "vintageYear": 2023,
+    "fundSizeUsdM": null,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": 3, "evidence": "Fintech is one of several sectors within a 44-company portfolio (alongside enterprise apps/consumer); notable fintech names include Level Africa and Opareta, plus a new EmFi (embedded finance) investment programme.", "source": "https://finance.yahoo.com/news/renew-capital-achieves-investment-milestone-124800226.html"},
+      "coInvestmentReputation": {"rating": null, "evidence": null, "source": null},
+      "africanMarketExpertise": {"rating": 5, "evidence": "Genuinely pan-African with an on-the-ground presence in 13 countries from Ghana in the west to Zambia in the south, plus a dedicated North/West Africa HQ in Morocco.", "source": "https://www.renewcapital.com/newsroom/technopark-and-renew-capital-partner-to-strengthen-south-south-cooperation-and-launch-renew-capitals-north-and-west-africa-headquarters-in-morocco"},
+      "globalCrossBorderNetwork": {"rating": null, "evidence": null, "source": null},
+      "operationalSupportBench": {"rating": 3, "evidence": "Runs 'Renew Venture Lab,' an accelerator-style program built to give portfolio startups hands-on support toward scalable, sustainable business models.", "source": "https://wildlabs.net/en/article/renew-capital-launches-renew-venture-lab?language_content_entity=en"},
+      "regulatoryGovRelationships": {"rating": null, "evidence": null, "source": null},
+      "historicalInvestmentOutcomes": {"rating": null, "evidence": null, "source": null}
+    }
+  },
+  {
+    "name": "Launch Africa",
+    "hq": "Port Louis, Mauritius (also Cape Town, South Africa)",
+    "presenceCountries": ["Mauritius", "South Africa"],
+    "panAfrican": true,
+    "vintageYear": 2020,
+    "fundSizeUsdM": 36.3,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": 4, "evidence": "Fintech makes up over 38% of a 150+ company portfolio (180+ across both funds), among the highest deal-count investors on the continent.", "source": "https://www.launchafrica.vc/news/launch-africa-the-vc-firm-that-has-backed-over-100-startups-closes-first-fund-at-363m"},
+      "coInvestmentReputation": {"rating": null, "evidence": null, "source": null},
+      "africanMarketExpertise": {"rating": 5, "evidence": "Backed 133+ startups across 22 African countries (180+ across 25 countries more recently), one of the broadest African footprints of any seed fund.", "source": "https://www.forbesafrica.com/contrarian/2023/08/27/venture-forward"},
+      "globalCrossBorderNetwork": {"rating": 3, "evidence": "Unique syndicate model gives 238 LPs from 40 countries direct co-investment access alongside the fund, creating a global capital network even though portfolio companies are Africa-focused.", "source": "https://www.howwemadeitinafrica.com/interview-launch-africa-ventures-approach-to-investing-in-startups/150182/"},
+      "operationalSupportBench": {"rating": null, "evidence": null, "source": null},
+      "regulatoryGovRelationships": {"rating": null, "evidence": null, "source": null},
+      "historicalInvestmentOutcomes": {"rating": 4, "evidence": "Fund I has completed 11 exits and returned $2.5M to investors with multiples up to 5x; portfolio company Peach Payments (fintech) went on to raise a $31M Series A.", "source": "https://technext24.com/news/launch-africa-returns-2-5-m-to-investors/"}
+    }
+  },
+  {
+    "name": "QED Investors",
+    "hq": "Alexandria, Virginia, USA",
+    "presenceCountries": ["United States"],
+    "panAfrican": false,
+    "vintageYear": 2022,
+    "fundSizeUsdM": 925,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": 5, "evidence": "Fintech-only specialist since 2007 with 250+ fintech portfolio companies globally spanning lending, payments, insurance and banking, ~$4B AUM and 28 unicorns.", "source": "https://www.businesswire.com/news/home/20230523005747/en/QED-Investors-Closes-Nearly-1-Billion-in-New-Funds"},
+      "coInvestmentReputation": {"rating": 4, "evidence": "Co-led Moniepoint's (formerly TeamApt) 2022 Series B alongside British International Investment; the company's later $110M Series C brought in DPI, Google's Africa Investment Fund, Verod Capital and Lightrock.", "source": "https://www.dpi-llp.com/2024/10/29/africas-fastest-growing-fintech-moniepoint-secures-us110-million-investment-to-scale-digital-payments-and-banking-solutions/"},
+      "africanMarketExpertise": {"rating": 2, "evidence": "Only one confirmed African market presence to date (Nigeria, via TeamApt/Moniepoint), despite hiring dedicated Africa-focused investors; no broader continental portfolio or offices found.", "source": "https://techcrunch.com/2022/08/10/fintech-vc-qed-makes-its-first-african-investment-backing-nigerias-teamapt-in-50m-deal"},
+      "globalCrossBorderNetwork": {"rating": 5, "evidence": "Active fintech investor across the US, UK, Europe, Latin America, India, Southeast Asia and Africa with regional heads for each region and 28 unicorns in its global book.", "source": "https://www.qedinvestors.com/"},
+      "operationalSupportBench": {"rating": 5, "evidence": "Dedicated platform function (Head of Platform role) offering PR/communications, compliance, B2B growth, executive search and coaching support, backed by 250+ combined years of operating experience across the team.", "source": "https://www.qedinvestors.com/team"},
+      "regulatoryGovRelationships": {"rating": 3, "evidence": "Co-invested alongside DFI British International Investment on Moniepoint's Series B, its sole disclosed African deal to date.", "source": "https://www.ouicapital.vc/news/qed-makes-its-first-african-investment-backing-nigerian-fintech-teamapt-in-50m-deal"},
+      "historicalInvestmentOutcomes": {"rating": 5, "evidence": "Backed Moniepoint (TeamApt) at Series B in 2022; the company went on to become Africa's 8th unicorn via a $110M Series C in 2024.", "source": "https://www.dabafinance.com/en/news/nigerias-moniepoint-becomes-unicorn-in-110m-round-led-by-dpi"}
+    }
+  },
+  {
+    "name": "P1 Ventures",
+    "hq": "Multi-hub (Lagos, Nigeria; Cairo, Egypt; Nairobi, Kenya)",
+    "presenceCountries": ["Nigeria", "Egypt", "Kenya", "Senegal"],
+    "panAfrican": true,
+    "vintageYear": 2023,
+    "fundSizeUsdM": 50,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": 3, "evidence": "Fintech is a core focus alongside health, e-commerce and SaaS across a 29-company portfolio in 10 countries (Egypt 7, Nigeria 6 deals being the largest concentrations).", "source": "https://techmoran.com/2025/02/10/p1-ventures-raises-50-million-to-back-companies-built-in-africa-for-the-world/"},
+      "coInvestmentReputation": {"rating": 4, "evidence": "Was the only African VC co-investing alongside Accel in Moroccan startup Nuitee's $48M Series A, and participated in Reliance Health's $40M Series B led by General Atlantic.", "source": "https://nordic9.com/news/nuitee-raised-a-48-million-series-a-led-by-accel/"},
+      "africanMarketExpertise": {"rating": 4, "evidence": "Active team presence in Lagos, Cairo, Nairobi and Dakar, with an explicit strategy to allocate half of the portfolio to underserved Francophone/low-income African markets.", "source": "https://www.p1.ventures/team"},
+      "globalCrossBorderNetwork": {"rating": 3, "evidence": "Co-investment access alongside top-tier global investors Accel (Nuitee) and General Atlantic (Reliance Health) demonstrates cross-border network reach beyond Africa.", "source": "https://nordic9.com/news/nuitee-raised-a-48-million-series-a-led-by-accel/"},
+      "operationalSupportBench": {"rating": 4, "evidence": "Has dedicated venture partner and ops-director roles (GTM strategy/technical scale support, ex-Savannah Fund Ops Director) and is frequently a company's first institutional investor providing hands-on support.", "source": "https://www.p1.ventures/team"},
+      "regulatoryGovRelationships": {"rating": 4, "evidence": "IFC announced a formal partnership with P1 Ventures in 2024 to accelerate investment in early-stage African tech entrepreneurs.", "source": "https://www.ifc.org/en/pressroom/2024/ifc-partners-with-p1-ventures-to-accelerate-investments-in-early-stage-tech-entrepreneurs-in-africa"},
+      "historicalInvestmentOutcomes": {"rating": 4, "evidence": "Portfolio companies Reliance Health ($40M Series B, General Atlantic) and Nuitee ($48M Series A, Accel) both progressed to substantial follow-on institutional rounds.", "source": "https://www.generalatlantic.com/media-article/reliance-health-raises-40m-in-series-b-led-by-general-atlantic/"}
+    }
+  },
+  {
+    "name": "Partech Africa",
+    "hq": "Paris, France (global firm; Africa fund hubs in Dakar, Lagos, Nairobi, Dubai)",
+    "presenceCountries": ["Senegal", "Nigeria", "Kenya", "United Arab Emirates"],
+    "panAfrican": true,
+    "vintageYear": 2023,
+    "fundSizeUsdM": 323,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": 5, "evidence": "Fintech is a named core sector alongside mobility/commerce/enterprise software; portfolio includes Wave, TradeDepot, Yoco, Reliance and led littlefish's $9.5M Series A for bank merchant infrastructure.", "source": "https://partechpartners.com/news/littlefish-raises-95m-series-a-round-led-by-partech-to-power-merchant-infrastructure-for-banks-across-africa"},
+      "coInvestmentReputation": {"rating": 4, "evidence": "One of the 10 most active venture investors in Africa in 2024; LP roster includes Bertelsmann and South Suez Capital, positioning it centrally in the African co-investment network.", "source": "https://www.eib.org/en/products/equity/funds/partech-africa-ii"},
+      "africanMarketExpertise": {"rating": 5, "evidence": "Dedicated on-the-ground offices in Dakar, Nairobi, Lagos and Dubai investing from seed through Series C across the continent.", "source": "https://fintechnews.africa/43211/fintech-nigeria/partech-africa-closes-fund-above-300-million-and-opens-office-in-lagos/"},
+      "globalCrossBorderNetwork": {"rating": 4, "evidence": "Part of the global Partech platform with offices in Paris, Berlin, Dubai and San Francisco, giving African portfolio companies access to a broader international network.", "source": "https://fintechnews.africa/43211/fintech-nigeria/partech-africa-closes-fund-above-300-million-and-opens-office-in-lagos/"},
+      "operationalSupportBench": {"rating": 4, "evidence": "Actively hiring a senior Portfolio Strategy & Operations role specifically to drive value creation and exit building for portfolio companies, on top of stated capital-plus-operational support.", "source": "https://partechpartners.com/news/partech-africa-ii-fund-reaches-final-close-at-hard-cap-above-300-million-expands-team-and-portfolio"},
+      "regulatoryGovRelationships": {"rating": 5, "evidence": "Partech Africa II's LP base includes the European Investment Bank, IFC, FMO, British International Investment, Bpifrance Investissement, Proparco and DEG.", "source": "https://www.eib.org/en/products/equity/funds/partech-africa-ii"},
+      "historicalInvestmentOutcomes": {"rating": 4, "evidence": "Portfolio company Wave reached unicorn status and Reliance Health progressed to a $40M Series B; Partech also led littlefish's Series A follow-on round.", "source": "https://partechpartners.com/news/littlefish-raises-95m-series-a-round-led-by-partech-to-power-merchant-infrastructure-for-banks-across-africa"}
+    }
+  },
+  {
+    "name": "4Di Capital",
+    "hq": "Cape Town, South Africa",
+    "presenceCountries": ["South Africa"],
+    "panAfrican": false,
+    "vintageYear": 2021,
+    "fundSizeUsdM": 25,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": 3, "evidence": "Fintech/insurtech is a demonstrated strength within a 31-company portfolio, anchored by crypto exchange VALR and insurtech Sendmarc.", "source": "https://www.4dicapital.com/our-portfolio"},
+      "coInvestmentReputation": {"rating": 4, "evidence": "VALR's $50M Series B (which 4Di backed) drew Pantera Capital, Coinbase Ventures, GSR, CMT Digital and Distributed Global, placing 4Di alongside well-known global crypto/fintech investors.", "source": "https://tracxn.com/d/companies/valr/__071hXOLOUZWplMqwQQw1MbAVlBPBS08vHyopkTeVJBQ#founders-and-board-of-directors"},
+      "africanMarketExpertise": {"rating": 3, "evidence": "Portfolio companies have a footprint in 15+ African countries, but 4Di's own team and office are based solely in Cape Town with no other on-continent offices found.", "source": "https://www.4dicapital.com/our-portfolio"},
+      "globalCrossBorderNetwork": {"rating": 3, "evidence": "Portfolio companies operate across North/South America, Europe, the Middle East, Asia and Australia, and VALR's round included multiple global crypto-focused investors.", "source": "https://www.4dicapital.com/our-portfolio"},
+      "operationalSupportBench": {"rating": null, "evidence": null, "source": null},
+      "regulatoryGovRelationships": {"rating": null, "evidence": null, "source": null},
+      "historicalInvestmentOutcomes": {"rating": 4, "evidence": "4Di's portfolio companies have collectively raised over $280M in follow-on funding and its debut fund returned roughly 3x MOIC, with acquisitions including Happy Pay, Bloodhound and Motribe.", "source": "https://unicorn-nest.com/funds/4di-capital/"}
+    }
+  },
+  {
+    "name": "Norrsken22",
+    "hq": "Nairobi, Kenya (Africa fund; parent Norrsken Group based in Stockholm, Sweden)",
+    "presenceCountries": ["Kenya", "Nigeria", "South Africa", "Ghana"],
+    "panAfrican": true,
+    "vintageYear": 2023,
+    "fundSizeUsdM": 205,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": 4, "evidence": "Growth-stage fund with fintech as a named priority sector, backing challenger bank TymeBank, B2B commerce platform Sabi, identity-verification firm Smile Identity and auto-financing platform Autochek.", "source": "https://techcrunch.com/2023/11/02/norrsken22s-debut-fund-closes-at-205m-to-back-growth-stage-startups-in-africa/"},
+      "coInvestmentReputation": {"rating": 4, "evidence": "~59% of its $110M initial close came from a consortium of 30 global unicorn founders (Flutterwave's Olugbenga Agboola, Skype's Niklas Zennström, iZettle's Jacob de Geer, Delivery Hero's Niklas Östberg), an unusually prominent syndicate.", "source": "https://techcrunch.com/2023/11/02/norrsken22s-debut-fund-closes-at-205m-to-back-growth-stage-startups-in-africa/"},
+      "africanMarketExpertise": {"rating": 4, "evidence": "Operational teams established across Nigeria, South Africa, Kenya and Ghana with a Nairobi-based General Partner leading Africa investments.", "source": "https://superscout.co/investor/norrsken22"},
+      "globalCrossBorderNetwork": {"rating": 4, "evidence": "LP base is anchored by global tech founders/operators (Skype, iZettle, Delivery Hero) giving portfolio companies access to an international network beyond Africa.", "source": "https://techcrunch.com/2023/11/02/norrsken22s-debut-fund-closes-at-205m-to-back-growth-stage-startups-in-africa/"},
+      "operationalSupportBench": {"rating": 3, "evidence": "Has a Principal role explicitly dedicated to operational support and strategic guidance for portfolio companies.", "source": "https://superscout.co/investor/norrsken22"},
+      "regulatoryGovRelationships": {"rating": 5, "evidence": "LP base includes British International Investment, IFC, US International Development Finance Corporation, Standard Bank and Norfund.", "source": "https://lucidityinsights.com/news/norrsken22-exceeds-expectations-raises-205-million-for-african-tech-growth-fund"},
+      "historicalInvestmentOutcomes": {"rating": 4, "evidence": "Led a $77.8M pre-Series C round in TymeBank (7M+ customers) and portfolio company Sabi has topped a $300M valuation on subsequent funding.", "source": "https://www.techinafrica.com/norrsken22-surpasses-target-with-205m-debut-africa-fund/"}
+    }
+  }
+]

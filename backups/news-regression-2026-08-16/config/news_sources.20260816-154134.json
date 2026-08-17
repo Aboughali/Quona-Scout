@@ -1,0 +1,387 @@
+{
+  "_readme": [
+    "Configurable source list for the web intelligence scan. Edit this file to add, remove or",
+    "disable sources -- no application code changes are needed.",
+    "",
+    "FIELDS",
+    "  name            display name",
+    "  domain          canonical domain, used for de-duplicating findings across sources",
+    "  enabled         false = skipped by the scan runner entirely",
+    "  sourceType      ecosystem-news | global-fintech-news | research-report | accelerator | database",
+    "  accessMethod    rss | crawler | search | manual  (decides which Apify Actor is used)",
+    "  feedUrl         RSS/Atom URL when accessMethod = rss",
+    "  startUrls       entry points when accessMethod = crawler",
+    "  archiveSearch   { type: \"wordpress\", endpoint } -- enables per-company historical backfill",
+    "                  (npm run scan:backfill). RSS only serves the newest ~10 posts, so this is",
+    "                  the only way to reach articles older than the current feed window.",
+    "  priority        1 = highest. Controls scan order and per-run item budget.",
+    "  scanFrequency   weekly | monthly | quarterly",
+    "  maxItemsPerRun  hard cap on articles pulled per run, to bound Apify cost",
+    "  lastScan        ISO timestamp, written back by the scan runner",
+    "  lastSuccess     ISO timestamp of the last run that returned >0 items",
+    "  note            why a source is disabled, or any access caveat",
+    "",
+    "ACCESS POLICY",
+    "  Sources are only enabled where content is publicly available and reachable without",
+    "  defeating a paywall, login, or robots.txt rule. Paid databases are disabled with a note",
+    "  naming the licence that would be required -- they are NOT scraped around."
+  ],
+  "defaults": {
+    "scanFrequency": "weekly",
+    "maxItemsPerRun": 40,
+    "lookbackDays": 1095
+  },
+  "sources": [
+    {
+      "name": "TechCabal",
+      "domain": "techcabal.com",
+      "enabled": true,
+      "sourceType": "ecosystem-news",
+      "accessMethod": "rss",
+      "feedUrl": "https://techcabal.com/feed/",
+      "priority": 1,
+      "scanFrequency": "weekly",
+      "maxItemsPerRun": 60,
+      "lastScan": "2026-08-15T09:10:15.866Z",
+      "lastSuccess": "2026-08-14T18:08:31.523Z",
+      "note": "Open WordPress RSS. Primary source for West/East African fintech funding coverage.",
+      "archiveSearch": {
+        "type": "wordpress",
+        "endpoint": "https://techcabal.com/wp-json/wp/v2/posts"
+      }
+    },
+    {
+      "name": "Disrupt Africa",
+      "domain": "disruptafrica.com",
+      "enabled": true,
+      "sourceType": "ecosystem-news",
+      "accessMethod": "rss",
+      "feedUrl": "https://disruptafrica.com/feed/",
+      "priority": 1,
+      "scanFrequency": "weekly",
+      "maxItemsPerRun": 60,
+      "lastScan": "2026-08-15T09:10:15.866Z",
+      "lastSuccess": "2026-08-14T18:08:31.523Z",
+      "note": "Open RSS. Strongest single source for African startup funding announcements.",
+      "archiveSearch": {
+        "type": "wordpress",
+        "endpoint": "https://disruptafrica.com/wp-json/wp/v2/posts"
+      }
+    },
+    {
+      "name": "Techpoint Africa",
+      "domain": "techpoint.africa",
+      "enabled": true,
+      "sourceType": "ecosystem-news",
+      "accessMethod": "rss",
+      "feedUrl": "https://techpoint.africa/feed/",
+      "priority": 1,
+      "scanFrequency": "weekly",
+      "maxItemsPerRun": 40,
+      "lastScan": "2026-08-15T09:12:50.384Z",
+      "lastSuccess": null,
+      "note": "Open RSS. Nigeria-weighted coverage.",
+      "archiveSearch": {
+        "type": "wordpress",
+        "endpoint": "https://techpoint.africa/wp-json/wp/v2/posts"
+      }
+    },
+    {
+      "name": "Wamda",
+      "domain": "wamda.com",
+      "enabled": true,
+      "sourceType": "ecosystem-news",
+      "accessMethod": "rss",
+      "feedUrl": "https://www.wamda.com/feed",
+      "priority": 1,
+      "scanFrequency": "weekly",
+      "maxItemsPerRun": 40,
+      "lastScan": "2026-08-15T09:10:15.866Z",
+      "lastSuccess": "2026-08-14T18:08:31.523Z",
+      "note": "Open RSS. Best coverage of Egypt / MENA-Africa crossover deals.",
+      "archiveNote": "Not WordPress -- no public archive API found. Feed-only, so history is limited to the RSS window."
+    },
+    {
+      "name": "TechAfrica News",
+      "domain": "techafricanews.com",
+      "enabled": true,
+      "sourceType": "ecosystem-news",
+      "accessMethod": "rss",
+      "feedUrl": "https://techafricanews.com/feed/",
+      "priority": 2,
+      "scanFrequency": "weekly",
+      "maxItemsPerRun": 30,
+      "lastScan": "2026-08-15T09:10:15.866Z",
+      "lastSuccess": "2026-08-15T09:10:15.866Z",
+      "note": "Open RSS.",
+      "archiveNote": "WordPress REST archive returns itsec_rest_api_access_restricted; archive search not attempted."
+    },
+    {
+      "name": "CIO Africa",
+      "domain": "cioafrica.co",
+      "enabled": true,
+      "sourceType": "ecosystem-news",
+      "accessMethod": "rss",
+      "feedUrl": "https://cioafrica.co/feed/",
+      "priority": 3,
+      "scanFrequency": "weekly",
+      "maxItemsPerRun": 20,
+      "lastScan": "2026-08-15T09:10:15.866Z",
+      "lastSuccess": "2026-08-15T09:10:15.866Z",
+      "note": "Open RSS. Enterprise-IT weighted; lower fintech-funding yield expected.",
+      "archiveSearch": {
+        "type": "wordpress",
+        "endpoint": "https://cioafrica.co/wp-json/wp/v2/posts"
+      }
+    },
+    {
+      "name": "Business Insider Africa",
+      "domain": "africa.businessinsider.com",
+      "enabled": true,
+      "sourceType": "ecosystem-news",
+      "accessMethod": "crawler",
+      "startUrls": [
+        "https://africa.businessinsider.com/local/markets"
+      ],
+      "priority": 3,
+      "scanFrequency": "weekly",
+      "maxItemsPerRun": 20,
+      "lastScan": "2026-08-15T09:12:50.384Z",
+      "lastSuccess": null,
+      "note": "No reliable public feed found; crawled from the markets section. Verify robots.txt on first run."
+    },
+    {
+      "name": "TechCrunch",
+      "domain": "techcrunch.com",
+      "enabled": true,
+      "sourceType": "global-fintech-news",
+      "accessMethod": "rss",
+      "feedUrl": "https://techcrunch.com/feed/",
+      "priority": 2,
+      "scanFrequency": "weekly",
+      "maxItemsPerRun": 60,
+      "lastScan": "2026-08-15T09:10:15.866Z",
+      "lastSuccess": null,
+      "note": "Open RSS. High volume and mostly non-African -- relies on downstream relevance filtering.",
+      "archiveSearch": {
+        "type": "wordpress",
+        "endpoint": "https://techcrunch.com/wp-json/wp/v2/posts"
+      }
+    },
+    {
+      "name": "FinTech Futures",
+      "domain": "fintechfutures.com",
+      "enabled": true,
+      "sourceType": "global-fintech-news",
+      "accessMethod": "rss",
+      "feedUrl": "https://www.fintechfutures.com/feed/",
+      "priority": 2,
+      "scanFrequency": "weekly",
+      "maxItemsPerRun": 40,
+      "lastScan": "2026-08-15T09:12:50.384Z",
+      "lastSuccess": null,
+      "note": "Open RSS."
+    },
+    {
+      "name": "Fintech Global",
+      "domain": "fintech.global",
+      "enabled": true,
+      "sourceType": "global-fintech-news",
+      "accessMethod": "rss",
+      "feedUrl": "https://fintech.global/feed/",
+      "priority": 3,
+      "scanFrequency": "weekly",
+      "maxItemsPerRun": 30,
+      "lastScan": "2026-08-15T09:10:15.866Z",
+      "lastSuccess": null,
+      "note": "Open RSS.",
+      "archiveSearch": {
+        "type": "wordpress",
+        "endpoint": "https://fintech.global/wp-json/wp/v2/posts"
+      }
+    },
+    {
+      "name": "PYMNTS",
+      "domain": "pymnts.com",
+      "enabled": true,
+      "sourceType": "global-fintech-news",
+      "accessMethod": "rss",
+      "feedUrl": "https://www.pymnts.com/feed/",
+      "priority": 3,
+      "scanFrequency": "weekly",
+      "maxItemsPerRun": 30,
+      "lastScan": "2026-08-15T09:10:15.866Z",
+      "lastSuccess": null,
+      "note": "Open RSS. Payments-heavy, mostly US/EU -- low African yield expected.",
+      "archiveSearch": {
+        "type": "wordpress",
+        "endpoint": "https://www.pymnts.com/wp-json/wp/v2/posts"
+      }
+    },
+    {
+      "name": "Africa: The Big Deal",
+      "domain": "africathebigdeal.substack.com",
+      "enabled": true,
+      "sourceType": "research-report",
+      "accessMethod": "rss",
+      "feedUrl": "https://africathebigdeal.substack.com/feed",
+      "priority": 1,
+      "scanFrequency": "weekly",
+      "maxItemsPerRun": 20,
+      "lastScan": "2026-08-15T09:12:50.384Z",
+      "lastSuccess": null,
+      "note": "Substack RSS covers FREE posts only. The underlying deal database is a paid product and is NOT accessed here -- subscriber-only posts will be truncated by design, which is expected and correct."
+    },
+    {
+      "name": "Africa Private Equity News",
+      "domain": "africaprivateequitynews.com",
+      "enabled": true,
+      "sourceType": "ecosystem-news",
+      "accessMethod": "rss",
+      "feedUrl": "https://www.africaprivateequitynews.com/feed/",
+      "priority": 2,
+      "scanFrequency": "weekly",
+      "maxItemsPerRun": 20,
+      "lastScan": "2026-08-15T09:10:15.866Z",
+      "lastSuccess": "2026-08-15T09:10:15.866Z",
+      "note": "Partial paywall: headlines and summaries are public, full articles are subscriber-only. Only public content is retained.",
+      "archiveSearch": {
+        "type": "wordpress",
+        "endpoint": "https://africaprivateequitynews.com/wp-json/wp/v2/posts",
+        "note": "Bare host only -- www. returns 404 on wp-json. Archive appears dormant (newest post 2022)."
+      }
+    },
+    {
+      "name": "Enterprise (EnterpriseAM)",
+      "domain": "enterprise.press",
+      "enabled": true,
+      "sourceType": "ecosystem-news",
+      "accessMethod": "crawler",
+      "startUrls": [
+        "https://enterprise.press/"
+      ],
+      "priority": 2,
+      "scanFrequency": "weekly",
+      "maxItemsPerRun": 20,
+      "lastScan": "2026-08-15T09:12:50.384Z",
+      "lastSuccess": null,
+      "note": "Egypt-focused daily brief. Web edition is public; email edition requires signup and is not used. Verify robots.txt on first run."
+    },
+    {
+      "name": "Y Combinator",
+      "domain": "ycombinator.com",
+      "enabled": true,
+      "sourceType": "accelerator",
+      "accessMethod": "crawler",
+      "startUrls": [
+        "https://www.ycombinator.com/companies?regions=Africa"
+      ],
+      "priority": 2,
+      "scanFrequency": "monthly",
+      "maxItemsPerRun": 100,
+      "lastScan": "2026-08-15T09:12:50.384Z",
+      "lastSuccess": null,
+      "note": "Public company directory. JS-rendered, so needs the browser-based crawler. Used for new-cohort discovery (Phase 4)."
+    },
+    {
+      "name": "500 Global",
+      "domain": "500.co",
+      "enabled": true,
+      "sourceType": "accelerator",
+      "accessMethod": "crawler",
+      "startUrls": [
+        "https://500.co/companies"
+      ],
+      "priority": 3,
+      "scanFrequency": "monthly",
+      "maxItemsPerRun": 60,
+      "lastScan": "2026-08-15T09:12:50.384Z",
+      "lastSuccess": null,
+      "note": "Public portfolio page, JS-rendered. Structure changes periodically -- expect occasional breakage."
+    },
+    {
+      "name": "Plug and Play",
+      "domain": "plugandplaytechcenter.com",
+      "enabled": true,
+      "sourceType": "accelerator",
+      "accessMethod": "crawler",
+      "startUrls": [
+        "https://www.plugandplaytechcenter.com/newsroom"
+      ],
+      "priority": 3,
+      "scanFrequency": "monthly",
+      "maxItemsPerRun": 30,
+      "lastScan": "2026-08-15T09:12:50.384Z",
+      "lastSuccess": null,
+      "note": "Newsroom is public; the portfolio explorer is JS-heavy and less reliable."
+    },
+    {
+      "name": "Partech Africa",
+      "domain": "partechpartners.com",
+      "enabled": true,
+      "sourceType": "research-report",
+      "accessMethod": "crawler",
+      "startUrls": [
+        "https://partechpartners.com/africa-reports"
+      ],
+      "priority": 3,
+      "scanFrequency": "quarterly",
+      "maxItemsPerRun": 10,
+      "lastScan": "2026-08-15T09:12:50.384Z",
+      "lastSuccess": null,
+      "note": "Annual/semi-annual Africa Tech Venture Capital reports, published free as web pages and PDFs. Low frequency; PDF parsing lands in Phase 2."
+    },
+    {
+      "name": "FT Partners",
+      "domain": "ftpartners.com",
+      "enabled": false,
+      "sourceType": "research-report",
+      "accessMethod": "manual",
+      "priority": 4,
+      "scanFrequency": "quarterly",
+      "maxItemsPerRun": 0,
+      "lastScan": null,
+      "lastSuccess": null,
+      "note": "DISABLED: research reports are gated behind an email-registration wall. Automating that form would be defeating an access control. Recommended alternative: subscribe to their free research mailing list and drop the PDFs into a watched folder for manual ingest."
+    },
+    {
+      "name": "Crunchbase",
+      "domain": "crunchbase.com",
+      "enabled": false,
+      "sourceType": "database",
+      "accessMethod": "manual",
+      "priority": 4,
+      "scanFrequency": "weekly",
+      "maxItemsPerRun": 0,
+      "lastScan": null,
+      "lastSuccess": null,
+      "note": "DISABLED: Crunchbase Terms of Service expressly prohibit scraping, and the data is licensed. Legitimate access requires the paid Crunchbase Basic/Pro API (from ~$49/mo for the API tier). Not purchased -- see the user's instruction. If licensed later, add an apiKey field and switch accessMethod to 'api'."
+    },
+    {
+      "name": "MAGNiTT",
+      "domain": "magnitt.com",
+      "enabled": false,
+      "sourceType": "database",
+      "accessMethod": "manual",
+      "priority": 4,
+      "scanFrequency": "weekly",
+      "maxItemsPerRun": 0,
+      "lastScan": null,
+      "lastSuccess": null,
+      "note": "DISABLED: commercial venture database behind a login/paywall. Requires a paid MAGNiTT subscription or their enterprise API. Not purchased. Their free public blog posts are the only open surface and are low-yield."
+    },
+    {
+      "name": "Briter Bridges",
+      "domain": "briterbridges.com",
+      "enabled": false,
+      "sourceType": "database",
+      "accessMethod": "manual",
+      "priority": 4,
+      "scanFrequency": "weekly",
+      "maxItemsPerRun": 0,
+      "lastScan": null,
+      "lastSuccess": null,
+      "note": "DISABLED: Briter Intelligence is a paid licensed database. Public site carries only summary insight posts. Requires a commercial licence for the underlying deal data. Not purchased."
+    }
+  ]
+}

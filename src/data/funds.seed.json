@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Flourish Ventures",
+    "hq": "San Francisco, USA",
+    "presenceCountries": ["Nigeria", "Egypt", "Kenya", "South Africa"],
+    "panAfrican": true,
+    "vintageYear": 2019,
+    "fundSizeUsdM": 850,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": 5, "evidence": "$850M fintech-focused portfolio incl. Flutterwave, Chime, FairMoney.", "source": null},
+      "coInvestmentReputation": {"rating": null, "evidence": null, "source": null},
+      "africanMarketExpertise": {"rating": null, "evidence": null, "source": null},
+      "globalCrossBorderNetwork": {"rating": null, "evidence": null, "source": null},
+      "operationalSupportBench": {"rating": null, "evidence": null, "source": null},
+      "regulatoryGovRelationships": {"rating": null, "evidence": null, "source": null},
+      "historicalInvestmentOutcomes": {"rating": 4, "evidence": "Led MoneyHash pre-Series A; co-led HoneyCoin seed w/ TLcom.", "source": null}
+    }
+  },
+  {
+    "name": "Algebra Ventures",
+    "hq": "Cairo, Egypt",
+    "presenceCountries": ["Egypt"],
+    "panAfrican": false,
+    "vintageYear": 2022,
+    "fundSizeUsdM": 100,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": null, "evidence": null, "source": null},
+      "coInvestmentReputation": {"rating": 4, "evidence": "Co-invested with Quona Capital on enza.", "source": null},
+      "africanMarketExpertise": {"rating": null, "evidence": null, "source": null},
+      "globalCrossBorderNetwork": {"rating": null, "evidence": null, "source": null},
+      "operationalSupportBench": {"rating": null, "evidence": null, "source": null},
+      "regulatoryGovRelationships": {"rating": 4, "evidence": "DFI/govt LP base, Egypt-dedicated Fund II ($100M, 2022).", "source": null},
+      "historicalInvestmentOutcomes": {"rating": null, "evidence": null, "source": null}
+    }
+  },
+  {
+    "name": "TLcom Capital",
+    "hq": "London, UK",
+    "presenceCountries": ["Nigeria", "Kenya"],
+    "panAfrican": true,
+    "vintageYear": 2020,
+    "fundSizeUsdM": 350,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": null, "evidence": null, "source": null},
+      "coInvestmentReputation": {"rating": 4, "evidence": "Co-invested with Flourish Ventures on HoneyCoin.", "source": null},
+      "africanMarketExpertise": {"rating": 4, "evidence": "$350M+ AUM, offices in Lagos and Nairobi.", "source": null},
+      "globalCrossBorderNetwork": {"rating": 3, "evidence": "London HQ alongside Lagos/Nairobi offices.", "source": null},
+      "operationalSupportBench": {"rating": null, "evidence": null, "source": null},
+      "regulatoryGovRelationships": {"rating": null, "evidence": null, "source": null},
+      "historicalInvestmentOutcomes": {"rating": null, "evidence": null, "source": null}
+    }
+  },
+  {
+    "name": "54 Collective (ex-FFA)",
+    "hq": "London, UK",
+    "presenceCountries": ["South Africa", "Nigeria", "Kenya", "Egypt"],
+    "panAfrican": true,
+    "vintageYear": 2017,
+    "fundSizeUsdM": null,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": null, "evidence": null, "source": null},
+      "coInvestmentReputation": {"rating": null, "evidence": null, "source": null},
+      "africanMarketExpertise": {"rating": null, "evidence": null, "source": null},
+      "globalCrossBorderNetwork": {"rating": null, "evidence": null, "source": null},
+      "operationalSupportBench": {"rating": null, "evidence": null, "source": null},
+      "regulatoryGovRelationships": {"rating": null, "evidence": null, "source": null},
+      "historicalInvestmentOutcomes": {"rating": null, "evidence": null, "source": null}
+    },
+    "notes": "Co-led Scale's pre-seed. No further verified profile data yet (0 of 9 dimensions per original spec worked example)."
+  }
+]

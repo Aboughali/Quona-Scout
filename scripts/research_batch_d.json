@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Havaic",
+    "hq": "Cape Town, South Africa",
+    "presenceCountries": ["South Africa"],
+    "panAfrican": false,
+    "vintageYear": 2024,
+    "fundSizeUsdM": 50,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": 4, "evidence": "Fintech investments include SAPay (2025, minibus taxi digital payments), NjiaPay (pan-African payments), Talk360 and Entersekt (fraud/authentication), spanning multiple funds and recent vintages.", "source": "https://www.havaic.com/"},
+      "coInvestmentReputation": {"rating": 4, "evidence": "Regularly co-invests with recognized African/global VCs such as 4Di Capital, Knife Capital and CRE Venture Capital, and its RapidDeploy exit included GM Ventures and Edison Partners as co-investors.", "source": "https://www.africaprivateequitynews.com/p/havaic-and-4di-capital-invest-in-talk360"},
+      "africanMarketExpertise": {"rating": 3, "evidence": "Single office in Cape Town but stated investment focus/activity spans South Africa, Nigeria and Kenya (e.g. lead investment in Kenya's Mpost).", "source": "https://www.techinafrica.com/south-african-advisory-firm-havaic-invests-kenyas-startup-mpost/"},
+      "globalCrossBorderNetwork": {"rating": 3, "evidence": "Portfolio company RapidDeploy was acquired by US-listed Motorola Solutions, with US growth investor Edison Partners and GM Ventures among co-investors, showing a US capital-markets bridge.", "source": "https://weetracker.com/2025/02/24/rapiddeploy-acquired-by-motorola/"},
+      "operationalSupportBench": {"rating": null, "evidence": null, "source": null},
+      "regulatoryGovRelationships": {"rating": null, "evidence": null, "source": null},
+      "historicalInvestmentOutcomes": {"rating": 4, "evidence": "Six exits to date including the RapidDeploy sale to Motorola Solutions (one of the largest South African tech exits), with portfolio companies collectively generating $160M in 2025 revenue.", "source": "https://www.itweb.co.za/article/havaic-start-ups-generate-160m-revenue/rW1xL75nXENMRk6m"}
+    }
+  },
+  {
+    "name": "Techstars",
+    "hq": "Boulder, Colorado, USA (global HQ); Africa program based in Nairobi, Kenya and Lagos, Nigeria",
+    "presenceCountries": ["Kenya", "Nigeria", "South Africa"],
+    "panAfrican": true,
+    "vintageYear": 2021,
+    "fundSizeUsdM": null,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": 4, "evidence": "ARM Labs Techstars Lagos accelerator is explicitly focused on early-stage fintech and proptech, and Techstars has backed close to 100 African startups including several fintechs (Quidax, Flexpay, OurPass).", "source": "https://thecondia.com/lagos-techstars-accelerator-arm-labs/"},
+      "coInvestmentReputation": {"rating": 5, "evidence": "Techstars portfolio companies have collectively raised over $300M in follow-on funding from Sequoia, IDG, Greycroft, Tiger Global and SoftBank, reflecting a strong global co-investor network.", "source": "https://techcabal.com/2023/12/14/techstars-second-cohort/"},
+      "africanMarketExpertise": {"rating": 3, "evidence": "Runs dedicated programs with local teams in Nairobi and Lagos (plus a 2016-17 Cape Town Barclays Accelerator), with investments across Nigeria, Kenya and South Africa.", "source": "https://www.techstars.com/newsroom/africas-most-active-startup-investor-techstars-announces-12-new-investments-in-Africa"},
+      "globalCrossBorderNetwork": {"rating": 5, "evidence": "Techstars operates a global accelerator network with community leaders in 130 countries and decades of worldwide mentor/investor relationships.", "source": "https://www.techstars.com/newsroom/techstars-announces-new-community-leadership-team-plans-for-enhanced"},
+      "operationalSupportBench": {"rating": 5, "evidence": "Core model is a structured 3-month mentorship-driven accelerator program with a dedicated global operations/community team supporting founders beyond capital.", "source": "https://www.techstars.com/newsroom/techstars-announces-new-community-leadership-team-plans-for-enhanced"},
+      "regulatoryGovRelationships": {"rating": null, "evidence": null, "source": null},
+      "historicalInvestmentOutcomes": {"rating": 4, "evidence": "Barclays Accelerator (powered by Techstars) alumni across London/NY/Tel Aviv/Cape Town amassed over $4bn in combined market cap after seven years of cohorts.", "source": "https://home.barclays/news/2021/09/The-Accelerator-was-a-game-changer-for-us/"}
+    }
+  },
+  {
+    "name": "Edge Growth",
+    "hq": "Johannesburg, South Africa",
+    "presenceCountries": ["South Africa"],
+    "panAfrican": false,
+    "vintageYear": 2007,
+    "fundSizeUsdM": null,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": 3, "evidence": "Direct and managed-fund portfolio includes fintech names (ProfitShare Partners, Inoxico) alongside enterprise/consumer tech, though overall direct portfolio is small (~8 companies).", "source": "https://tracxn.com/d/venture-capital/edge-growth/__jLaiIzIol9_BqYXXr_iET_h2xTQNSWoW-CQTLMGJrwY"},
+      "coInvestmentReputation": {"rating": null, "evidence": null, "source": null},
+      "africanMarketExpertise": {"rating": 2, "evidence": "Funding criteria explicitly restrict investment to businesses located and owned within South Africa; no evidence of multi-country African presence.", "source": "https://edgegrowth.com/funding-criteria/"},
+      "globalCrossBorderNetwork": {"rating": null, "evidence": null, "source": null},
+      "operationalSupportBench": {"rating": 4, "evidence": "Edge Growth's core mandate is enterprise/supplier development fund management, providing growth-strategy support, process streamlining and 'Super Coach' matching to portfolio SMEs via managed funds like Vumela.", "source": "https://edgegrowth.com/fund-management/"},
+      "regulatoryGovRelationships": {"rating": 4, "evidence": "Manages SME/impact funds on behalf of major bank FirstRand/FNB and government-linked entities (e.g. the Jobs Fund via Vumela), and applies IFC-exclusion-list and B-BBEE compliance standards.", "source": "https://edgegrowth.com/fund-management/"},
+      "historicalInvestmentOutcomes": {"rating": 2, "evidence": "Has deployed almost R1.5bn to hundreds of businesses with documented job-creation outcomes, but no major follow-on Series A/B/C rounds or acquisitions were found in public sources.", "source": "https://edgegrowth.com/fund-management/"}
+    }
+  },
+  {
+    "name": "Vumela Fund",
+    "hq": "South Africa (managed by Edge Growth on behalf of FNB Business Banking/FirstRand)",
+    "presenceCountries": ["South Africa"],
+    "panAfrican": false,
+    "vintageYear": 2009,
+    "fundSizeUsdM": 32,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": 3, "evidence": "Fintech investments include ProfitShare Partners (SME profit-share lending) and Inoxico (commercial credit-risk analytics), both fintech-adjacent SME finance plays.", "source": "https://www.bizcommunity.com/Article/196/518/197558.html"},
+      "coInvestmentReputation": {"rating": null, "evidence": null, "source": null},
+      "africanMarketExpertise": {"rating": 1, "evidence": "Fund criteria and deployment are limited to South African SMEs (majority black-owned, under R50m turnover); no evidence of multi-country African activity.", "source": "https://vumelafund.com/about/"},
+      "globalCrossBorderNetwork": {"rating": null, "evidence": null, "source": null},
+      "operationalSupportBench": {"rating": 4, "evidence": "Provides structured non-financial support including the '10X-e' scale-up accelerator programme and 'Super Coaches' who have navigated similar scaling challenges, plus market access via corporate supply-chain relationships.", "source": "https://vumelafund.com/about/"},
+      "regulatoryGovRelationships": {"rating": 4, "evidence": "Capitalised by FirstRand/FNB Business Banking (major SA bank) together with the government-linked Jobs Fund, a strong bank + public-sector LP combination.", "source": "https://vumelafund.com/about/"},
+      "historicalInvestmentOutcomes": {"rating": 2, "evidence": "First three fund phases collectively deployed R404 million across ~21 investments and created over 6,500 jobs (2010-2021), but no major follow-on financings or exits are documented.", "source": "https://www.crunchbase.com/organization/vumela-fund"}
+    }
+  },
+  {
+    "name": "Distributed Capital",
+    "hq": "New York, NY, USA",
+    "presenceCountries": [],
+    "panAfrican": false,
+    "vintageYear": 2017,
+    "fundSizeUsdM": null,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": 2, "evidence": "Portfolio is blockchain/crypto-fintech focused (Accrue, Chronicle, Igloo) but is not Africa-specific and depth of dedicated fintech coverage beyond crypto infrastructure is unclear.", "source": "https://www.crunchbase.com/organization/distributed-capital-partners-cd36"},
+      "coInvestmentReputation": {"rating": 3, "evidence": "Co-invested in Accrue's $1.58M seed round alongside Lattice Fund, Kraynos Capital, Lava and Maven 11 — a recognizable crypto-native VC syndicate.", "source": "https://techpoint.africa/news/accrue-raises-1-58-million-seed-round/"},
+      "africanMarketExpertise": {"rating": null, "evidence": null, "source": null},
+      "globalCrossBorderNetwork": {"rating": 3, "evidence": "US-based fund investing broadly across early-stage blockchain, distributed software and protocol-token companies globally, not regionally concentrated.", "source": "https://www.distributedcapital.io/"},
+      "operationalSupportBench": {"rating": null, "evidence": null, "source": null},
+      "regulatoryGovRelationships": {"rating": null, "evidence": null, "source": null},
+      "historicalInvestmentOutcomes": {"rating": null, "evidence": null, "source": null}
+    }
+  },
+  {
+    "name": "Fedgroup Private Capital",
+    "hq": "Sandton, Johannesburg, South Africa",
+    "presenceCountries": ["South Africa"],
+    "panAfrican": false,
+    "vintageYear": null,
+    "fundSizeUsdM": null,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": 1, "evidence": "Fedgroup is fundamentally an asset-backed private credit/lending business (property, energy, agriculture); the only identified fintech-adjacent equity activity is a small $161K seed investment in insurtech LeaseSurance.", "source": "https://startuplist.africa/investor/fedgroup"},
+      "coInvestmentReputation": {"rating": null, "evidence": null, "source": null},
+      "africanMarketExpertise": {"rating": null, "evidence": null, "source": null},
+      "globalCrossBorderNetwork": {"rating": null, "evidence": null, "source": null},
+      "operationalSupportBench": {"rating": null, "evidence": null, "source": null},
+      "regulatoryGovRelationships": {"rating": null, "evidence": null, "source": null},
+      "historicalInvestmentOutcomes": {"rating": null, "evidence": null, "source": null}
+    }
+  },
+  {
+    "name": "Kraynos Capital",
+    "hq": "Miami, Florida, USA",
+    "presenceCountries": [],
+    "panAfrican": false,
+    "vintageYear": 2022,
+    "fundSizeUsdM": null,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": 2, "evidence": "Small portfolio (roughly 3-6 disclosed investments) at the TradFi/DeFi intersection, including cross-border payments company Caliza and Nigerian fintech Accrue.", "source": "https://tracxn.com/d/venture-capital/kraynos-capital/__hxqsMWjqhAPeLL5NqOJsAsivEBur-hBiOffWTDJvFPI"},
+      "coInvestmentReputation": {"rating": 3, "evidence": "Co-invested alongside reputable crypto VCs including Pantera Capital, Standard Crypto, ParaFi Capital and Distributed Capital Partners across its portfolio.", "source": "https://tracxn.com/d/venture-capital/kraynos-capital/__hxqsMWjqhAPeLL5NqOJsAsivEBur-hBiOffWTDJvFPI"},
+      "africanMarketExpertise": {"rating": null, "evidence": null, "source": null},
+      "globalCrossBorderNetwork": {"rating": 3, "evidence": "Portfolio includes Caliza, a cross-border payments/digital-dollar-account API company, reflecting a global TradFi-DeFi cross-border focus.", "source": "https://tracxn.com/d/venture-capital/kraynos-capital/__hxqsMWjqhAPeLL5NqOJsAsivEBur-hBiOffWTDJvFPI"},
+      "operationalSupportBench": {"rating": null, "evidence": null, "source": null},
+      "regulatoryGovRelationships": {"rating": null, "evidence": null, "source": null},
+      "historicalInvestmentOutcomes": {"rating": null, "evidence": null, "source": null}
+    }
+  },
+  {
+    "name": "Lattice Fund",
+    "hq": "United States (San Francisco / New York)",
+    "presenceCountries": [],
+    "panAfrican": false,
+    "vintageYear": 2021,
+    "fundSizeUsdM": 60,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": 3, "evidence": "81-project crypto portfolio includes fintech-relevant names like Accrue and Daya (African cross-border payments) alongside Immunefi and Protocol Labs, but depth is crypto-infrastructure-wide rather than fintech-specific.", "source": "https://www.lattice.fund/writing-and-press/investing-in-accrue"},
+      "coInvestmentReputation": {"rating": 4, "evidence": "Led Accrue's seed alongside Kraynos Capital, Distributed Capital, Lava and Maven 11, and co-invested in Daya with Hivemind Capital, Alliance and Aptos Network; institutional LP Accolade Partners also backs the fund.", "source": "https://techpoint.africa/news/accrue-raises-1-58-million-seed-round/"},
+      "africanMarketExpertise": {"rating": null, "evidence": null, "source": null},
+      "globalCrossBorderNetwork": {"rating": 4, "evidence": "Founding team scaled Solana, OpenSea and CoinList (including CoinList Seed), giving the fund deep global crypto-network reach; second fund raised $60M in 2022.", "source": "https://www.dlnews.com/articles/markets/crypto-vc-lattice-raises-third-fund-in-surging-crypto-market/"},
+      "operationalSupportBench": {"rating": null, "evidence": null, "source": null},
+      "regulatoryGovRelationships": {"rating": null, "evidence": null, "source": null},
+      "historicalInvestmentOutcomes": {"rating": 3, "evidence": "Co-founder Regan Bozman was an early investor in OpenSea's seed round (a major crypto success), and the fund's broader portfolio includes Protocol Labs/Filecoin.", "source": "https://www.decentralised.co/p/crystal-clear-lattice"}
+    }
+  }
+]

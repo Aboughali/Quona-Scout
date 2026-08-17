@@ -1,0 +1,56 @@
+{
+  "_note": "Snapshot of in-app manual overrides taken BEFORE the Part 1-12 investor-scoring changes. Restore via the app's Import Backup button if anything is lost.",
+  "schemaVersion": 2,
+  "exportedAt": "2026-08-14T19:11:59.000Z",
+  "userName": "Investor",
+  "fieldEdits": {
+    "honeycoin": {
+      "classifications.multiMarket": {
+        "fieldPath": "classifications.multiMarket",
+        "originalValue": false,
+        "originalSource": "HQ/base = Kenya; no multi-market evidence found",
+        "currentValue": true,
+        "isOverridden": true,
+        "sources": [],
+        "history": [
+          {
+            "id": "5i3628tvbjhmst525sl",
+            "timestamp": "2026-08-14T16:05:33.525Z",
+            "user": "Investor",
+            "kind": "override",
+            "previousValue": false,
+            "newValue": true,
+            "reason": "operational in 32 african markets",
+            "source": "https://honeycoin.app/coverage",
+            "confidence": "Medium"
+          }
+        ]
+      }
+    },
+    "numida": {
+      "classifications.multiMarket": {
+        "fieldPath": "classifications.multiMarket",
+        "originalValue": false,
+        "originalSource": "HQ/base = Uganda; no multi-market evidence found",
+        "currentValue": true,
+        "isOverridden": true,
+        "sources": [],
+        "history": [
+          {
+            "id": "97a0sq80iovmst54j8o",
+            "timestamp": "2026-08-14T16:07:24.264Z",
+            "user": "Investor",
+            "kind": "override",
+            "previousValue": false,
+            "newValue": true,
+            "reason": "Uganda, Tanzania, Rwanda, Kenya",
+            "source": "Founder meeting",
+            "confidence": "Medium"
+          }
+        ]
+      }
+    }
+  },
+  "commentary": {},
+  "manualCompanies": []
+}

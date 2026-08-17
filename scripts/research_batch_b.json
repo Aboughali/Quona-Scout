@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Baobab Network",
+    "hq": "Nairobi, Kenya",
+    "presenceCountries": ["Kenya", "Nigeria", "South Africa", "Ghana", "Rwanda", "Ethiopia", "United Kingdom"],
+    "panAfrican": true,
+    "vintageYear": 2015,
+    "fundSizeUsdM": null,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": 3, "evidence": "Fintech-focused seed portfolio includes CreditChek, Alerzo and FXKUDI among ~48 accelerated companies, though check sizes are very small ($25K-$50K).", "source": "https://thebaobabnetwork.com/portfolio/"},
+      "coInvestmentReputation": {"rating": null, "evidence": null, "source": null},
+      "africanMarketExpertise": {"rating": 4, "evidence": "Genuinely pan-African team footprint with offices in Kenya, Nigeria, South Africa, Ghana, Rwanda and Ethiopia beyond its Nairobi HQ.", "source": "https://thebaobabnetwork.com/"},
+      "globalCrossBorderNetwork": {"rating": 3, "evidence": "Runs a London office and states its accelerator connects African startups to angels/VCs in Europe, the US and Asia for follow-on capital.", "source": "https://thebaobabnetwork.com/investors/"},
+      "operationalSupportBench": {"rating": 4, "evidence": "12-week intensive accelerator program with structured mentorship and ongoing venture support is the firm's core stated offering.", "source": "https://thebaobabnetwork.com/"},
+      "regulatoryGovRelationships": {"rating": null, "evidence": null, "source": null},
+      "historicalInvestmentOutcomes": {"rating": null, "evidence": null, "source": null}
+    }
+  },
+  {
+    "name": "Savannah Fund",
+    "hq": "Nairobi, Kenya",
+    "presenceCountries": ["Kenya", "Nigeria", "South Africa", "Tanzania"],
+    "panAfrican": true,
+    "vintageYear": 2021,
+    "fundSizeUsdM": 25,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": 3, "evidence": "Fintech is one of several core sectors (alongside edtech, logistics, agtech); notable fintech name is lending startup Lidya, but breadth is modest across 43 total portfolio companies.", "source": "https://kenyanwallstreet.com/savannah-launches-25-million-fund"},
+      "coInvestmentReputation": {"rating": null, "evidence": null, "source": null},
+      "africanMarketExpertise": {"rating": 4, "evidence": "Core markets Kenya, Nigeria and South Africa with stated expansion into Rwanda, Ethiopia, Uganda, Ivory Coast and Ghana; 43 companies backed across sub-Saharan Africa since 2012.", "source": "https://savannah.vc/2021/03/10/savannah-fund-launches-second-25m-africa-tech-seed-fund-led-by-ifc-draper-and-others/"},
+      "globalCrossBorderNetwork": {"rating": 3, "evidence": "Backed by Tim Draper/Draper Associates, which brings a global fund network, and the firm states it connects ventures with mentor networks in Silicon Valley.", "source": "https://www.alexanderjarvis.com/vc-investment-thesis-savannah-fund/"},
+      "operationalSupportBench": {"rating": 3, "evidence": "States it combines capital with mentor networks and local technical assistance both regionally and via Silicon Valley connections.", "source": "https://techpoint.africa/2021/10/13/how-savannah-fund-invests/"},
+      "regulatoryGovRelationships": {"rating": 4, "evidence": "Fund II was anchored by the International Finance Corporation (IFC), a major DFI, as lead LP.", "source": "https://savannah.vc/2021/03/10/savannah-fund-launches-second-25m-africa-tech-seed-fund-led-by-ifc-draper-and-others/"},
+      "historicalInvestmentOutcomes": {"rating": 4, "evidence": "Portfolio companies (Sendy, Lidya, Smile Identity, Aerobotics) have collectively raised over $200M in follow-on funding after Savannah's initial checks.", "source": "https://tracxn.com/d/venture-capital/savannah-fund/__7P0NWuZS8b1CrqIzTKEh_wbt8wx-AWBX8x7Kns87t5Y"}
+    }
+  },
+  {
+    "name": "BECO Capital",
+    "hq": "Dubai, United Arab Emirates",
+    "presenceCountries": ["United Arab Emirates"],
+    "panAfrican": false,
+    "vintageYear": 2012,
+    "fundSizeUsdM": 820,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": 5, "evidence": "Fintech is a core anchor sector across a 53-company portfolio with 4 unicorns, including Careem's fintech/super-app layer and payments plays; $820M+ AUM after a $370M dual-fund close in 2025.", "source": "https://www.becocapital.com/portfolio/"},
+      "coInvestmentReputation": {"rating": 5, "evidence": "Co-invested alongside Al Tayyar, STC Ventures, Impulse (Kuwait Investment Authority subsidiary), Lumia Capital and Wamda Capital in Careem's round, and regularly syndicates with 500 Global.", "source": "https://medium.com/beco-capital/careem-a-legend-in-the-making-1dcc1c91fd67"},
+      "africanMarketExpertise": {"rating": 1, "evidence": "Gulf/MENA-centric investor with no evidence of sub-Saharan African team presence or meaningful African portfolio breadth.", "source": "https://www.becocapital.com/"},
+      "globalCrossBorderNetwork": {"rating": 4, "evidence": "Portfolio exits demonstrate global reach: Careem acquired by Uber for $3.1B (2020) and SWVL listed on NASDAQ (2021).", "source": "https://dealroom.co/investors/beco-capital/"},
+      "operationalSupportBench": {"rating": null, "evidence": null, "source": null},
+      "regulatoryGovRelationships": {"rating": 4, "evidence": "BECO Fund III includes IFC (International Finance Corporation) financing as part of its capital base, a documented DFI relationship.", "source": "https://ewsdata.rightsindevelopment.org/projects/44962-beco-fund-iii/"},
+      "historicalInvestmentOutcomes": {"rating": 5, "evidence": "Nine exits to date, headlined by Careem's $3.1B acquisition by Uber and SWVL's 2021 NASDAQ IPO.", "source": "https://dealroom.co/investors/beco-capital/"}
+    }
+  },
+  {
+    "name": "Shorooq Partners",
+    "hq": "Abu Dhabi, United Arab Emirates",
+    "presenceCountries": ["United Arab Emirates", "Saudi Arabia", "Egypt", "Bahrain", "Pakistan"],
+    "panAfrican": false,
+    "vintageYear": 2017,
+    "fundSizeUsdM": 500,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": 5, "evidence": "Deep fintech sector expertise across 94 portfolio companies, including Tamara, Sarwa, Lean Technologies, Nymcard, Mozn and Lendo.", "source": "https://www.shorooq.com/portfolio"},
+      "coInvestmentReputation": {"rating": null, "evidence": null, "source": null},
+      "africanMarketExpertise": {"rating": 2, "evidence": "Has a local office and presence in Egypt but is otherwise Gulf/Pakistan focused, not pan-African.", "source": "https://www.gulfafricareview.com/shorooq-partners-investing-in-africa/"},
+      "globalCrossBorderNetwork": {"rating": 4, "evidence": "Backed by 10 sovereign wealth funds spanning UAE, Saudi Arabia and Korea, and has an active MENA-Asia corridor partnership with South Korea's Hanwha Life and KVIC.", "source": "https://www.zawya.com/en/press-release/companies-news/shorooq-and-south-koreas-hanwha-life-partner-to-expand-alternative-investments-across-mena-and-asia-lri5e2wh"},
+      "operationalSupportBench": {"rating": null, "evidence": null, "source": null},
+      "regulatoryGovRelationships": {"rating": 5, "evidence": "First regional fund manager regulated by ADGM; LPs include sovereign/government-linked funds ADQ, Mubadala, Dubai Future District Fund, Jada and SVC, plus a $50M managed fund with UAE telecom du.", "source": "https://enterpriseam.com/uae/2026/06/04/du-set-aside-usd-50-mn-for-startups-through-new-shorooq-managed-fund/"},
+      "historicalInvestmentOutcomes": {"rating": 3, "evidence": "One unicorn produced among 94 investments as of 2026, with sizeable follow-on rounds for portfolio companies like Tamara, but broad exit data is limited.", "source": "https://tracxn.com/d/venture-capital/shorooqpartners/__Cg7QbY1bLPwjXR6vJYkTecwmyxidpFMRqO4ARKZKBac"}
+    }
+  },
+  {
+    "name": "COTU Ventures",
+    "hq": "Dubai, United Arab Emirates",
+    "presenceCountries": ["United Arab Emirates"],
+    "panAfrican": false,
+    "vintageYear": 2021,
+    "fundSizeUsdM": 54,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": 4, "evidence": "Fintech is a stated priority sector; notable bets include Huspy (mortgage fintech) and Egyptian fintech MoneyHash among 39 portfolio companies.", "source": "https://empowerafrica.com/dubai-vc-firm-cotu-ventures-raises-54-million-to-support-early-stage-mena-startups/"},
+      "coInvestmentReputation": {"rating": 4, "evidence": "Co-invested in Huspy alongside Peak XV Partners and Founders Fund; fund's own LP base includes global VC GPs Foundry Group, Tribe Capital and Stride.", "source": "https://www.wamda.com/2024/02/cotu-ventures-launches-54-million-fund-early-stage-startups"},
+      "africanMarketExpertise": {"rating": 2, "evidence": "Portfolio includes one notable African (Egyptian) fintech, MoneyHash, but the firm is otherwise Gulf-centric with no African office presence.", "source": "https://www.wamda.com/2024/02/cotu-ventures-launches-54-million-fund-early-stage-startups"},
+      "globalCrossBorderNetwork": {"rating": 4, "evidence": "LP base includes US/UK institutional investors Foundry Group, Tribe Capital and Stride alongside Gulf sovereign entities.", "source": "https://www.wamda.com/2024/02/cotu-ventures-launches-54-million-fund-early-stage-startups"},
+      "operationalSupportBench": {"rating": null, "evidence": null, "source": null},
+      "regulatoryGovRelationships": {"rating": 4, "evidence": "LPs include Mubadala, Dubai Future District Fund, Arab Bank and Bupa KSA, signaling strong bank and government-linked institutional backing.", "source": "https://www.wamda.com/2024/02/cotu-ventures-launches-54-million-fund-early-stage-startups"},
+      "historicalInvestmentOutcomes": {"rating": null, "evidence": null, "source": null}
+    }
+  },
+  {
+    "name": "A15",
+    "hq": "Cairo, Egypt",
+    "presenceCountries": ["Egypt"],
+    "panAfrican": false,
+    "vintageYear": 2014,
+    "fundSizeUsdM": null,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": 4, "evidence": "Fintech portfolio includes Paymob (largest-ever Egyptian fintech Series A) and Sympl (BNPL), among a 48-company, Egypt-heavy portfolio.", "source": "https://www.a15.com/"},
+      "coInvestmentReputation": {"rating": 4, "evidence": "Co-invested with Global Ventures and Dutch DFI FMO in Paymob's record $18.5M Series A, the largest fintech Series A in Egypt at the time.", "source": "https://techcabal.com/2021/04/08/paymob-egypt-fintech-series-a/"},
+      "africanMarketExpertise": {"rating": 2, "evidence": "Investment activity is concentrated almost entirely in Egypt (22 of ~40+ investments), with limited reach elsewhere on the continent.", "source": "https://tracxn.com/d/venture-capital/a15/__zsDxRDYvkp8LzLjuIxgEhrwNDYOEnSOTHCq3Se1KKyk"},
+      "globalCrossBorderNetwork": {"rating": 2, "evidence": "Some cross-border syndicate exposure via Dutch DFI FMO and Dubai-based Global Ventures on the Paymob round, but no broader non-MENA network evidence found.", "source": "https://techcabal.com/2021/04/08/paymob-egypt-fintech-series-a/"},
+      "operationalSupportBench": {"rating": 4, "evidence": "Described as one of the most operationally active MENA investors, with dedicated venture-development teams supporting team building, business development and international expansion.", "source": "https://lucidityinsights.com/spotlights/a15-egypt-venture-capital"},
+      "regulatoryGovRelationships": {"rating": 3, "evidence": "Co-invested alongside Dutch development bank FMO in Paymob's Series A, evidencing DFI-level deal relationships.", "source": "https://techcabal.com/2021/04/08/paymob-egypt-fintech-series-a/"},
+      "historicalInvestmentOutcomes": {"rating": 4, "evidence": "Paymob's $18.5M Series A (2021, largest Egyptian fintech Series A) was followed by a much larger Series B, and coverage references A15 'eyeing its 10th exit'.", "source": "https://enterpriseam.com/egypt/issues/a15-eyes-10th-exit/"}
+    }
+  },
+  {
+    "name": "Flat6Labs",
+    "hq": "Cairo, Egypt",
+    "presenceCountries": ["Egypt", "Saudi Arabia", "United Arab Emirates", "Bahrain", "Jordan", "Tunisia", "Lebanon"],
+    "panAfrican": false,
+    "vintageYear": 2011,
+    "fundSizeUsdM": 95,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": 4, "evidence": "Runs a dedicated Fintech Accelerator program and has funded over 1,000 startups across MENA seed funds totaling $85M+ AUM.", "source": "https://flat6labs.com/program/fintech-accelerator/"},
+      "coInvestmentReputation": {"rating": 3, "evidence": "65 investors have co-invested alongside Flat6Labs, with 500 Global appearing in 8 shared portfolio companies and Plus VC/Vision Ventures also recurring co-investors.", "source": "https://tracxn.com/d/venture-capital/flat6labs/__0z3M85lZ9kCB5t8F3jSIwhQSWgcFZvyt_Qg6CVYKFBQ"},
+      "africanMarketExpertise": {"rating": 2, "evidence": "Historically Egypt/Tunisia-focused within Africa; newly launched a $95M Africa Seed Fund (with IFC considering a $6M investment) targeting Nigeria, Ghana, Kenya, Morocco and Senegal, but African activity is nascent.", "source": "https://weetracker.com/2025/02/10/africa-flat6labs-ifc-vc_funding/"},
+      "globalCrossBorderNetwork": {"rating": 3, "evidence": "Was the first Africa/MENA member of the Global Accelerator Network (GAN), giving it a global affiliate network.", "source": "https://africapreneurs.com/flat6labs-cairo/"},
+      "operationalSupportBench": {"rating": 5, "evidence": "Extensive accelerator infrastructure across 7+ regional offices offering mentorship, technical training and corporate access to portfolio companies.", "source": "https://flat6labs.com/programs-type/programs-for-entrepreneurs/"},
+      "regulatoryGovRelationships": {"rating": 4, "evidence": "IFC has made equity commitments (up to $2M) to Flat6Labs Cairo and is weighing a further $6M investment in Flat6Labs Africa; other funds backed by Tunisian American Enterprise Fund and Banque Internationale Arabe de Tunisie.", "source": "https://weetracker.com/2025/02/10/africa-flat6labs-ifc-vc_funding/"},
+      "historicalInvestmentOutcomes": {"rating": 4, "evidence": "Portfolio has produced 2 IPOs and 10 acquisitions, including a stake in Weebly (acquired by Square) and a 2024 exit (Bazaara).", "source": "https://tracxn.com/d/venture-capital/flat6labs/__0z3M85lZ9kCB5t8F3jSIwhQSWgcFZvyt_Qg6CVYKFBQ"}
+    }
+  },
+  {
+    "name": "Enza Capital",
+    "hq": "Nairobi, Kenya",
+    "presenceCountries": ["Kenya"],
+    "panAfrican": true,
+    "vintageYear": 2019,
+    "fundSizeUsdM": 58,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": 3, "evidence": "Fintech is one of five core sectors (with logistics, health, human capital, climate-smart); portfolio company enza itself raised $6.75M in embedded payments, but named fintech breadth beyond this is limited in available sources.", "source": "https://www.wamda.com/2025/03/enza-secures-6-75-million-seed-expand-africa"},
+      "coInvestmentReputation": {"rating": 4, "evidence": "Co-led enza's $6.75M seed round alongside Quona Capital and Algebra Ventures, both well-regarded Africa/MENA fintech-focused funds.", "source": "https://www.africaprivateequitynews.com/p/algebra-ventures-and-quona-capital"},
+      "africanMarketExpertise": {"rating": 5, "evidence": "Portfolio of 35+ companies spans Kenya, Uganda, Nigeria, Ghana, Cote d'Ivoire, Senegal, Egypt, South Africa, Morocco and Rwanda since 2019 — genuinely pan-African breadth.", "source": "https://www.movemeback.com/organisation/enza-capital/profile"},
+      "globalCrossBorderNetwork": {"rating": null, "evidence": null, "source": null},
+      "operationalSupportBench": {"rating": 3, "evidence": "Launched a dedicated 'Founder-Partner Program' in 2023 as a formal structure for founder support beyond capital.", "source": "https://techcrunch.com/2023/09/28/african-vc-firm-enza-capital-launches-founder-partner-program-as-it-closes-funds-at-58m"},
+      "regulatoryGovRelationships": {"rating": null, "evidence": null, "source": null},
+      "historicalInvestmentOutcomes": {"rating": null, "evidence": null, "source": null}
+    }
+  },
+  {
+    "name": "Atlantica Ventures",
+    "hq": "Lagos, Nigeria",
+    "presenceCountries": ["Nigeria", "Kenya"],
+    "panAfrican": true,
+    "vintageYear": 2021,
+    "fundSizeUsdM": 50,
+    "dimensions": {
+      "fintechPortfolioDepth": {"rating": 4, "evidence": "Fintech is a core sector focus and the portfolio includes Paystack, one of Africa's most prominent fintech companies (acquired by Stripe).", "source": "https://tracxn.com/d/venture-capital/atlanticaventures/__Tr2aJ8g38JY9NVxFAu-XiomT9apLgansDJ2A1Lo8smc"},
+      "coInvestmentReputation": {"rating": 3, "evidence": "Was one of 33 investors in Paystack's cap table and regularly co-invests with Ingressive Capital, though named top-tier syndicate partners beyond that are limited in available sources.", "source": "https://pitchbook.com/profiles/company/155871-28"},
+      "africanMarketExpertise": {"rating": 4, "evidence": "Majority-female team with offices in Lagos and Nairobi; fund mandate explicitly targets six sub-Saharan African countries including Nigeria, Kenya, Tanzania and Cote d'Ivoire.", "source": "https://www.eib.org/en/projects/all/20210241"},
+      "globalCrossBorderNetwork": {"rating": 3, "evidence": "LP base includes US DFC and European Investment Bank, and portfolio company Paystack was acquired by global player Stripe, giving some cross-border network signal.", "source": "https://www.eib.org/en/projects/all/20210241"},
+      "operationalSupportBench": {"rating": 4, "evidence": "States a hands-on operational approach with dedicated team members (e.g., a Senior Associate focused specifically on portfolio operational support) beyond capital deployment.", "source": "https://superscout.co/investor/atlantica-ventures-vc-fund"},
+      "regulatoryGovRelationships": {"rating": 5, "evidence": "Fund LPs include US International Development Finance Corporation (DFC) and the European Investment Bank (EIB), both major DFIs.", "source": "https://www.eib.org/en/projects/all/20210241"},
+      "historicalInvestmentOutcomes": {"rating": 5, "evidence": "Portfolio includes three acquisitions — Paystack (acquired by Stripe), Migo, and WaystoCap.", "source": "https://tracxn.com/d/venture-capital/atlanticaventures/__Tr2aJ8g38JY9NVxFAu-XiomT9apLgansDJ2A1Lo8smc"}
+    }
+  }
+]

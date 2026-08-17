@@ -1,0 +1,44 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Secrets -- APIFY_TOKEN and any other credentials live here and must never be committed.
+.env
+.env.local
+.env.*.local
+
+# Local scan working files
+scan-output/
+
+# Staged scan output awaiting promotion. Transient by design: a staged run is either promoted
+# into src/data/ or discarded, so it is never the source of truth.
+staging/
+
+# Automatic pre-write snapshots of the news store. Local safety net, one file per mutation --
+# deliberately NOT committed, but deliberately never deleted by any script either.
+backups/auto/
+
+# Uploaded traction documents (pitch decks, financial models) -- company-confidential,
+# and regenerated per machine. The entries that reference them live in the browser store.
+data/traction/

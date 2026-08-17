@@ -1,0 +1,1888 @@
+[
+  {
+    "name": "Flourish Ventures",
+    "hq": "San Francisco, USA",
+    "presenceCountries": [
+      "Nigeria",
+      "Egypt",
+      "Kenya",
+      "South Africa"
+    ],
+    "panAfrican": true,
+    "vintageYear": 2019,
+    "fundSizeUsdM": 850,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 5,
+        "evidence": "$850M fintech-focused portfolio incl. Flutterwave, Chime, FairMoney.",
+        "source": null
+      },
+      "coInvestmentReputation": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "africanMarketExpertise": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "globalCrossBorderNetwork": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "operationalSupportBench": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "regulatoryGovRelationships": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": 4,
+        "evidence": "Led MoneyHash pre-Series A; co-led HoneyCoin seed w/ TLcom.",
+        "source": null
+      }
+    }
+  },
+  {
+    "name": "Algebra Ventures",
+    "hq": "Cairo, Egypt",
+    "presenceCountries": [
+      "Egypt"
+    ],
+    "panAfrican": false,
+    "vintageYear": 2022,
+    "fundSizeUsdM": 100,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "coInvestmentReputation": {
+        "rating": 4,
+        "evidence": "Co-invested with Quona Capital on enza.",
+        "source": null
+      },
+      "africanMarketExpertise": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "globalCrossBorderNetwork": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "operationalSupportBench": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "regulatoryGovRelationships": {
+        "rating": 4,
+        "evidence": "DFI/govt LP base, Egypt-dedicated Fund II ($100M, 2022).",
+        "source": null
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "name": "TLcom Capital",
+    "hq": "London, UK",
+    "presenceCountries": [
+      "Nigeria",
+      "Kenya"
+    ],
+    "panAfrican": true,
+    "vintageYear": 2020,
+    "fundSizeUsdM": 350,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "coInvestmentReputation": {
+        "rating": 4,
+        "evidence": "Co-invested with Flourish Ventures on HoneyCoin.",
+        "source": null
+      },
+      "africanMarketExpertise": {
+        "rating": 4,
+        "evidence": "$350M+ AUM, offices in Lagos and Nairobi.",
+        "source": null
+      },
+      "globalCrossBorderNetwork": {
+        "rating": 3,
+        "evidence": "London HQ alongside Lagos/Nairobi offices.",
+        "source": null
+      },
+      "operationalSupportBench": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "regulatoryGovRelationships": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "name": "54 Collective (ex-FFA)",
+    "hq": "London, UK",
+    "presenceCountries": [
+      "South Africa",
+      "Nigeria",
+      "Kenya",
+      "Egypt"
+    ],
+    "panAfrican": true,
+    "vintageYear": 2017,
+    "fundSizeUsdM": null,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "coInvestmentReputation": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "africanMarketExpertise": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "globalCrossBorderNetwork": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "operationalSupportBench": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "regulatoryGovRelationships": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      }
+    },
+    "notes": "Co-led Scale's pre-seed. No further verified profile data yet (0 of 9 dimensions per original spec worked example)."
+  },
+  {
+    "name": "Disruptech",
+    "hq": "Cairo (Sheikh Zayed City), Egypt",
+    "presenceCountries": [
+      "Egypt"
+    ],
+    "panAfrican": false,
+    "vintageYear": 2021,
+    "fundSizeUsdM": 36,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 4,
+        "evidence": "24 portfolio companies concentrated in fintech and fintech-enabled digital services (embedded finance, payments, digital lending, insurtech), with 3 new investments in the last 12 months.",
+        "source": "https://tracxn.com/d/venture-capital/disruptech/__NQ4Z_nWkqTMyLyB1a61UbTz1_IEB87C3iLToGSSgPXo"
+      },
+      "coInvestmentReputation": {
+        "rating": 4,
+        "evidence": "Co-led Connect Money's $8M seed with Algebra Ventures and Lorax Capital Partners, and backs Chari whose Series A drew SPE Capital, Orange Ventures, Verod-Kepple, Plug and Play, Global Founders Capital and Endeavor Catalyst.",
+        "source": "https://techcabal.com/2025/11/05/chari-raises-funding-from-disruptech-ventures/"
+      },
+      "africanMarketExpertise": {
+        "rating": 2,
+        "evidence": "Team and office are Egypt-only (Cairo/Sheikh Zayed City); most portfolio companies are Egyptian with only occasional forays into other markets (e.g., Morocco's Chari, Nigeria's Winich Farms).",
+        "source": "https://www.disruptechventures.com/"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": 2,
+        "evidence": "No direct global office/network of its own, but portfolio company Chari's Series A attracted global investors (Plug and Play, Global Founders Capital), showing some indirect cross-border pull.",
+        "source": "https://techcabal.com/2025/11/05/chari-raises-funding-from-disruptech-ventures/"
+      },
+      "operationalSupportBench": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "regulatoryGovRelationships": {
+        "rating": 4,
+        "evidence": "Fund I's $36M was raised from DFIs including IFC and Proparco, both of which made direct disclosed commitments to the vehicle.",
+        "source": "https://www.ifc.org/en/pressroom/2022/ifc-supports-egypts-fintech-sector-with-investment-in-disruptech-ventures-fund"
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": 3,
+        "evidence": "Portfolio company Chari (Morocco) closed a $12M Series A led by SPE Capital/Orange Ventures with DisrupTech continuing to back the round.",
+        "source": "https://techcabal.com/2025/11/05/chari-raises-funding-from-disruptech-ventures/"
+      }
+    }
+  },
+  {
+    "name": "First Circle Capital",
+    "hq": "Casablanca, Morocco / Kampala, Uganda",
+    "presenceCountries": [
+      "Morocco",
+      "Uganda",
+      "South Africa"
+    ],
+    "panAfrican": true,
+    "vintageYear": 2023,
+    "fundSizeUsdM": 30,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 4,
+        "evidence": "Fintech-only specialist fund with 15 investments across 8 African markets, deliberately targeting under-covered verticals (embedded finance, alt-lending, insurtech, regtech, climate fintech) rather than saturated payments.",
+        "source": "https://www.techinafrica.com/first-circle-capital-backed-by-the-ifc-has-launched-a-30-million-early-stage-venture-fund-aimed-at-supporting-high-growth-fintech-startups-across-africa/"
+      },
+      "coInvestmentReputation": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "africanMarketExpertise": {
+        "rating": 4,
+        "evidence": "Team present in Morocco, Uganda and South Africa with a portfolio spanning 8 African markets and half its companies operating in multiple countries.",
+        "source": "https://www.techinafrica.com/first-circle-capital-backed-by-the-ifc-has-launched-a-30-million-early-stage-venture-fund-aimed-at-supporting-high-growth-fintech-startups-across-africa/"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "operationalSupportBench": {
+        "rating": 4,
+        "evidence": "Fund explicitly provides 'hands-on operational and business development support to help founders reach Series A readiness' beyond capital.",
+        "source": "https://www.techinafrica.com/first-circle-capital-backed-by-the-ifc-has-launched-a-30-million-early-stage-venture-fund-aimed-at-supporting-high-growth-fintech-startups-across-africa/"
+      },
+      "regulatoryGovRelationships": {
+        "rating": 5,
+        "evidence": "LP base includes IFC ($6M), Women Entrepreneurs Finance Initiative/We-Fi ($2M) and approval for $3M from the Dutch Good Growth Fund (DGGF).",
+        "source": "https://techafricanews.com/2025/11/06/first-circle-capital-secures-6-million-from-ifc-to-scale-early-stage-fintech-innovation-in-africa/"
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "name": "Renew Capital",
+    "hq": "Addis Ababa, Ethiopia (North/West Africa HQ in Morocco)",
+    "presenceCountries": [
+      "Ethiopia",
+      "Morocco",
+      "Uganda",
+      "Rwanda",
+      "Kenya",
+      "Mozambique",
+      "Nigeria",
+      "Tanzania",
+      "Zambia",
+      "Ghana"
+    ],
+    "panAfrican": true,
+    "vintageYear": 2023,
+    "fundSizeUsdM": null,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 3,
+        "evidence": "Fintech is one of several sectors within a 44-company portfolio (alongside enterprise apps/consumer); notable fintech names include Level Africa and Opareta, plus a new EmFi (embedded finance) investment programme.",
+        "source": "https://finance.yahoo.com/news/renew-capital-achieves-investment-milestone-124800226.html"
+      },
+      "coInvestmentReputation": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "africanMarketExpertise": {
+        "rating": 5,
+        "evidence": "Genuinely pan-African with an on-the-ground presence in 13 countries from Ghana in the west to Zambia in the south, plus a dedicated North/West Africa HQ in Morocco.",
+        "source": "https://www.renewcapital.com/newsroom/technopark-and-renew-capital-partner-to-strengthen-south-south-cooperation-and-launch-renew-capitals-north-and-west-africa-headquarters-in-morocco"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "operationalSupportBench": {
+        "rating": 3,
+        "evidence": "Runs 'Renew Venture Lab,' an accelerator-style program built to give portfolio startups hands-on support toward scalable, sustainable business models.",
+        "source": "https://wildlabs.net/en/article/renew-capital-launches-renew-venture-lab?language_content_entity=en"
+      },
+      "regulatoryGovRelationships": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "name": "Launch Africa",
+    "hq": "Port Louis, Mauritius (also Cape Town, South Africa)",
+    "presenceCountries": [
+      "Mauritius",
+      "South Africa"
+    ],
+    "panAfrican": true,
+    "vintageYear": 2020,
+    "fundSizeUsdM": 36.3,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 4,
+        "evidence": "Fintech makes up over 38% of a 150+ company portfolio (180+ across both funds), among the highest deal-count investors on the continent.",
+        "source": "https://www.launchafrica.vc/news/launch-africa-the-vc-firm-that-has-backed-over-100-startups-closes-first-fund-at-363m"
+      },
+      "coInvestmentReputation": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "africanMarketExpertise": {
+        "rating": 5,
+        "evidence": "Backed 133+ startups across 22 African countries (180+ across 25 countries more recently), one of the broadest African footprints of any seed fund.",
+        "source": "https://www.forbesafrica.com/contrarian/2023/08/27/venture-forward"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": 3,
+        "evidence": "Unique syndicate model gives 238 LPs from 40 countries direct co-investment access alongside the fund, creating a global capital network even though portfolio companies are Africa-focused.",
+        "source": "https://www.howwemadeitinafrica.com/interview-launch-africa-ventures-approach-to-investing-in-startups/150182/"
+      },
+      "operationalSupportBench": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "regulatoryGovRelationships": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": 4,
+        "evidence": "Fund I has completed 11 exits and returned $2.5M to investors with multiples up to 5x; portfolio company Peach Payments (fintech) went on to raise a $31M Series A.",
+        "source": "https://technext24.com/news/launch-africa-returns-2-5-m-to-investors/"
+      }
+    }
+  },
+  {
+    "name": "QED Investors",
+    "hq": "Alexandria, Virginia, USA",
+    "presenceCountries": [
+      "United States"
+    ],
+    "panAfrican": false,
+    "vintageYear": 2022,
+    "fundSizeUsdM": 925,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 5,
+        "evidence": "Fintech-only specialist since 2007 with 250+ fintech portfolio companies globally spanning lending, payments, insurance and banking, ~$4B AUM and 28 unicorns.",
+        "source": "https://www.businesswire.com/news/home/20230523005747/en/QED-Investors-Closes-Nearly-1-Billion-in-New-Funds"
+      },
+      "coInvestmentReputation": {
+        "rating": 4,
+        "evidence": "Co-led Moniepoint's (formerly TeamApt) 2022 Series B alongside British International Investment; the company's later $110M Series C brought in DPI, Google's Africa Investment Fund, Verod Capital and Lightrock.",
+        "source": "https://www.dpi-llp.com/2024/10/29/africas-fastest-growing-fintech-moniepoint-secures-us110-million-investment-to-scale-digital-payments-and-banking-solutions/"
+      },
+      "africanMarketExpertise": {
+        "rating": 2,
+        "evidence": "Only one confirmed African market presence to date (Nigeria, via TeamApt/Moniepoint), despite hiring dedicated Africa-focused investors; no broader continental portfolio or offices found.",
+        "source": "https://techcrunch.com/2022/08/10/fintech-vc-qed-makes-its-first-african-investment-backing-nigerias-teamapt-in-50m-deal"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": 5,
+        "evidence": "Active fintech investor across the US, UK, Europe, Latin America, India, Southeast Asia and Africa with regional heads for each region and 28 unicorns in its global book.",
+        "source": "https://www.qedinvestors.com/"
+      },
+      "operationalSupportBench": {
+        "rating": 5,
+        "evidence": "Dedicated platform function (Head of Platform role) offering PR/communications, compliance, B2B growth, executive search and coaching support, backed by 250+ combined years of operating experience across the team.",
+        "source": "https://www.qedinvestors.com/team"
+      },
+      "regulatoryGovRelationships": {
+        "rating": 3,
+        "evidence": "Co-invested alongside DFI British International Investment on Moniepoint's Series B, its sole disclosed African deal to date.",
+        "source": "https://www.ouicapital.vc/news/qed-makes-its-first-african-investment-backing-nigerian-fintech-teamapt-in-50m-deal"
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": 5,
+        "evidence": "Backed Moniepoint (TeamApt) at Series B in 2022; the company went on to become Africa's 8th unicorn via a $110M Series C in 2024.",
+        "source": "https://www.dabafinance.com/en/news/nigerias-moniepoint-becomes-unicorn-in-110m-round-led-by-dpi"
+      }
+    }
+  },
+  {
+    "name": "P1 Ventures",
+    "hq": "Multi-hub (Lagos, Nigeria; Cairo, Egypt; Nairobi, Kenya)",
+    "presenceCountries": [
+      "Nigeria",
+      "Egypt",
+      "Kenya",
+      "Senegal"
+    ],
+    "panAfrican": true,
+    "vintageYear": 2023,
+    "fundSizeUsdM": 50,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 3,
+        "evidence": "Fintech is a core focus alongside health, e-commerce and SaaS across a 29-company portfolio in 10 countries (Egypt 7, Nigeria 6 deals being the largest concentrations).",
+        "source": "https://techmoran.com/2025/02/10/p1-ventures-raises-50-million-to-back-companies-built-in-africa-for-the-world/"
+      },
+      "coInvestmentReputation": {
+        "rating": 4,
+        "evidence": "Was the only African VC co-investing alongside Accel in Moroccan startup Nuitee's $48M Series A, and participated in Reliance Health's $40M Series B led by General Atlantic.",
+        "source": "https://nordic9.com/news/nuitee-raised-a-48-million-series-a-led-by-accel/"
+      },
+      "africanMarketExpertise": {
+        "rating": 4,
+        "evidence": "Active team presence in Lagos, Cairo, Nairobi and Dakar, with an explicit strategy to allocate half of the portfolio to underserved Francophone/low-income African markets.",
+        "source": "https://www.p1.ventures/team"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": 3,
+        "evidence": "Co-investment access alongside top-tier global investors Accel (Nuitee) and General Atlantic (Reliance Health) demonstrates cross-border network reach beyond Africa.",
+        "source": "https://nordic9.com/news/nuitee-raised-a-48-million-series-a-led-by-accel/"
+      },
+      "operationalSupportBench": {
+        "rating": 4,
+        "evidence": "Has dedicated venture partner and ops-director roles (GTM strategy/technical scale support, ex-Savannah Fund Ops Director) and is frequently a company's first institutional investor providing hands-on support.",
+        "source": "https://www.p1.ventures/team"
+      },
+      "regulatoryGovRelationships": {
+        "rating": 4,
+        "evidence": "IFC announced a formal partnership with P1 Ventures in 2024 to accelerate investment in early-stage African tech entrepreneurs.",
+        "source": "https://www.ifc.org/en/pressroom/2024/ifc-partners-with-p1-ventures-to-accelerate-investments-in-early-stage-tech-entrepreneurs-in-africa"
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": 4,
+        "evidence": "Portfolio companies Reliance Health ($40M Series B, General Atlantic) and Nuitee ($48M Series A, Accel) both progressed to substantial follow-on institutional rounds.",
+        "source": "https://www.generalatlantic.com/media-article/reliance-health-raises-40m-in-series-b-led-by-general-atlantic/"
+      }
+    }
+  },
+  {
+    "name": "Partech Africa",
+    "hq": "Paris, France (global firm; Africa fund hubs in Dakar, Lagos, Nairobi, Dubai)",
+    "presenceCountries": [
+      "Senegal",
+      "Nigeria",
+      "Kenya",
+      "United Arab Emirates"
+    ],
+    "panAfrican": true,
+    "vintageYear": 2023,
+    "fundSizeUsdM": 323,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 5,
+        "evidence": "Fintech is a named core sector alongside mobility/commerce/enterprise software; portfolio includes Wave, TradeDepot, Yoco, Reliance and led littlefish's $9.5M Series A for bank merchant infrastructure.",
+        "source": "https://partechpartners.com/news/littlefish-raises-95m-series-a-round-led-by-partech-to-power-merchant-infrastructure-for-banks-across-africa"
+      },
+      "coInvestmentReputation": {
+        "rating": 4,
+        "evidence": "One of the 10 most active venture investors in Africa in 2024; LP roster includes Bertelsmann and South Suez Capital, positioning it centrally in the African co-investment network.",
+        "source": "https://www.eib.org/en/products/equity/funds/partech-africa-ii"
+      },
+      "africanMarketExpertise": {
+        "rating": 5,
+        "evidence": "Dedicated on-the-ground offices in Dakar, Nairobi, Lagos and Dubai investing from seed through Series C across the continent.",
+        "source": "https://fintechnews.africa/43211/fintech-nigeria/partech-africa-closes-fund-above-300-million-and-opens-office-in-lagos/"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": 4,
+        "evidence": "Part of the global Partech platform with offices in Paris, Berlin, Dubai and San Francisco, giving African portfolio companies access to a broader international network.",
+        "source": "https://fintechnews.africa/43211/fintech-nigeria/partech-africa-closes-fund-above-300-million-and-opens-office-in-lagos/"
+      },
+      "operationalSupportBench": {
+        "rating": 4,
+        "evidence": "Actively hiring a senior Portfolio Strategy & Operations role specifically to drive value creation and exit building for portfolio companies, on top of stated capital-plus-operational support.",
+        "source": "https://partechpartners.com/news/partech-africa-ii-fund-reaches-final-close-at-hard-cap-above-300-million-expands-team-and-portfolio"
+      },
+      "regulatoryGovRelationships": {
+        "rating": 5,
+        "evidence": "Partech Africa II's LP base includes the European Investment Bank, IFC, FMO, British International Investment, Bpifrance Investissement, Proparco and DEG.",
+        "source": "https://www.eib.org/en/products/equity/funds/partech-africa-ii"
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": 4,
+        "evidence": "Portfolio company Wave reached unicorn status and Reliance Health progressed to a $40M Series B; Partech also led littlefish's Series A follow-on round.",
+        "source": "https://partechpartners.com/news/littlefish-raises-95m-series-a-round-led-by-partech-to-power-merchant-infrastructure-for-banks-across-africa"
+      }
+    }
+  },
+  {
+    "name": "4Di Capital",
+    "hq": "Cape Town, South Africa",
+    "presenceCountries": [
+      "South Africa"
+    ],
+    "panAfrican": false,
+    "vintageYear": 2021,
+    "fundSizeUsdM": 25,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 3,
+        "evidence": "Fintech/insurtech is a demonstrated strength within a 31-company portfolio, anchored by crypto exchange VALR and insurtech Sendmarc.",
+        "source": "https://www.4dicapital.com/our-portfolio"
+      },
+      "coInvestmentReputation": {
+        "rating": 4,
+        "evidence": "VALR's $50M Series B (which 4Di backed) drew Pantera Capital, Coinbase Ventures, GSR, CMT Digital and Distributed Global, placing 4Di alongside well-known global crypto/fintech investors.",
+        "source": "https://tracxn.com/d/companies/valr/__071hXOLOUZWplMqwQQw1MbAVlBPBS08vHyopkTeVJBQ#founders-and-board-of-directors"
+      },
+      "africanMarketExpertise": {
+        "rating": 3,
+        "evidence": "Portfolio companies have a footprint in 15+ African countries, but 4Di's own team and office are based solely in Cape Town with no other on-continent offices found.",
+        "source": "https://www.4dicapital.com/our-portfolio"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": 3,
+        "evidence": "Portfolio companies operate across North/South America, Europe, the Middle East, Asia and Australia, and VALR's round included multiple global crypto-focused investors.",
+        "source": "https://www.4dicapital.com/our-portfolio"
+      },
+      "operationalSupportBench": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "regulatoryGovRelationships": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": 4,
+        "evidence": "4Di's portfolio companies have collectively raised over $280M in follow-on funding and its debut fund returned roughly 3x MOIC, with acquisitions including Happy Pay, Bloodhound and Motribe.",
+        "source": "https://unicorn-nest.com/funds/4di-capital/"
+      }
+    }
+  },
+  {
+    "name": "Norrsken22",
+    "hq": "Nairobi, Kenya (Africa fund; parent Norrsken Group based in Stockholm, Sweden)",
+    "presenceCountries": [
+      "Kenya",
+      "Nigeria",
+      "South Africa",
+      "Ghana"
+    ],
+    "panAfrican": true,
+    "vintageYear": 2023,
+    "fundSizeUsdM": 205,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 4,
+        "evidence": "Growth-stage fund with fintech as a named priority sector, backing challenger bank TymeBank, B2B commerce platform Sabi, identity-verification firm Smile Identity and auto-financing platform Autochek.",
+        "source": "https://techcrunch.com/2023/11/02/norrsken22s-debut-fund-closes-at-205m-to-back-growth-stage-startups-in-africa/"
+      },
+      "coInvestmentReputation": {
+        "rating": 4,
+        "evidence": "~59% of its $110M initial close came from a consortium of 30 global unicorn founders (Flutterwave's Olugbenga Agboola, Skype's Niklas Zennstr\u00f6m, iZettle's Jacob de Geer, Delivery Hero's Niklas \u00d6stberg), an unusually prominent syndicate.",
+        "source": "https://techcrunch.com/2023/11/02/norrsken22s-debut-fund-closes-at-205m-to-back-growth-stage-startups-in-africa/"
+      },
+      "africanMarketExpertise": {
+        "rating": 4,
+        "evidence": "Operational teams established across Nigeria, South Africa, Kenya and Ghana with a Nairobi-based General Partner leading Africa investments.",
+        "source": "https://superscout.co/investor/norrsken22"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": 4,
+        "evidence": "LP base is anchored by global tech founders/operators (Skype, iZettle, Delivery Hero) giving portfolio companies access to an international network beyond Africa.",
+        "source": "https://techcrunch.com/2023/11/02/norrsken22s-debut-fund-closes-at-205m-to-back-growth-stage-startups-in-africa/"
+      },
+      "operationalSupportBench": {
+        "rating": 3,
+        "evidence": "Has a Principal role explicitly dedicated to operational support and strategic guidance for portfolio companies.",
+        "source": "https://superscout.co/investor/norrsken22"
+      },
+      "regulatoryGovRelationships": {
+        "rating": 5,
+        "evidence": "LP base includes British International Investment, IFC, US International Development Finance Corporation, Standard Bank and Norfund.",
+        "source": "https://lucidityinsights.com/news/norrsken22-exceeds-expectations-raises-205-million-for-african-tech-growth-fund"
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": 4,
+        "evidence": "Led a $77.8M pre-Series C round in TymeBank (7M+ customers) and portfolio company Sabi has topped a $300M valuation on subsequent funding.",
+        "source": "https://www.techinafrica.com/norrsken22-surpasses-target-with-205m-debut-africa-fund/"
+      }
+    }
+  },
+  {
+    "name": "Baobab Network",
+    "hq": "Nairobi, Kenya",
+    "presenceCountries": [
+      "Kenya",
+      "Nigeria",
+      "South Africa",
+      "Ghana",
+      "Rwanda",
+      "Ethiopia",
+      "United Kingdom"
+    ],
+    "panAfrican": true,
+    "vintageYear": 2015,
+    "fundSizeUsdM": null,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 3,
+        "evidence": "Fintech-focused seed portfolio includes CreditChek, Alerzo and FXKUDI among ~48 accelerated companies, though check sizes are very small ($25K-$50K).",
+        "source": "https://thebaobabnetwork.com/portfolio/"
+      },
+      "coInvestmentReputation": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "africanMarketExpertise": {
+        "rating": 4,
+        "evidence": "Genuinely pan-African team footprint with offices in Kenya, Nigeria, South Africa, Ghana, Rwanda and Ethiopia beyond its Nairobi HQ.",
+        "source": "https://thebaobabnetwork.com/"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": 3,
+        "evidence": "Runs a London office and states its accelerator connects African startups to angels/VCs in Europe, the US and Asia for follow-on capital.",
+        "source": "https://thebaobabnetwork.com/investors/"
+      },
+      "operationalSupportBench": {
+        "rating": 4,
+        "evidence": "12-week intensive accelerator program with structured mentorship and ongoing venture support is the firm's core stated offering.",
+        "source": "https://thebaobabnetwork.com/"
+      },
+      "regulatoryGovRelationships": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "name": "Savannah Fund",
+    "hq": "Nairobi, Kenya",
+    "presenceCountries": [
+      "Kenya",
+      "Nigeria",
+      "South Africa",
+      "Tanzania"
+    ],
+    "panAfrican": true,
+    "vintageYear": 2021,
+    "fundSizeUsdM": 25,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 3,
+        "evidence": "Fintech is one of several core sectors (alongside edtech, logistics, agtech); notable fintech name is lending startup Lidya, but breadth is modest across 43 total portfolio companies.",
+        "source": "https://kenyanwallstreet.com/savannah-launches-25-million-fund"
+      },
+      "coInvestmentReputation": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "africanMarketExpertise": {
+        "rating": 4,
+        "evidence": "Core markets Kenya, Nigeria and South Africa with stated expansion into Rwanda, Ethiopia, Uganda, Ivory Coast and Ghana; 43 companies backed across sub-Saharan Africa since 2012.",
+        "source": "https://savannah.vc/2021/03/10/savannah-fund-launches-second-25m-africa-tech-seed-fund-led-by-ifc-draper-and-others/"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": 3,
+        "evidence": "Backed by Tim Draper/Draper Associates, which brings a global fund network, and the firm states it connects ventures with mentor networks in Silicon Valley.",
+        "source": "https://www.alexanderjarvis.com/vc-investment-thesis-savannah-fund/"
+      },
+      "operationalSupportBench": {
+        "rating": 3,
+        "evidence": "States it combines capital with mentor networks and local technical assistance both regionally and via Silicon Valley connections.",
+        "source": "https://techpoint.africa/2021/10/13/how-savannah-fund-invests/"
+      },
+      "regulatoryGovRelationships": {
+        "rating": 4,
+        "evidence": "Fund II was anchored by the International Finance Corporation (IFC), a major DFI, as lead LP.",
+        "source": "https://savannah.vc/2021/03/10/savannah-fund-launches-second-25m-africa-tech-seed-fund-led-by-ifc-draper-and-others/"
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": 4,
+        "evidence": "Portfolio companies (Sendy, Lidya, Smile Identity, Aerobotics) have collectively raised over $200M in follow-on funding after Savannah's initial checks.",
+        "source": "https://tracxn.com/d/venture-capital/savannah-fund/__7P0NWuZS8b1CrqIzTKEh_wbt8wx-AWBX8x7Kns87t5Y"
+      }
+    }
+  },
+  {
+    "name": "BECO Capital",
+    "hq": "Dubai, United Arab Emirates",
+    "presenceCountries": [
+      "United Arab Emirates"
+    ],
+    "panAfrican": false,
+    "vintageYear": 2012,
+    "fundSizeUsdM": 820,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 5,
+        "evidence": "Fintech is a core anchor sector across a 53-company portfolio with 4 unicorns, including Careem's fintech/super-app layer and payments plays; $820M+ AUM after a $370M dual-fund close in 2025.",
+        "source": "https://www.becocapital.com/portfolio/"
+      },
+      "coInvestmentReputation": {
+        "rating": 5,
+        "evidence": "Co-invested alongside Al Tayyar, STC Ventures, Impulse (Kuwait Investment Authority subsidiary), Lumia Capital and Wamda Capital in Careem's round, and regularly syndicates with 500 Global.",
+        "source": "https://medium.com/beco-capital/careem-a-legend-in-the-making-1dcc1c91fd67"
+      },
+      "africanMarketExpertise": {
+        "rating": 1,
+        "evidence": "Gulf/MENA-centric investor with no evidence of sub-Saharan African team presence or meaningful African portfolio breadth.",
+        "source": "https://www.becocapital.com/"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": 4,
+        "evidence": "Portfolio exits demonstrate global reach: Careem acquired by Uber for $3.1B (2020) and SWVL listed on NASDAQ (2021).",
+        "source": "https://dealroom.co/investors/beco-capital/"
+      },
+      "operationalSupportBench": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "regulatoryGovRelationships": {
+        "rating": 4,
+        "evidence": "BECO Fund III includes IFC (International Finance Corporation) financing as part of its capital base, a documented DFI relationship.",
+        "source": "https://ewsdata.rightsindevelopment.org/projects/44962-beco-fund-iii/"
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": 5,
+        "evidence": "Nine exits to date, headlined by Careem's $3.1B acquisition by Uber and SWVL's 2021 NASDAQ IPO.",
+        "source": "https://dealroom.co/investors/beco-capital/"
+      }
+    }
+  },
+  {
+    "name": "Shorooq Partners",
+    "hq": "Abu Dhabi, United Arab Emirates",
+    "presenceCountries": [
+      "United Arab Emirates",
+      "Saudi Arabia",
+      "Egypt",
+      "Bahrain",
+      "Pakistan"
+    ],
+    "panAfrican": false,
+    "vintageYear": 2017,
+    "fundSizeUsdM": 500,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 5,
+        "evidence": "Deep fintech sector expertise across 94 portfolio companies, including Tamara, Sarwa, Lean Technologies, Nymcard, Mozn and Lendo.",
+        "source": "https://www.shorooq.com/portfolio"
+      },
+      "coInvestmentReputation": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "africanMarketExpertise": {
+        "rating": 2,
+        "evidence": "Has a local office and presence in Egypt but is otherwise Gulf/Pakistan focused, not pan-African.",
+        "source": "https://www.gulfafricareview.com/shorooq-partners-investing-in-africa/"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": 4,
+        "evidence": "Backed by 10 sovereign wealth funds spanning UAE, Saudi Arabia and Korea, and has an active MENA-Asia corridor partnership with South Korea's Hanwha Life and KVIC.",
+        "source": "https://www.zawya.com/en/press-release/companies-news/shorooq-and-south-koreas-hanwha-life-partner-to-expand-alternative-investments-across-mena-and-asia-lri5e2wh"
+      },
+      "operationalSupportBench": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "regulatoryGovRelationships": {
+        "rating": 5,
+        "evidence": "First regional fund manager regulated by ADGM; LPs include sovereign/government-linked funds ADQ, Mubadala, Dubai Future District Fund, Jada and SVC, plus a $50M managed fund with UAE telecom du.",
+        "source": "https://enterpriseam.com/uae/2026/06/04/du-set-aside-usd-50-mn-for-startups-through-new-shorooq-managed-fund/"
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": 3,
+        "evidence": "One unicorn produced among 94 investments as of 2026, with sizeable follow-on rounds for portfolio companies like Tamara, but broad exit data is limited.",
+        "source": "https://tracxn.com/d/venture-capital/shorooqpartners/__Cg7QbY1bLPwjXR6vJYkTecwmyxidpFMRqO4ARKZKBac"
+      }
+    }
+  },
+  {
+    "name": "COTU Ventures",
+    "hq": "Dubai, United Arab Emirates",
+    "presenceCountries": [
+      "United Arab Emirates"
+    ],
+    "panAfrican": false,
+    "vintageYear": 2021,
+    "fundSizeUsdM": 54,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 4,
+        "evidence": "Fintech is a stated priority sector; notable bets include Huspy (mortgage fintech) and Egyptian fintech MoneyHash among 39 portfolio companies.",
+        "source": "https://empowerafrica.com/dubai-vc-firm-cotu-ventures-raises-54-million-to-support-early-stage-mena-startups/"
+      },
+      "coInvestmentReputation": {
+        "rating": 4,
+        "evidence": "Co-invested in Huspy alongside Peak XV Partners and Founders Fund; fund's own LP base includes global VC GPs Foundry Group, Tribe Capital and Stride.",
+        "source": "https://www.wamda.com/2024/02/cotu-ventures-launches-54-million-fund-early-stage-startups"
+      },
+      "africanMarketExpertise": {
+        "rating": 2,
+        "evidence": "Portfolio includes one notable African (Egyptian) fintech, MoneyHash, but the firm is otherwise Gulf-centric with no African office presence.",
+        "source": "https://www.wamda.com/2024/02/cotu-ventures-launches-54-million-fund-early-stage-startups"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": 4,
+        "evidence": "LP base includes US/UK institutional investors Foundry Group, Tribe Capital and Stride alongside Gulf sovereign entities.",
+        "source": "https://www.wamda.com/2024/02/cotu-ventures-launches-54-million-fund-early-stage-startups"
+      },
+      "operationalSupportBench": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "regulatoryGovRelationships": {
+        "rating": 4,
+        "evidence": "LPs include Mubadala, Dubai Future District Fund, Arab Bank and Bupa KSA, signaling strong bank and government-linked institutional backing.",
+        "source": "https://www.wamda.com/2024/02/cotu-ventures-launches-54-million-fund-early-stage-startups"
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "name": "A15",
+    "hq": "Cairo, Egypt",
+    "presenceCountries": [
+      "Egypt"
+    ],
+    "panAfrican": false,
+    "vintageYear": 2014,
+    "fundSizeUsdM": null,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 4,
+        "evidence": "Fintech portfolio includes Paymob (largest-ever Egyptian fintech Series A) and Sympl (BNPL), among a 48-company, Egypt-heavy portfolio.",
+        "source": "https://www.a15.com/"
+      },
+      "coInvestmentReputation": {
+        "rating": 4,
+        "evidence": "Co-invested with Global Ventures and Dutch DFI FMO in Paymob's record $18.5M Series A, the largest fintech Series A in Egypt at the time.",
+        "source": "https://techcabal.com/2021/04/08/paymob-egypt-fintech-series-a/"
+      },
+      "africanMarketExpertise": {
+        "rating": 2,
+        "evidence": "Investment activity is concentrated almost entirely in Egypt (22 of ~40+ investments), with limited reach elsewhere on the continent.",
+        "source": "https://tracxn.com/d/venture-capital/a15/__zsDxRDYvkp8LzLjuIxgEhrwNDYOEnSOTHCq3Se1KKyk"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": 2,
+        "evidence": "Some cross-border syndicate exposure via Dutch DFI FMO and Dubai-based Global Ventures on the Paymob round, but no broader non-MENA network evidence found.",
+        "source": "https://techcabal.com/2021/04/08/paymob-egypt-fintech-series-a/"
+      },
+      "operationalSupportBench": {
+        "rating": 4,
+        "evidence": "Described as one of the most operationally active MENA investors, with dedicated venture-development teams supporting team building, business development and international expansion.",
+        "source": "https://lucidityinsights.com/spotlights/a15-egypt-venture-capital"
+      },
+      "regulatoryGovRelationships": {
+        "rating": 3,
+        "evidence": "Co-invested alongside Dutch development bank FMO in Paymob's Series A, evidencing DFI-level deal relationships.",
+        "source": "https://techcabal.com/2021/04/08/paymob-egypt-fintech-series-a/"
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": 4,
+        "evidence": "Paymob's $18.5M Series A (2021, largest Egyptian fintech Series A) was followed by a much larger Series B, and coverage references A15 'eyeing its 10th exit'.",
+        "source": "https://enterpriseam.com/egypt/issues/a15-eyes-10th-exit/"
+      }
+    }
+  },
+  {
+    "name": "Flat6Labs",
+    "hq": "Cairo, Egypt",
+    "presenceCountries": [
+      "Egypt",
+      "Saudi Arabia",
+      "United Arab Emirates",
+      "Bahrain",
+      "Jordan",
+      "Tunisia",
+      "Lebanon"
+    ],
+    "panAfrican": false,
+    "vintageYear": 2011,
+    "fundSizeUsdM": 95,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 4,
+        "evidence": "Runs a dedicated Fintech Accelerator program and has funded over 1,000 startups across MENA seed funds totaling $85M+ AUM.",
+        "source": "https://flat6labs.com/program/fintech-accelerator/"
+      },
+      "coInvestmentReputation": {
+        "rating": 3,
+        "evidence": "65 investors have co-invested alongside Flat6Labs, with 500 Global appearing in 8 shared portfolio companies and Plus VC/Vision Ventures also recurring co-investors.",
+        "source": "https://tracxn.com/d/venture-capital/flat6labs/__0z3M85lZ9kCB5t8F3jSIwhQSWgcFZvyt_Qg6CVYKFBQ"
+      },
+      "africanMarketExpertise": {
+        "rating": 2,
+        "evidence": "Historically Egypt/Tunisia-focused within Africa; newly launched a $95M Africa Seed Fund (with IFC considering a $6M investment) targeting Nigeria, Ghana, Kenya, Morocco and Senegal, but African activity is nascent.",
+        "source": "https://weetracker.com/2025/02/10/africa-flat6labs-ifc-vc_funding/"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": 3,
+        "evidence": "Was the first Africa/MENA member of the Global Accelerator Network (GAN), giving it a global affiliate network.",
+        "source": "https://africapreneurs.com/flat6labs-cairo/"
+      },
+      "operationalSupportBench": {
+        "rating": 5,
+        "evidence": "Extensive accelerator infrastructure across 7+ regional offices offering mentorship, technical training and corporate access to portfolio companies.",
+        "source": "https://flat6labs.com/programs-type/programs-for-entrepreneurs/"
+      },
+      "regulatoryGovRelationships": {
+        "rating": 4,
+        "evidence": "IFC has made equity commitments (up to $2M) to Flat6Labs Cairo and is weighing a further $6M investment in Flat6Labs Africa; other funds backed by Tunisian American Enterprise Fund and Banque Internationale Arabe de Tunisie.",
+        "source": "https://weetracker.com/2025/02/10/africa-flat6labs-ifc-vc_funding/"
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": 4,
+        "evidence": "Portfolio has produced 2 IPOs and 10 acquisitions, including a stake in Weebly (acquired by Square) and a 2024 exit (Bazaara).",
+        "source": "https://tracxn.com/d/venture-capital/flat6labs/__0z3M85lZ9kCB5t8F3jSIwhQSWgcFZvyt_Qg6CVYKFBQ"
+      }
+    }
+  },
+  {
+    "name": "Enza Capital",
+    "hq": "Nairobi, Kenya",
+    "presenceCountries": [
+      "Kenya"
+    ],
+    "panAfrican": true,
+    "vintageYear": 2019,
+    "fundSizeUsdM": 58,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 3,
+        "evidence": "Fintech is one of five core sectors (with logistics, health, human capital, climate-smart); portfolio company enza itself raised $6.75M in embedded payments, but named fintech breadth beyond this is limited in available sources.",
+        "source": "https://www.wamda.com/2025/03/enza-secures-6-75-million-seed-expand-africa"
+      },
+      "coInvestmentReputation": {
+        "rating": 4,
+        "evidence": "Co-led enza's $6.75M seed round alongside Quona Capital and Algebra Ventures, both well-regarded Africa/MENA fintech-focused funds.",
+        "source": "https://www.africaprivateequitynews.com/p/algebra-ventures-and-quona-capital"
+      },
+      "africanMarketExpertise": {
+        "rating": 5,
+        "evidence": "Portfolio of 35+ companies spans Kenya, Uganda, Nigeria, Ghana, Cote d'Ivoire, Senegal, Egypt, South Africa, Morocco and Rwanda since 2019 \u2014 genuinely pan-African breadth.",
+        "source": "https://www.movemeback.com/organisation/enza-capital/profile"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "operationalSupportBench": {
+        "rating": 3,
+        "evidence": "Launched a dedicated 'Founder-Partner Program' in 2023 as a formal structure for founder support beyond capital.",
+        "source": "https://techcrunch.com/2023/09/28/african-vc-firm-enza-capital-launches-founder-partner-program-as-it-closes-funds-at-58m"
+      },
+      "regulatoryGovRelationships": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "name": "Atlantica Ventures",
+    "hq": "Lagos, Nigeria",
+    "presenceCountries": [
+      "Nigeria",
+      "Kenya"
+    ],
+    "panAfrican": true,
+    "vintageYear": 2021,
+    "fundSizeUsdM": 50,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 4,
+        "evidence": "Fintech is a core sector focus and the portfolio includes Paystack, one of Africa's most prominent fintech companies (acquired by Stripe).",
+        "source": "https://tracxn.com/d/venture-capital/atlanticaventures/__Tr2aJ8g38JY9NVxFAu-XiomT9apLgansDJ2A1Lo8smc"
+      },
+      "coInvestmentReputation": {
+        "rating": 3,
+        "evidence": "Was one of 33 investors in Paystack's cap table and regularly co-invests with Ingressive Capital, though named top-tier syndicate partners beyond that are limited in available sources.",
+        "source": "https://pitchbook.com/profiles/company/155871-28"
+      },
+      "africanMarketExpertise": {
+        "rating": 4,
+        "evidence": "Majority-female team with offices in Lagos and Nairobi; fund mandate explicitly targets six sub-Saharan African countries including Nigeria, Kenya, Tanzania and Cote d'Ivoire.",
+        "source": "https://www.eib.org/en/projects/all/20210241"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": 3,
+        "evidence": "LP base includes US DFC and European Investment Bank, and portfolio company Paystack was acquired by global player Stripe, giving some cross-border network signal.",
+        "source": "https://www.eib.org/en/projects/all/20210241"
+      },
+      "operationalSupportBench": {
+        "rating": 4,
+        "evidence": "States a hands-on operational approach with dedicated team members (e.g., a Senior Associate focused specifically on portfolio operational support) beyond capital deployment.",
+        "source": "https://superscout.co/investor/atlantica-ventures-vc-fund"
+      },
+      "regulatoryGovRelationships": {
+        "rating": 5,
+        "evidence": "Fund LPs include US International Development Finance Corporation (DFC) and the European Investment Bank (EIB), both major DFIs.",
+        "source": "https://www.eib.org/en/projects/all/20210241"
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": 5,
+        "evidence": "Portfolio includes three acquisitions \u2014 Paystack (acquired by Stripe), Migo, and WaystoCap.",
+        "source": "https://tracxn.com/d/venture-capital/atlanticaventures/__Tr2aJ8g38JY9NVxFAu-XiomT9apLgansDJ2A1Lo8smc"
+      }
+    }
+  },
+  {
+    "name": "Quona Capital",
+    "hq": "Washington DC, USA",
+    "presenceCountries": [
+      "South Africa",
+      "Nigeria",
+      "Kenya",
+      "Egypt"
+    ],
+    "panAfrican": true,
+    "vintageYear": 2022,
+    "fundSizeUsdM": 332,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 5,
+        "evidence": "70+ portfolio companies across 15 countries since 2015, exclusively financial-inclusion/fintech focused, including Konfio, Creditas, Klar, Khazna, Yoco.",
+        "source": "https://quona.com/impact/"
+      },
+      "coInvestmentReputation": {
+        "rating": 4,
+        "evidence": "Regularly co-invests with recognized emerging-market funds such as MSA Capital and Algebra Ventures on African fintech rounds.",
+        "source": "https://digestafrica.com/investors/quona-capital"
+      },
+      "africanMarketExpertise": {
+        "rating": 4,
+        "evidence": "Maintains local investment teams in South Africa, Nigeria, and Kenya alongside a Dubai hub, with growing focus on Egypt and Kenya.",
+        "source": "https://medium.com/@quona-capital/egypt-fintechs-next-big-opportunity-ba9e750e8d7b"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": 5,
+        "evidence": "Active investment platform spanning Latin America, India/Southeast Asia, Africa and the Middle East under one fund family, giving portfolio companies genuine cross-region reach.",
+        "source": "https://quona.com/"
+      },
+      "operationalSupportBench": {
+        "rating": 3,
+        "evidence": "Firm profile describes providing founders growth capital plus deep market expertise, though no dedicated named platform team is publicly documented.",
+        "source": "https://superscout.co/investor/quona-capital"
+      },
+      "regulatoryGovRelationships": {
+        "rating": 4,
+        "evidence": "Fund III LP base explicitly includes development finance institutions alongside banks, insurers and endowments.",
+        "source": "https://www.forbes.com/sites/davidprosser/2022/11/08/quonas-investors-back-emerging-market-fintech-for-impact/"
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": 4,
+        "evidence": "Portfolio includes an IPO (IndiaMART) and roughly 10 acquisitions, including coins.ph's acquisition by Gojek.",
+        "source": "https://golden.com/wiki/Quona_Capital-ZXEP6BY"
+      }
+    }
+  },
+  {
+    "name": "Nclude",
+    "hq": "Cairo, Egypt",
+    "presenceCountries": [
+      "Egypt"
+    ],
+    "panAfrican": false,
+    "vintageYear": 2022,
+    "fundSizeUsdM": 105,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 4,
+        "evidence": "Invested over $42.5M across 12 fintech transactions including Paymob, Khazna, Flapkap and Connect Money; described as the largest fintech-focused fund in Africa.",
+        "source": "https://afrikanheroes.com/2023/11/02/egypts-nclude-fund-raises-105-million-in-latest-fintech-boost/"
+      },
+      "coInvestmentReputation": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "africanMarketExpertise": {
+        "rating": 2,
+        "evidence": "Mandate is described as MEA-focused but the fund's team, LPs and deployed capital are concentrated in Egypt only.",
+        "source": "https://www.zawya.com/en/business/banking-and-insurance/banque-misr-nbe-banque-du-caire-agree-to-launch-85mln-mea-focused-nclude-fund-for-fintech-g9uzoys4"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "operationalSupportBench": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "regulatoryGovRelationships": {
+        "rating": 5,
+        "evidence": "Launched with Central Bank of Egypt approval and anchored/backed by Egypt's three largest state banks (Banque Misr, National Bank of Egypt, Banque du Caire), with Mastercard and e-Finance as strategic LPs.",
+        "source": "https://www.banquemisr.com/en/Home/ABOUT-US/News/Banque-Misr-supports-the-Nclude-Innovation-Fund-LP"
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": 3,
+        "evidence": "Fund's advisory mandate was acquired by pan-African PE firm DPI in 2025 specifically because Nclude was regarded as the leading fintech-focused fund in Africa, reflecting portfolio maturity (Paymob, Khazna scaling).",
+        "source": "https://weetracker.com/2025/04/16/private-equity-dpi-egypt-venture-capital-nclude-fund/"
+      }
+    }
+  },
+  {
+    "name": "Ingressive Capital",
+    "hq": "Lagos, Nigeria",
+    "presenceCountries": [
+      "Nigeria"
+    ],
+    "panAfrican": true,
+    "vintageYear": 2017,
+    "fundSizeUsdM": 50,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 4,
+        "evidence": "Early investor in Paystack, plus fintech names Bamboo, Mono, Grey, Payday across a 52-company portfolio.",
+        "source": "https://www.cbinsights.com/investor/ingressive-capital"
+      },
+      "coInvestmentReputation": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "africanMarketExpertise": {
+        "rating": 3,
+        "evidence": "Branded a Pan-African fund investing in indigenous founders with stated focus on Nigeria, Egypt, Ghana, Kenya and Morocco.",
+        "source": "https://www.ellty.com/investors/lagos-fintech-investors"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": 3,
+        "evidence": "Firm profile notes it leverages a large international network for follow-on funding for portfolio companies.",
+        "source": "https://tracxn.com/d/venture-capital/ingressive-capital/__w8eWO28PM-TgTz4264OmU2DaztVFdQUyNQQi2EI4XYU"
+      },
+      "operationalSupportBench": {
+        "rating": 3,
+        "evidence": "Firm profile describes Ingressive Capital as providing significant operational support to portfolio founders beyond capital.",
+        "source": "https://tracxn.com/d/venture-capital/ingressive-capital/__w8eWO28PM-TgTz4264OmU2DaztVFdQUyNQQi2EI4XYU"
+      },
+      "regulatoryGovRelationships": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": 5,
+        "evidence": "Portfolio includes 6 exits including the acquisitions of Paystack (by Stripe), Mono and Payday \u2014 among the most cited fintech exit track records of any Africa-focused seed fund.",
+        "source": "https://www.cbinsights.com/investor/ingressive-capital"
+      }
+    }
+  },
+  {
+    "name": "DFS Lab",
+    "hq": "Seattle, WA, USA",
+    "presenceCountries": [
+      "Kenya",
+      "Nigeria",
+      "Ghana",
+      "South Africa",
+      "Ethiopia"
+    ],
+    "panAfrican": true,
+    "vintageYear": 2016,
+    "fundSizeUsdM": null,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 4,
+        "evidence": "50+ founding teams and 30+ portfolio companies backed across 10+ African countries at pre-seed/seed, including NALA, Pula and PayHippo.",
+        "source": "https://prodevs.io/accelerators/dfs-labs"
+      },
+      "coInvestmentReputation": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "africanMarketExpertise": {
+        "rating": 5,
+        "evidence": "Presence and research/investment activity documented across 13 African countries with team members based in Lagos and South Africa, most investments concentrated in Kenya and Nigeria.",
+        "source": "https://tracxn.com/d/accelerator-incubator/dfs-lab/__JsEfTpxw91UStcVz2nEvzsXWDKxGFxidf4x6Epp3k9E"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": 2,
+        "evidence": "Team operates out of Seattle and Paris in addition to Lagos, but the firm's network and thesis are overwhelmingly Africa-focused rather than globally cross-border.",
+        "source": "https://www.linkedin.com/company/dfslab"
+      },
+      "operationalSupportBench": {
+        "rating": 4,
+        "evidence": "Hired a dedicated Head of Venture Growth to lead post-investment founder support, reflecting a founder-focused operational partnership model.",
+        "source": "https://medium.com/dfs-lab/dfs-lab-is-adding-two-new-members-based-in-lagos-63a12b163681"
+      },
+      "regulatoryGovRelationships": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": 3,
+        "evidence": "Portfolio companies NALA and Pula both went on to raise substantial follow-on rounds from larger global investors after DFS Lab's early backing.",
+        "source": "https://www.dfs.vc/portfolio.html"
+      }
+    }
+  },
+  {
+    "name": "Verdant Capital",
+    "hq": "Johannesburg, South Africa",
+    "presenceCountries": [
+      "South Africa",
+      "Mauritius",
+      "Ghana",
+      "DR Congo",
+      "Zimbabwe",
+      "Germany"
+    ],
+    "panAfrican": true,
+    "vintageYear": 2022,
+    "fundSizeUsdM": 80,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 3,
+        "evidence": "Named Best FinTech Capital Raising Team Africa 2022, with advisory deal flow in digital payments and financial inclusion, though the firm is investment-bank/advisory led rather than a pure fintech VC.",
+        "source": "https://cfi.co/awards/africa/2022/verdant-capital-best-fintech-capital-raising-team-africa-2022/"
+      },
+      "coInvestmentReputation": {
+        "rating": 3,
+        "evidence": "Advised the sale of Nigerian payments network Baxi to MFS Africa and works alongside European DFIs on inclusive-finance deals.",
+        "source": "https://verdant-cap.com/"
+      },
+      "africanMarketExpertise": {
+        "rating": 5,
+        "evidence": "Genuinely pan-African footprint with regulated offices in South Africa, Mauritius, Ghana, DR Congo and Zimbabwe.",
+        "source": "https://verdant-cap.com/offices/"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": 3,
+        "evidence": "Maintains a Frankfurt, Germany office and structures capital from European DFIs (e.g., DEG/KfW) and the U.S. DFC into African deals.",
+        "source": "https://verdant-cap.com/verdant-capital-advises-usplus-on-its-usd-8-million-senior-unsecured-debt-capital-raise-from-the-u-s-international-development-finance-cooperation-dfc/"
+      },
+      "operationalSupportBench": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "regulatoryGovRelationships": {
+        "rating": 5,
+        "evidence": "Licensed by Mauritius's Financial Services Commission and South Africa's Financial Services Board (FSP 44608), and regularly structures capital alongside DFIs such as the US DFC and Germany's DEG.",
+        "source": "https://verdant-cap.com/verdant-capital-advises-usplus-on-its-usd-8-million-senior-unsecured-debt-capital-raise-from-the-u-s-international-development-finance-cooperation-dfc/"
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": 4,
+        "evidence": "Advised the sale of Baxi (one of Nigeria's largest digital payment networks) to MFS Africa in 2021, and raised an $8M Series A plus $10M follow-on debt for Zeepay.",
+        "source": "https://cfi.co/awards/africa/2022/verdant-capital-best-fintech-capital-raising-team-africa-2022/"
+      }
+    }
+  },
+  {
+    "name": "VentureFriends",
+    "hq": "Athens, Greece",
+    "presenceCountries": [
+      "Greece"
+    ],
+    "panAfrican": false,
+    "vintageYear": 2021,
+    "fundSizeUsdM": 118,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 3,
+        "evidence": "Fintech is one of several core verticals (alongside proptech, marketplaces, SaaS); portfolio includes fintech unicorn Jeeves and Egyptian payment-orchestration startup MoneyHash.",
+        "source": "https://pitchbook.com/profiles/investor/166856-32"
+      },
+      "coInvestmentReputation": {
+        "rating": 4,
+        "evidence": "Co-invested in MoneyHash's $4.5M seed round alongside Sukna Ventures (co-lead), COTU Ventures (co-lead), RZM Investment and Dubai Future District Fund.",
+        "source": "https://techcrunch.com/2024/02/27/moneyhash-raises-4-5m-for-its-payment-orchestration-platform-serving-merchants-in-mena/"
+      },
+      "africanMarketExpertise": {
+        "rating": 2,
+        "evidence": "No dedicated Africa office or team; African exposure limited to a small number of Egypt-based deals such as MoneyHash.",
+        "source": "https://techcrunch.com/2024/02/27/moneyhash-raises-4-5m-for-its-payment-orchestration-platform-serving-merchants-in-mena/"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": 4,
+        "evidence": "Actively invests across Europe, MENA and Latin America, with 2 unicorns (Blueground, Jeeves) demonstrating cross-border scaling capability.",
+        "source": "https://unicorn-nest.com/funds/venturefriends/"
+      },
+      "operationalSupportBench": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "regulatoryGovRelationships": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": 4,
+        "evidence": "Portfolio includes 2 unicorns: Blueground and fintech unicorn Jeeves; also backed InstaShop, which was acquired by Delivery Hero for $360M.",
+        "source": "https://unicorn-nest.com/funds/venturefriends/"
+      }
+    }
+  },
+  {
+    "name": "Sukna Ventures",
+    "hq": "Riyadh, Saudi Arabia",
+    "presenceCountries": [
+      "Saudi Arabia"
+    ],
+    "panAfrican": false,
+    "vintageYear": 2022,
+    "fundSizeUsdM": 80,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 3,
+        "evidence": "Fintech is one of three focus sectors (with digital infrastructure and logistics); over 20 portfolio companies across Saudi Arabia and MENA.",
+        "source": "https://waya.media/sukna-ventures-to-invest-usd-80m-in-saudi-and-mena-startups/"
+      },
+      "coInvestmentReputation": {
+        "rating": 4,
+        "evidence": "Co-led MoneyHash's $4.5M seed round with COTU Ventures, alongside VentureFriends, RZM Investment and Dubai Future District Fund; also co-invested in InfiniLink's $10M seed with MediaTek and Egypt Ventures.",
+        "source": "https://techcrunch.com/2024/02/27/moneyhash-raises-4-5m-for-its-payment-orchestration-platform-serving-merchants-in-mena/"
+      },
+      "africanMarketExpertise": {
+        "rating": 1,
+        "evidence": "Explicitly MENA-focused (Saudi/regional) with essentially no dedicated African team or Africa-specific portfolio presence beyond adjacent Egypt-linked deals.",
+        "source": "https://waya.media/sukna-ventures-to-invest-usd-80m-in-saudi-and-mena-startups/"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "operationalSupportBench": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "regulatoryGovRelationships": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "name": "Accel (U.S.)",
+    "hq": "Palo Alto, California, USA",
+    "presenceCountries": [],
+    "panAfrican": false,
+    "vintageYear": 1983,
+    "fundSizeUsdM": null,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 3,
+        "evidence": "Fintech is one of many global sectors Accel invests in; African/EM fintech depth is limited mainly to Nala (Tanzania-founded cross-border payments) and Zepz.",
+        "source": "https://www.vcsheet.com/fund/accel"
+      },
+      "coInvestmentReputation": {
+        "rating": 5,
+        "evidence": "One of the most recognized global VC brands, with 390+ seed-stage investments and a reputation that makes its participation in a deal a strong signal to co-investors.",
+        "source": "https://www.bloomberg.com/news/articles/2025-02-27/accel-backed-fintech-startup-seeks-120-million-in-funding-round"
+      },
+      "africanMarketExpertise": {
+        "rating": 1,
+        "evidence": "No dedicated Africa office or team; ~$980M invested in African startups is opportunistic global-fund capital rather than continent-focused expertise.",
+        "source": "https://startuplist.africa/investor/accel"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": 5,
+        "evidence": "Top-tier global VC with offices and investment activity across the US, Europe and India, giving portfolio companies an extensive cross-border network.",
+        "source": "https://www.crunchbase.com/organization/accel"
+      },
+      "operationalSupportBench": {
+        "rating": 4,
+        "evidence": "Runs a dedicated portfolio job board and hiring/GTM support infrastructure for portfolio companies (e.g., GTM hiring support for Omnea).",
+        "source": "https://jobs.accel.com/companies/omnea/jobs/76279616-founding-gtm-associate"
+      },
+      "regulatoryGovRelationships": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": 5,
+        "evidence": "Storied track record of major outcomes (e.g., Facebook, Dropbox, Slack) and, in the African fintech context, backed remittance unicorn Zepz through a $40M Series C.",
+        "source": "https://startuplist.africa/investor/accel"
+      }
+    }
+  },
+  {
+    "name": "Speedinvest",
+    "hq": "Vienna, Austria",
+    "presenceCountries": [],
+    "panAfrican": true,
+    "vintageYear": 2026,
+    "fundSizeUsdM": 230,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "coInvestmentReputation": {
+        "rating": 4,
+        "evidence": "New $230M Africa fund is anchored by EIB Global (European Investment Bank), signaling strong institutional credibility and co-investment standing.",
+        "source": "https://www.ecofinagency.com/finance/2704-55037-eib-anchors-speedinvests-230-million-fund-for-africa-and-the-middle-east"
+      },
+      "africanMarketExpertise": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "globalCrossBorderNetwork": {
+        "rating": 5,
+        "evidence": "Global platform with over $2 billion AUM across Europe; new fund explicitly designed to bridge European enterprise customers, regulatory expansion pathways, and follow-on capital into African startups.",
+        "source": "https://launchbaseafrica.com/2026/03/16/europes-eib-backs-speedinvest-to-channel-230m-into-african-fintech-startups/"
+      },
+      "operationalSupportBench": {
+        "rating": 5,
+        "evidence": "Dedicated in-house Platform+ team provides tailored growth marketing, HR/talent, business development and warm intros to 10,000+ corporate leaders for portfolio companies.",
+        "source": "https://www.speedinvest.com/network-and-portfolio-success"
+      },
+      "regulatoryGovRelationships": {
+        "rating": 4,
+        "evidence": "Africa fund is anchored by a $46M commitment from EIB Global, the development-finance arm of the European Investment Bank.",
+        "source": "https://www.eib.org/en/projects/all/20240849"
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "name": "Havaic",
+    "hq": "Cape Town, South Africa",
+    "presenceCountries": [
+      "South Africa"
+    ],
+    "panAfrican": false,
+    "vintageYear": 2024,
+    "fundSizeUsdM": 50,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 4,
+        "evidence": "Fintech investments include SAPay (2025, minibus taxi digital payments), NjiaPay (pan-African payments), Talk360 and Entersekt (fraud/authentication), spanning multiple funds and recent vintages.",
+        "source": "https://www.havaic.com/"
+      },
+      "coInvestmentReputation": {
+        "rating": 4,
+        "evidence": "Regularly co-invests with recognized African/global VCs such as 4Di Capital, Knife Capital and CRE Venture Capital, and its RapidDeploy exit included GM Ventures and Edison Partners as co-investors.",
+        "source": "https://www.africaprivateequitynews.com/p/havaic-and-4di-capital-invest-in-talk360"
+      },
+      "africanMarketExpertise": {
+        "rating": 3,
+        "evidence": "Single office in Cape Town but stated investment focus/activity spans South Africa, Nigeria and Kenya (e.g. lead investment in Kenya's Mpost).",
+        "source": "https://www.techinafrica.com/south-african-advisory-firm-havaic-invests-kenyas-startup-mpost/"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": 3,
+        "evidence": "Portfolio company RapidDeploy was acquired by US-listed Motorola Solutions, with US growth investor Edison Partners and GM Ventures among co-investors, showing a US capital-markets bridge.",
+        "source": "https://weetracker.com/2025/02/24/rapiddeploy-acquired-by-motorola/"
+      },
+      "operationalSupportBench": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "regulatoryGovRelationships": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": 4,
+        "evidence": "Six exits to date including the RapidDeploy sale to Motorola Solutions (one of the largest South African tech exits), with portfolio companies collectively generating $160M in 2025 revenue.",
+        "source": "https://www.itweb.co.za/article/havaic-start-ups-generate-160m-revenue/rW1xL75nXENMRk6m"
+      }
+    }
+  },
+  {
+    "name": "Techstars",
+    "hq": "Boulder, Colorado, USA (global HQ); Africa program based in Nairobi, Kenya and Lagos, Nigeria",
+    "presenceCountries": [
+      "Kenya",
+      "Nigeria",
+      "South Africa"
+    ],
+    "panAfrican": true,
+    "vintageYear": 2021,
+    "fundSizeUsdM": null,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 4,
+        "evidence": "ARM Labs Techstars Lagos accelerator is explicitly focused on early-stage fintech and proptech, and Techstars has backed close to 100 African startups including several fintechs (Quidax, Flexpay, OurPass).",
+        "source": "https://thecondia.com/lagos-techstars-accelerator-arm-labs/"
+      },
+      "coInvestmentReputation": {
+        "rating": 5,
+        "evidence": "Techstars portfolio companies have collectively raised over $300M in follow-on funding from Sequoia, IDG, Greycroft, Tiger Global and SoftBank, reflecting a strong global co-investor network.",
+        "source": "https://techcabal.com/2023/12/14/techstars-second-cohort/"
+      },
+      "africanMarketExpertise": {
+        "rating": 3,
+        "evidence": "Runs dedicated programs with local teams in Nairobi and Lagos (plus a 2016-17 Cape Town Barclays Accelerator), with investments across Nigeria, Kenya and South Africa.",
+        "source": "https://www.techstars.com/newsroom/africas-most-active-startup-investor-techstars-announces-12-new-investments-in-Africa"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": 5,
+        "evidence": "Techstars operates a global accelerator network with community leaders in 130 countries and decades of worldwide mentor/investor relationships.",
+        "source": "https://www.techstars.com/newsroom/techstars-announces-new-community-leadership-team-plans-for-enhanced"
+      },
+      "operationalSupportBench": {
+        "rating": 5,
+        "evidence": "Core model is a structured 3-month mentorship-driven accelerator program with a dedicated global operations/community team supporting founders beyond capital.",
+        "source": "https://www.techstars.com/newsroom/techstars-announces-new-community-leadership-team-plans-for-enhanced"
+      },
+      "regulatoryGovRelationships": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": 4,
+        "evidence": "Barclays Accelerator (powered by Techstars) alumni across London/NY/Tel Aviv/Cape Town amassed over $4bn in combined market cap after seven years of cohorts.",
+        "source": "https://home.barclays/news/2021/09/The-Accelerator-was-a-game-changer-for-us/"
+      }
+    }
+  },
+  {
+    "name": "Edge Growth",
+    "hq": "Johannesburg, South Africa",
+    "presenceCountries": [
+      "South Africa"
+    ],
+    "panAfrican": false,
+    "vintageYear": 2007,
+    "fundSizeUsdM": null,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 3,
+        "evidence": "Direct and managed-fund portfolio includes fintech names (ProfitShare Partners, Inoxico) alongside enterprise/consumer tech, though overall direct portfolio is small (~8 companies).",
+        "source": "https://tracxn.com/d/venture-capital/edge-growth/__jLaiIzIol9_BqYXXr_iET_h2xTQNSWoW-CQTLMGJrwY"
+      },
+      "coInvestmentReputation": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "africanMarketExpertise": {
+        "rating": 2,
+        "evidence": "Funding criteria explicitly restrict investment to businesses located and owned within South Africa; no evidence of multi-country African presence.",
+        "source": "https://edgegrowth.com/funding-criteria/"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "operationalSupportBench": {
+        "rating": 4,
+        "evidence": "Edge Growth's core mandate is enterprise/supplier development fund management, providing growth-strategy support, process streamlining and 'Super Coach' matching to portfolio SMEs via managed funds like Vumela.",
+        "source": "https://edgegrowth.com/fund-management/"
+      },
+      "regulatoryGovRelationships": {
+        "rating": 4,
+        "evidence": "Manages SME/impact funds on behalf of major bank FirstRand/FNB and government-linked entities (e.g. the Jobs Fund via Vumela), and applies IFC-exclusion-list and B-BBEE compliance standards.",
+        "source": "https://edgegrowth.com/fund-management/"
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": 2,
+        "evidence": "Has deployed almost R1.5bn to hundreds of businesses with documented job-creation outcomes, but no major follow-on Series A/B/C rounds or acquisitions were found in public sources.",
+        "source": "https://edgegrowth.com/fund-management/"
+      }
+    }
+  },
+  {
+    "name": "Vumela Fund",
+    "hq": "South Africa (managed by Edge Growth on behalf of FNB Business Banking/FirstRand)",
+    "presenceCountries": [
+      "South Africa"
+    ],
+    "panAfrican": false,
+    "vintageYear": 2009,
+    "fundSizeUsdM": 32,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 3,
+        "evidence": "Fintech investments include ProfitShare Partners (SME profit-share lending) and Inoxico (commercial credit-risk analytics), both fintech-adjacent SME finance plays.",
+        "source": "https://www.bizcommunity.com/Article/196/518/197558.html"
+      },
+      "coInvestmentReputation": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "africanMarketExpertise": {
+        "rating": 1,
+        "evidence": "Fund criteria and deployment are limited to South African SMEs (majority black-owned, under R50m turnover); no evidence of multi-country African activity.",
+        "source": "https://vumelafund.com/about/"
+      },
+      "globalCrossBorderNetwork": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "operationalSupportBench": {
+        "rating": 4,
+        "evidence": "Provides structured non-financial support including the '10X-e' scale-up accelerator programme and 'Super Coaches' who have navigated similar scaling challenges, plus market access via corporate supply-chain relationships.",
+        "source": "https://vumelafund.com/about/"
+      },
+      "regulatoryGovRelationships": {
+        "rating": 4,
+        "evidence": "Capitalised by FirstRand/FNB Business Banking (major SA bank) together with the government-linked Jobs Fund, a strong bank + public-sector LP combination.",
+        "source": "https://vumelafund.com/about/"
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": 2,
+        "evidence": "First three fund phases collectively deployed R404 million across ~21 investments and created over 6,500 jobs (2010-2021), but no major follow-on financings or exits are documented.",
+        "source": "https://www.crunchbase.com/organization/vumela-fund"
+      }
+    }
+  },
+  {
+    "name": "Distributed Capital",
+    "hq": "New York, NY, USA",
+    "presenceCountries": [],
+    "panAfrican": false,
+    "vintageYear": 2017,
+    "fundSizeUsdM": null,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 2,
+        "evidence": "Portfolio is blockchain/crypto-fintech focused (Accrue, Chronicle, Igloo) but is not Africa-specific and depth of dedicated fintech coverage beyond crypto infrastructure is unclear.",
+        "source": "https://www.crunchbase.com/organization/distributed-capital-partners-cd36"
+      },
+      "coInvestmentReputation": {
+        "rating": 3,
+        "evidence": "Co-invested in Accrue's $1.58M seed round alongside Lattice Fund, Kraynos Capital, Lava and Maven 11 \u2014 a recognizable crypto-native VC syndicate.",
+        "source": "https://techpoint.africa/news/accrue-raises-1-58-million-seed-round/"
+      },
+      "africanMarketExpertise": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "globalCrossBorderNetwork": {
+        "rating": 3,
+        "evidence": "US-based fund investing broadly across early-stage blockchain, distributed software and protocol-token companies globally, not regionally concentrated.",
+        "source": "https://www.distributedcapital.io/"
+      },
+      "operationalSupportBench": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "regulatoryGovRelationships": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "name": "Fedgroup Private Capital",
+    "hq": "Sandton, Johannesburg, South Africa",
+    "presenceCountries": [
+      "South Africa"
+    ],
+    "panAfrican": false,
+    "vintageYear": null,
+    "fundSizeUsdM": null,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 1,
+        "evidence": "Fedgroup is fundamentally an asset-backed private credit/lending business (property, energy, agriculture); the only identified fintech-adjacent equity activity is a small $161K seed investment in insurtech LeaseSurance.",
+        "source": "https://startuplist.africa/investor/fedgroup"
+      },
+      "coInvestmentReputation": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "africanMarketExpertise": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "globalCrossBorderNetwork": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "operationalSupportBench": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "regulatoryGovRelationships": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "name": "Kraynos Capital",
+    "hq": "Miami, Florida, USA",
+    "presenceCountries": [],
+    "panAfrican": false,
+    "vintageYear": 2022,
+    "fundSizeUsdM": null,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 2,
+        "evidence": "Small portfolio (roughly 3-6 disclosed investments) at the TradFi/DeFi intersection, including cross-border payments company Caliza and Nigerian fintech Accrue.",
+        "source": "https://tracxn.com/d/venture-capital/kraynos-capital/__hxqsMWjqhAPeLL5NqOJsAsivEBur-hBiOffWTDJvFPI"
+      },
+      "coInvestmentReputation": {
+        "rating": 3,
+        "evidence": "Co-invested alongside reputable crypto VCs including Pantera Capital, Standard Crypto, ParaFi Capital and Distributed Capital Partners across its portfolio.",
+        "source": "https://tracxn.com/d/venture-capital/kraynos-capital/__hxqsMWjqhAPeLL5NqOJsAsivEBur-hBiOffWTDJvFPI"
+      },
+      "africanMarketExpertise": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "globalCrossBorderNetwork": {
+        "rating": 3,
+        "evidence": "Portfolio includes Caliza, a cross-border payments/digital-dollar-account API company, reflecting a global TradFi-DeFi cross-border focus.",
+        "source": "https://tracxn.com/d/venture-capital/kraynos-capital/__hxqsMWjqhAPeLL5NqOJsAsivEBur-hBiOffWTDJvFPI"
+      },
+      "operationalSupportBench": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "regulatoryGovRelationships": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "name": "Lattice Fund",
+    "hq": "United States (San Francisco / New York)",
+    "presenceCountries": [],
+    "panAfrican": false,
+    "vintageYear": 2021,
+    "fundSizeUsdM": 60,
+    "dimensions": {
+      "fintechPortfolioDepth": {
+        "rating": 3,
+        "evidence": "81-project crypto portfolio includes fintech-relevant names like Accrue and Daya (African cross-border payments) alongside Immunefi and Protocol Labs, but depth is crypto-infrastructure-wide rather than fintech-specific.",
+        "source": "https://www.lattice.fund/writing-and-press/investing-in-accrue"
+      },
+      "coInvestmentReputation": {
+        "rating": 4,
+        "evidence": "Led Accrue's seed alongside Kraynos Capital, Distributed Capital, Lava and Maven 11, and co-invested in Daya with Hivemind Capital, Alliance and Aptos Network; institutional LP Accolade Partners also backs the fund.",
+        "source": "https://techpoint.africa/news/accrue-raises-1-58-million-seed-round/"
+      },
+      "africanMarketExpertise": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "globalCrossBorderNetwork": {
+        "rating": 4,
+        "evidence": "Founding team scaled Solana, OpenSea and CoinList (including CoinList Seed), giving the fund deep global crypto-network reach; second fund raised $60M in 2022.",
+        "source": "https://www.dlnews.com/articles/markets/crypto-vc-lattice-raises-third-fund-in-surging-crypto-market/"
+      },
+      "operationalSupportBench": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "regulatoryGovRelationships": {
+        "rating": null,
+        "evidence": null,
+        "source": null
+      },
+      "historicalInvestmentOutcomes": {
+        "rating": 3,
+        "evidence": "Co-founder Regan Bozman was an early investor in OpenSea's seed round (a major crypto success), and the fund's broader portfolio includes Protocol Labs/Filecoin.",
+        "source": "https://www.decentralised.co/p/crystal-clear-lattice"
+      }
+    }
+  }
+]

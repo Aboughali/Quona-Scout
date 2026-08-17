@@ -1,0 +1,44 @@
+{
+  "_note": "Authoritative snapshot of ALL in-app manual overrides, taken after the Excel-authority fix. Restore with the app's Import Backup button. Supersedes manual-overrides-20260814-191159.json, which captured only 2 of the 4 overrides.",
+  "schemaVersion": 2,
+  "exportedAt": "2026-08-14T16:56:41.885Z",
+  "userName": "Investor",
+  "fieldEdits": {
+    "honeycoin": {
+      "classifications.multiMarket": {
+        "fieldPath": "classifications.multiMarket",
+        "originalValue": false,
+        "originalSource": "HQ/base = Kenya; no multi-market evidence found",
+        "currentValue": true, "isOverridden": true, "sources": [],
+        "history": [{"id":"5i3628tvbjhmst525sl","timestamp":"2026-08-14T16:05:33.525Z","user":"Investor","kind":"override","previousValue":false,"newValue":true,"reason":"operational in 32 african markets","source":"https://honeycoin.app/coverage","confidence":"Medium"}]
+      }
+    },
+    "numida": {
+      "classifications.multiMarket": {
+        "fieldPath": "classifications.multiMarket",
+        "originalValue": false,
+        "originalSource": "HQ/base = Uganda; no multi-market evidence found",
+        "currentValue": true, "isOverridden": true, "sources": [],
+        "history": [{"id":"3og30uzygnzmst54j8m","timestamp":"2026-08-14T16:07:24.262Z","user":"Investor","kind":"override","previousValue":false,"newValue":true,"reason":"Uganda, Tanzania, Rwanda, Kenya","source":"Founder meeting","confidence":"Medium"}]
+      },
+      "classifications.strongSyndicate": {
+        "fieldPath": "classifications.strongSyndicate",
+        "originalValue": false,
+        "originalSource": "Automated: no investor met the binary rubric",
+        "currentValue": true, "isOverridden": true, "sources": [],
+        "history": [{"id":"knfkpupjckmst5kd09","timestamp":"2026-08-14T16:19:42.681Z","user":"Investor","kind":"override","previousValue":false,"newValue":true,"reason":"strong syndicate","source":"YCombinator","confidence":"Medium"}]
+      }
+    },
+    "scale": {
+      "classifications.strongSyndicate": {
+        "fieldPath": "classifications.strongSyndicate",
+        "originalValue": false,
+        "originalSource": "Automated: no investor met the binary rubric",
+        "currentValue": true, "isOverridden": true, "sources": [],
+        "history": [{"id":"qqqtvuai67mst5lf5c","timestamp":"2026-08-14T16:20:32.112Z","user":"Investor","kind":"override","previousValue":false,"newValue":true,"reason":"good enough syndicate","source":".","confidence":"Medium"}]
+      }
+    }
+  },
+  "commentary": {},
+  "manualCompanies": []
+}
