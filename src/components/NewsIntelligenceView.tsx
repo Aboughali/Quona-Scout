@@ -67,9 +67,14 @@ export function NewsIntelligenceView() {
       if (!res.ok) throw new Error(`Status endpoint returned HTTP ${res.status}`);
       setStatus(await res.json());
       setLoadError(null);
-    } catch (err) {
+    } catch {
+      // The live scan runner is a dev-server endpoint and is intentionally absent from the
+      // static production build (see vite.config.ts). This is expected on the deployed site, so
+      // the message is framed as a deliberate limitation rather than an error -- the historical
+      // news dataset shown on each company profile does not depend on it.
       setLoadError(
-        `Could not reach the local scan runner. It is served by the Vite dev server, so it is only available under \`npm run dev\` (not \`vite preview\` or a static build). ${(err as Error).message}`
+        'Live web scanning is disabled in this deployed prototype — it runs only in the local development environment. ' +
+        'The historical News & Intelligence dataset below and on each company profile is served from the build and is fully available.'
       );
     }
   }, []);
@@ -116,7 +121,7 @@ export function NewsIntelligenceView() {
           disabled={running || !!loadError}
           className="text-xs px-3 py-1.5 rounded-md bg-[var(--accent)] text-[#0b0c10] font-semibold disabled:opacity-40"
         >
-          {running ? 'Scanning…' : 'Run Web Scan Now'}
+          {running ? 'Scanning…' : loadError ? 'Live Scan Unavailable' : 'Run Web Scan Now'}
         </button>
       </div>
 

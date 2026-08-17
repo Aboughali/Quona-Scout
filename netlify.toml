@@ -1,0 +1,23 @@
+# Netlify build configuration for Quona Scout (standard Vite static build).
+#
+# Build:    `npm run build` runs `tsc -b && vite build`, emitting the static site to `dist/`.
+# Publish:  `dist/` is the Vite output directory.
+# Redirect: the app is a single-page app served entirely from index.html. There is no
+#           server-side routing and no /src/data runtime path in the production bundle -- the
+#           news JSON is emitted into /assets with a content hash and referenced directly -- so
+#           the catch-all below only exists as a safety net for any unknown path, returning the
+#           app shell with a 200 rather than a 404.
+#
+# No environment variables are required for the deployed site: the live web-scan and traction
+# endpoints are dev-only Vite middleware and are absent from the static build by design. Do NOT
+# set APIFY_TOKEN or ANTHROPIC_API_KEY in Netlify -- they are server-side secrets with no
+# consumer in the deployed frontend.
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

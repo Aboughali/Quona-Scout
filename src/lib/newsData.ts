@@ -2,11 +2,21 @@
  * Read-only access to the Phase 1/2 scan outputs.
  *
  * These files are written by the Node scan runner, not by the app, so they are FETCHED at
- * runtime rather than imported: a scan can then refresh the UI without a rebuild. Nothing here
- * writes -- turning a signal into company data goes through the normal editor mechanisms
- * (addManualCompany / round field-edits), so the funnel and syndicate scoring recompute exactly
- * as they do for a manual entry.
+ * runtime rather than imported into the component tree: a scan can then refresh the UI without a
+ * rebuild. Nothing here writes -- turning a signal into company data goes through the normal
+ * editor mechanisms (addManualCompany / round field-edits), so the funnel and syndicate scoring
+ * recompute exactly as they do for a manual entry.
+ *
+ * The URLs are produced by Vite's `?url` asset mechanism rather than being hard-coded to
+ * `/src/data/...`. Under `npm run dev` this resolves to the source file (so a fresh scan is
+ * still picked up on reload); under `vite build` each file is emitted into `dist/assets/` with a
+ * content hash and the import resolves to that hashed path. This is what makes the news feed
+ * work in the production build and on Netlify -- a bare `/src/data/...` fetch only exists while
+ * the dev server is running and 404s in a static deploy.
  */
+import newsFindingsUrl from '../data/news_findings.json?url';
+import newsSignalsUrl from '../data/news_signals.json?url';
+import scanRunsUrl from '../data/scan_runs.json?url';
 
 export interface NewsFinding {
   finding_id: string;
@@ -80,11 +90,11 @@ async function fetchJson<T>(path: string, fallback: T): Promise<T> {
 }
 
 export function loadNewsFindings(): Promise<NewsFinding[]> {
-  return fetchJson<NewsFinding[]>('/src/data/news_findings.json', []);
+  return fetchJson<NewsFinding[]>(newsFindingsUrl, []);
 }
 
 export function loadNewsSignals(): Promise<NewsSignal[]> {
-  return fetchJson<NewsSignal[]>('/src/data/news_signals.json', []);
+  return fetchJson<NewsSignal[]>(newsSignalsUrl, []);
 }
 
 /** One entry per scan, written by the runner. Read here purely so the news feed can say when
@@ -97,7 +107,7 @@ export interface ScanRunSummary {
 }
 
 export function loadScanRuns(): Promise<ScanRunSummary[]> {
-  return fetchJson<ScanRunSummary[]>('/src/data/scan_runs.json', []);
+  return fetchJson<ScanRunSummary[]>(scanRunsUrl, []);
 }
 
 /** The scan's own lookback window (config/news_sources.json -> defaults.lookbackDays = 1095).
