@@ -196,25 +196,34 @@ export function resolveCompany(raw: Company, edits: EditsStore, fundIndex: Map<s
   const autoGate = computeSyndicateGate(resolvedForGate, fundIndex, metricsIndex);
   const strongSyndicateField = edits[id]?.['classifications.strongSyndicate'];
   const syndicateRes = resolveClassification(raw, edits, 'classifications.strongSyndicate', autoGate.pass);
-  // A seed-baked investor-judgment promotion carried in the dataset itself
-  // (overrides.syndicateJudgment) -- the Stage-5 analogue of overrides.geography3Markets /
-  // fintechPivot for the earlier stages (see getFieldDefault in fields.ts). It stands in for a
-  // live strongSyndicate edit so a deliberate judgment call survives a fresh browser or a deploy
-  // with an empty localStorage, but a live edit still supersedes it (same precedence as the ETL
-  // overrides upstream: the localStorage edit layer always wins when present).
-  const seedSyndicateJudgment = raw.overrides?.syndicateJudgment?.active === true;
-  const strongSyndicate = strongSyndicateField ? syndicateRes.value : (autoGate.pass || seedSyndicateJudgment);
+  // A seed-baked investor-judgment call carried in the dataset itself (overrides.syndicateJudgment)
+  // -- the Stage-5 analogue of overrides.geography3Markets / fintechPivot for the earlier stages
+  // (see getFieldDefault in fields.ts). It is directional: value:false REJECTS a syndicate the
+  // automated gate would otherwise pass (analyst deems it weak), while active with value true/
+  // undefined CONFIRMS one the gate misses. Either way it stands in for a live strongSyndicate edit
+  // so a deliberate judgment call survives a fresh browser or a deploy with an empty localStorage,
+  // but a live edit still supersedes it (same precedence as the ETL overrides upstream).
+  const seedJudgment = raw.overrides?.syndicateJudgment;
+  const seedRejects = seedJudgment?.active === true && seedJudgment.value === false;
+  const seedConfirms = seedJudgment?.active === true && seedJudgment.value !== false;
+  const strongSyndicate = strongSyndicateField
+    ? syndicateRes.value
+    : seedRejects
+      ? false
+      : (autoGate.pass || seedConfirms);
   const syndicateOverridden = !!strongSyndicateField?.isOverridden && !syndicateRes.superseded;
   const stage5Pass = passedContent && strongSyndicate;
   const stage5Reason = syndicateRes.superseded
     ? `Automated: ${autoGate.pass ? `qualifying anchor ${autoGate.qualifyingInvestor}` : 'no named investor met the binary syndicate-strength rubric'} — re-derived after you edited ${syndicateRes.supersededBy.join(', ')}`
     : syndicateOverridden
       ? `Investor judgment: ${strongSyndicate ? 'Strong syndicate confirmed' : 'Syndicate rejected'} — ${strongSyndicateField!.history.at(-1)?.reason ?? ''}`
-      : autoGate.pass
-        ? `Automated: qualifying anchor ${autoGate.qualifyingInvestor}`
-        : seedSyndicateJudgment
-          ? `Investor judgment: Strong syndicate confirmed — ${raw.overrides.syndicateJudgment.note}`
-          : 'Automated: no named investor met the binary syndicate-strength rubric';
+      : seedRejects
+        ? `Investor judgment: Syndicate rejected — ${seedJudgment!.note}`
+        : autoGate.pass
+          ? `Automated: qualifying anchor ${autoGate.qualifyingInvestor}`
+          : seedConfirms
+            ? `Investor judgment: Strong syndicate confirmed — ${seedJudgment!.note}`
+            : 'Automated: no named investor met the binary syndicate-strength rubric';
 
   return {
     ...raw,

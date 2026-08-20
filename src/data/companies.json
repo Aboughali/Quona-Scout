@@ -824,8 +824,9 @@
         "note": ""
       },
       "syndicateJudgment": {
-        "active": false,
-        "note": ""
+        "active": true,
+        "value": false,
+        "note": "Weak syndicate — no anchor with demonstrated local presence + Series A follow-on depth; automated qualifying anchor does not meet the qualitative bar on closer review"
       }
     },
     "cutStage": null,
@@ -51918,6 +51919,11 @@
       "Catherine Denis",
       "Ben Best"
     ],
+    "operatingCountries": [
+      "Uganda",
+      "Kenya",
+      "Rwanda"
+    ],
     "investors": [
       "4Di Capital",
       "Alibaba Foundation",
@@ -52046,10 +52052,10 @@
       "reason": "No Series A or later round found in gold sheet history"
     },
     "stage4": {
-      "pass": false,
-      "reason": "HQ/base = Uganda; no multi-market evidence found",
+      "pass": true,
+      "reason": "Operates in Uganda, Kenya and Rwanda — clears the 3+ African markets bar",
       "autoPass": false,
-      "multiMarketSignal": false
+      "multiMarketSignal": true
     },
     "stage5": {
       "pass": null,
@@ -52061,8 +52067,8 @@
         "note": ""
       },
       "geography3Markets": {
-        "active": false,
-        "note": ""
+        "active": true,
+        "note": "Live MSME lending operations across Uganda, Kenya and Rwanda (120k+ MSMEs served); further East/West African markets on the expansion roadmap"
       },
       "fintechPivot": {
         "active": false,

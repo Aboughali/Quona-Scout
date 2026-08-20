@@ -51,6 +51,11 @@ export interface StageResult {
 export interface Override {
   active: boolean;
   note: string;
+  /** Optional direction for a seed-baked judgment, currently honored only by
+   *  overrides.syndicateJudgment (see lib/resolve.ts): value:false REJECTS a syndicate the
+   *  automated Stage-5 gate would otherwise pass, while true/undefined CONFIRMS one it misses.
+   *  The other override slots are one-directional promotions and leave this unset. */
+  value?: boolean;
 }
 
 export interface Overrides {
